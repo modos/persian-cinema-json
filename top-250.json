@@ -7,7 +7,7 @@
         "director": "Frank Darabont",
         "acts": ["Morgran Freeman", "Time Robbins", "William Sadler", "Bob Gunton"],
         "imdb": 9.3,
-        "thumbnail": "./The-Shawshank-Redemption.jpg"
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Shawshank-Redemption.jpg"
     },
     {
         "name_english": "The Godfather",
@@ -17,7 +17,7 @@
         "director": "Francis Ford Coppola",
         "acts": ["Al Pacino", "Marlon Brando", "James Caan", "Diane Keaton"],
         "imdb": 9.2,
-        "thumbnail": "./The-Godfather.jpg"
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Godfather.jpg"
     },
     {
         "name_english": "The Dark Knight",
@@ -27,7 +27,7 @@
         "director": "Christopher Nolan",
         "acts": ["Christian Bale", "Heath Ledger", "Michael Caine", "Aaron Eckhart"],
         "imdb": 9.0,
-        "thumbnail": "./The-Dark-Knight.jpg"
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Dark-Knight.jpg"
     },
     {
         "name_english": "The Godfather 2",
@@ -37,7 +37,7 @@
         "director": "Francis Ford Coppola",
         "acts": ["Al Pacino", "Diane Keaton", "Robert De Niro", "Robert Duvall"],
         "imdb": 9.0,
-        "thumbnail": "./The-Godfather-2.jpg"
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Godfather-2.jpg"
     },
     {
         "name_english": "The Lord of the Rings: The Return of the King",
@@ -47,6 +47,6 @@
         "director": "Peter Jackson",
         "acts": ["Elijah Wood", "Ian McKellen", "Orlando Bloom", "Viggo Mortensen"],
         "imdb": 8.9,
-        "thumbnail": "./The-Lord-of-the-Rings-The-Return-of-the-King.jpg"
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Lord-of-the-Rings-The-Return-of-the-King.jpg"
     }
 ]
