@@ -1,0 +1,42 @@
+[
+    {
+        "name_english": "The Shawshank Redemption",
+        "name_persian": "رستگاری در شاوشنک",
+        "year": 1994,
+        "story": "فیلم رستگاری در شاوشنک (The Shawshank Redemption) اندی دوفرین بانکدار جوانی است که به جرم قتل همسر اش به حبس ابد در زندان ایالتی شائوشنک محکوم می شود. وی تأکید می کند که جرمی مرتکب نشده، ولی قاضی او را گناهکار اعلام میکند. او سالهای زیادی را در این زندان می گذراند. آلیس بوید رِدینگ یکی از زندانی های سیاه پوست است که به این شهرت دارد که می تواند هر چیزی را در زندان فراهم کند و ...",
+        "director": "Frank Darabont",
+        "acts": ["Morgran Freeman", "Time Robbins", "William Sadler", "Bob Gunton"],
+        "imdb": 9.3,
+        "thumbnail": "./The-Shawshank-Redemption.jpg"
+    },
+    {
+        "name_english": "The Godfather",
+        "name_persian": "پدرخوانده",
+        "year": 1972,
+        "story": "فیلم پدرخوانده (The Godfather) فیلم در جشن عروسی کانی، دختر دون ویتو کورلئونه، در لانگ بیچ نیویورک، لانگ آیلند شروع می شود. وقت پدرخوانده برای شنیدن خواهش های دوستان و زیردستان چاپلوس پر شده است. یکی از این خواهش ها را پسرخوانده ی او، جانی فونتی خواننده مطرح می کند. آن خواهش چیست؟",
+        "director": "Francis Ford Coppola",
+        "acts": ["Al Pacino", "Marlon Brando", "James Caan", "Diane Keaton"],
+        "imdb": 9.2,
+        "thumbnail": "./The-Godfather.jpg"
+    },
+    {
+        "name_english": "The Dark Knight",
+        "name_persian": "شوالیه تاریکی",
+        "year": 2008,
+        "story": "فیلم شوالیه تاریکی (The Dark Knight) بتمن به کمک سرگرد جیم گوردون و دادستان جدید هاروی دنت، شهر را از وجود آخرین خانواده‌های تبهکاری پاک می کند.اکنون به نظر می رسد با تلاشها و همکاری های این سه نفر مردم شهر احساس آرامش می کنند. اما این وضعیت پایدار نمی ماند زیرا یک جنایتکار روانی و بسیار باهوش به اسم جوکر با نقشه هایش می کوشد تا آرامش شهر را بهم زده و در دل مردم رعب و وحشت بیاندازد تا با اینکار...",
+        "director": "Christopher Nolan",
+        "acts": ["Christian Bale", "Heath Ledger", "Michael Caine", "Aaron Eckhart"],
+        "imdb": 9.0,
+        "thumbnail": "./The-Dark-Knight.jpg"
+    },
+    {
+        "name_english": "The Godfather 2",
+        "name_persian": "پدرخوانده 2",
+        "year": 1974,
+        "story": "فیلم پدرخوانده 2 (The Godfather: Part II) مایکل کورلئونه (پاچینو) درگیر سرو سامان بخشیدن به امپراتوری ای است که از پدرش، «دون ویتو» (براندو) به ارث برده است. داستان مهاجرت او از سیسیل به آمریکا و چگونگی رسیدن او به قدرت را نشان می دهد ...",
+        "director": "Francis Ford Coppola",
+        "acts": ["Al Pacino", "Diane Keaton", "Robert De Niro", "Robert Duvall"],
+        "imdb": 9.0,
+        "thumbnail": "./The-Godfather-2.jpg"
+    }
+]
