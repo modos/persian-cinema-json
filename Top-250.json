@@ -38,5 +38,15 @@
         "acts": ["Al Pacino", "Diane Keaton", "Robert De Niro", "Robert Duvall"],
         "imdb": 9.0,
         "thumbnail": "./The-Godfather-2.jpg"
+    },
+    {
+        "name_english": "The Lord of the Rings: The Return of the King",
+        "name_persian": "ارباب حلقه‌ها: بازگشت پادشاه",
+        "year": 2003,
+        "story": "فیلم ارباب حلقه‌ها بازگشت پادشاه (The Lord of the Rings: The Return of the King) «فرودو» و «سم» با راهنمایی «گالوم»، به مسیرشان به سمت کوه نابودی ادامه می‌دهند، در حالی که مطمئن نیستند او به چه سمتی هدایتشان می‌کند. باقیمانده یاران حلقه، مردم «گاندور» و «روهان» را در نبردی عظیم علیه نیروهای «سائورون»، یاری می‌کنند و...",
+        "director": "Peter Jackson",
+        "acts": ["Elijah Wood", "Ian McKellen", "Orlando Bloom", "Viggo Mortensen"],
+        "imdb": 8.9,
+        "thumbnail": "./The-Lord-of-the-Rings-The-Return-of-the-King.jpg"
     }
 ]
