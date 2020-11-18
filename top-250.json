@@ -7,6 +7,7 @@
         "director": "Frank Darabont",
         "acts": ["Morgran Freeman", "Time Robbins", "William Sadler", "Bob Gunton"],
         "imdb": 9.3,
+        "genre": ["درام"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Shawshank-Redemption.jpg"
     },
     {
@@ -17,6 +18,7 @@
         "director": "Francis Ford Coppola",
         "acts": ["Al Pacino", "Marlon Brando", "James Caan", "Diane Keaton"],
         "imdb": 9.2,
+        "genre": ["جنایی", "درام"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Godfather.jpg"
     },
     {
@@ -27,6 +29,7 @@
         "director": "Christopher Nolan",
         "acts": ["Christian Bale", "Heath Ledger", "Michael Caine", "Aaron Eckhart"],
         "imdb": 9.0,
+        "genre": ["جنایی", "اکشن"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Dark-Knight.jpg"
     },
     {
@@ -37,6 +40,7 @@
         "director": "Francis Ford Coppola",
         "acts": ["Al Pacino", "Diane Keaton", "Robert De Niro", "Robert Duvall"],
         "imdb": 9.0,
+        "genre": ["جنایی", "درام"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Godfather-2.jpg"
     },
     {
@@ -47,6 +51,18 @@
         "director": "Peter Jackson",
         "acts": ["Elijah Wood", "Ian McKellen", "Orlando Bloom", "Viggo Mortensen"],
         "imdb": 8.9,
+        "genre": ["جنایی", "فانتزی"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Lord-of-the-Rings-The-Return-of-the-King.jpg"
+    },
+    {
+        "name_english": "Pulp Fiction",
+        "name_persian": "داستان عامه پسند",
+        "year": 1994,
+        "story": "فیلم داستان عامه پسند (Pulp Fiction) روایت‌گر ماجراهایی با خطوط داستانی متقاطع از دو گانگستر، یک بوکسور، همسر یک گانگستر و یک کیف اسرارآمیز است که با پرش های زمانی و گونه ای خاص روایت می شود...",
+        "director": "Quentin Tarantino",
+        "acts": ["Bruce Willis", "John Travolta", " Samuel L. Jackson", "Uma Thurman"],
+        "imdb": 8.9,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": ""
     }
 ]
