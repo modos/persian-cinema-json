@@ -74,7 +74,7 @@
         "cast": ["Ben Kingsley", "Caroline Goodall", "Liam Neeson", "Ralph Fiennes"],
         "imdb": 8.9,
         "genre": ["تاریخی", "بیوگرافی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Schindlers-List.jpg"
     },
     {
         "name_english": "Inception",
@@ -85,7 +85,7 @@
         "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Tom Hardy", "Ken Watanabe"],
         "imdb": 8.8,
         "genre": ["اکشن","تخیلی","علمی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Inception.jpg"
     },
     {
         "name_english": "Fight Club",
@@ -96,7 +96,7 @@
         "cast": ["Brad Pitt", "Edward Norton", "Meat Loaf", "Zach Grenier"],
         "imdb": 8.8,
         "genre": ["درام"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Fight-Club.jpg"
     },
     {
         "name_english": "The Lord of the Rings: The Fellowship of the Ring",
@@ -107,7 +107,7 @@
         "cast": ["Elijah Wood", "Ian McKellen", "Orlando Bloom", "Shean Bean"],
         "imdb": 8.8,
         "genre": ["اکشن", "درام"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Lord-of-the_Rings-The-Fellowship-of-the-Ring.jpg"
     },
     {
         "name_english": "Forrest Gump",
@@ -118,18 +118,18 @@
         "cast": ["Tom Hanks", "Sally Field", "Gary Sinise", "Sally Field"],
         "imdb": 8.8,
         "genre": ["رمانتیک", "درام"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Forrest-Gump.jpg"
     },
     {
         "name_english": "The Good the Bad and the Ugly",
         "name_persian": "خوب بد زشت",
-        "year": 1996,
-        "story": "فیلم فارست گامپ (Forrest Gump) آی کیوی او در خردسالی زیر حد معمولی (۷۵) بود، شخصیت شیرین و عزیزی دارد و نسبت به عزیزان و وظایف خود از خود گذشته‌است. صفات شخصیتی او باعث می‌شود که موقعیت‌هایی برایش پیش آید که مسیر زندگیش را تغییر دهد. با پیش آمدن چنین موقعیت‌هایی او با رخدادها و شخصیت‌های برجسته تاریخ معاصر آمریکا مواجه می‌شود.",
+        "year": 1966,
+        "story": "فیلم خوب بد زشت (The Good the Bad and the Ugly) بلوندی هفت تیرکش حرفه ای است که برای به دست آوردن پول تلاش می کند. آنجل آیز آدمکشی است که به هر نحوی دستورات را اجرا می کند به شرطی که دستمزدش پرداخت شود. توکو قانون شکنی تحت تعقیب است که از چیزهای که مخفی کرده محافظت می کند. توکو و بلوندی برای بدست آوردن پول با هم شریک می شوند، اما زمانی که بلوندی بر سر قرار پایبند نمی ماند...",
         "director": "Sergio Leone",
         "cast": ["Aldo Giuffrè", "Clint Eastwood", "Eli Wallach", "Lee Van Cleef"],
         "imdb": 8.8,
         "genre": ["وسترن"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Good-the-Bad-and-the-Ugly.jpg"
     },
     {
         "name_english": "The Lord of the Rings: The Two Towers",
@@ -140,7 +140,7 @@
         "cast": ["Elijah Wood", "Ian McKellen", "Orlando Bloom", "Viggo Mortensen"],
         "imdb": 8.7,
         "genre": ["درام", "فانتزی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Lord-of-the-Rings-The-Two-Towers.jpg"
     },
     {
         "name_english": "The Matrix",
@@ -151,7 +151,7 @@
         "cast": ["Keanu Reeves", "Hugo Weaving", "Carrie-Anne Moss", "Laurence Fishburne"],
         "imdb": 8.7,
         "genre": ["علمی", "اکشن", "تخیلی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Matrix.jpg"
     },
     {
         "name_english": "One Flew Over the Cuckoos Nest",
@@ -162,7 +162,7 @@
         "cast": ["Jack Nicholson", "Will Sampson", "Michael Berryman", "Louise Fletcher"],
         "imdb": 8.7,
         "genre": ["درام"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/One-Flew-Over-the-Cuckoos-Nest.jpg"
     },
     {
         "name_english": "Harakiri",
@@ -173,18 +173,7 @@
         "cast": ["Akira Ishihama", "Shima Iwashita", "Tatsuya Nakadai", "Tetsurô Tanba"],
         "imdb": 8.7,
         "genre": ["درام", "اکشن"],
-        "thumbnail": ""
-    },
-    {
-        "name_english": "Harakiri",
-        "name_persian": "هاراگیری",
-        "year": 1962,
-        "story": "فیلم هاراگیری (Harakiri) دربارهٔ یک سامورایی است که به یک رونین تبدیل شده. او با دختر خوانده و دامادش زندگی میکند و زندگی سختی را در فقر می گذرانند و همین جریان باعث میشود دامادش برای دریافت پول به خانهٔ یکی از اربابانِ اِدو برود و تهدید به هاراگیری کند اما...",
-        "director": "Masaki Kobayashi",
-        "cast": ["Akira Ishihama", "Shima Iwashita", "Tatsuya Nakadai", "Tetsurô Tanba"],
-        "imdb": 8.7,
-        "genre": ["درام", "اکشن"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Harakiri.jpg"
     },
     {
         "name_english": "Parasite",
@@ -195,7 +184,7 @@
         "cast": ["Kang-ho Song", "Sun-kyun Lee", "Woo-sik Choi", "Yeo-jeong Jo"],
         "imdb": 8.6,
         "genre": ["درام", "هیجان انگیز"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Parasite.jpg"
     },
     {
         "name_english": "The Interstellar",
@@ -206,7 +195,7 @@
         "cast": ["Matthew McConaughey", "Mackenzie Foy", "Jessica Chastain", "Anne Hathaway"],
         "imdb": 8.6,
         "genre": ["درام", "علمی", "تخیلی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Interstellar.jpg"
     },
     {
         "name_english": "City of God",
@@ -217,7 +206,7 @@
         "cast": ["Alexandre Rodrigues", "Phellipe Haagensen", "Matheus Nachtergaele", "Leandro Firmino"],
         "imdb": 8.6,
         "genre": ["درام", "جنایی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/City-of-God.jpg"
     },
     {
         "name_english": "Spirited Away",
@@ -228,7 +217,7 @@
         "cast": ["Daveigh Chase", "Suzanne Pleshette", "Rumi Hiiragi", "Miyu Irino"],
         "imdb": 8.6,
         "genre": ["انیمیشن", "خانوادگی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Spirited-Away.jpg"
     },
     {
         "name_english": "Saving Private Ryan",
@@ -239,7 +228,7 @@
         "cast": ["Tom Hanks", "Edward Burns", "Matt Damon", "Tom Sizemore"],
         "imdb": 8.6,
         "genre": ["درام", "جنگی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Saving-Private-Ryan.jpg"
     },
     {
         "name_english": "The Green Mile",
@@ -250,7 +239,7 @@
         "cast": ["Tom Hanks", "Bonnie Hunt", "David Morse", "Michael Clarke Duncan"],
         "imdb": 8.6,
         "genre": ["درام", "جنایی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Green-Mile.jpg"
     },
     {
         "name_english": "Life Is Beautiful",
@@ -261,7 +250,7 @@
         "cast": ["Giorgio Cantarini", "Roberto Benigni", "Nicoletta Braschi", "Giustino Durano"],
         "imdb": 8.6,
         "genre": ["درام", "جنایی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Life-Is-Beautiful.jpg"
     },
     {
         "name_english": "Seven",
@@ -272,7 +261,7 @@
         "cast": ["Brad Pitt", "Morgan Freeman", "Kevin Spacey", "Andrew Kevin Walker"],
         "imdb": 8.6,
         "genre": ["درام", "جنایی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Seven.jpg"
     },
     {
         "name_english": "The Silence of the Lambs",
@@ -283,7 +272,7 @@
         "cast": ["Anthony Hopkins", "Jodie Foster", "Kasi Lemmons", "Kasi Lemmons"],
         "imdb": 8.6,
         "genre": ["درام", "جنایی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Silence-of-the-Lambs.jpg"
     },
     {
         "name_english": "Star Wars 4: A New Hope",
@@ -294,7 +283,7 @@
         "cast": ["Harrison Ford", "Mark Hamill", "Carrie Fisher", "Alec Guinness"],
         "imdb": 8.6,
         "genre": ["علمی", "اکشن", "تخیلی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Star-Wars-4-A-New-Hope.jpg"
     },
     {
         "name_english": "Joker",
@@ -305,7 +294,7 @@
         "cast": ["Joaquin Phoenix", "Frances Conroy", "Robert De Niro", "Zazie Beetz"],
         "imdb": 8.5,
         "genre": ["اکشن", "درام"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Joker.jpg"
     },
     {
         "name_english": "Whiplash",
@@ -316,7 +305,7 @@
         "cast": ["J.K. Simmons", "Paul Reiser", "Miles Teller", "Melissa Benoist"],
         "imdb": 8.5,
         "genre": ["موزیک", "درام"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Whiplash.jpg"
     },
     {
         "name_english": "The Intouchables",
@@ -327,7 +316,7 @@
         "cast": ["Anne Le Ny", "Omar Sy", "François Cluzet", "Audrey Fleurot"],
         "imdb": 8.5,
         "genre": ["بیوگرافی", "درام"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Intouchables.jpg"
     },
     {
         "name_english": "The Prestige",
@@ -338,84 +327,216 @@
         "cast": ["Christian Bale", "Scarlett Johansson", "Michael Caine", "Hugh Jackman"],
         "imdb": 8.5,
         "genre": ["رازآلود", "درام"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Prestige.jpg"
     },
     {
         "name_english": "The Departed",
         "name_persian": "رفتگان",
         "year": 2006,
-        "story": "Martin Scorsese",
-        "director": "فیلم رفتگان (The Departed) در مورد یک پلیس مخفی در یک گروه تبهکاری و یک جاسوس از همان گروه در بین پلیس ها است که تلاش میکنند تا یکدیگر را شناسایی کنند در حالی که پلیس به شدت با این گروه تبهکاری در جنگ است...",
+        "story": "فیلم رفتگان (The Departed) در مورد یک پلیس مخفی در یک گروه تبهکاری و یک جاسوس از همان گروه در بین پلیس ها است که تلاش میکنند تا یکدیگر را شناسایی کنند در حالی که پلیس به شدت با این گروه تبهکاری در جنگ است...",
+        "director": "Martin Scorsese",
         "cast": ["Jack Nicholson", "Leonardo DiCaprio", "Matt Damon", "Mark Wahlberg"],
         "imdb": 8.5,
         "genre": ["جنایی", "درام"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Departed.jpg"
     },
     {
         "name_english": "The Pianist",
-        "name_persian": "رفتگان",
+        "name_persian": "پیانسیت",
         "year": 2002,
-        "story": "Roman Polanski",
-        "director": "فیلم پیانیست (The Pianist) در طول روزهایی که شهر ورشو پایتخت لهستان به اشغال نیروهای آلمان نازی درآمده و محله‌های یهودی‌نشین یکی پس از دیگری تخریب می‌شوند، یک موسیقی‌دان یهودی برای حفظ جان خود دست به هرکاری می‌زند و...",
+        "story": "فیلم پیانیست (The Pianist) در طول روزهایی که شهر ورشو پایتخت لهستان به اشغال نیروهای آلمان نازی درآمده و محله‌های یهودی‌نشین یکی پس از دیگری تخریب می‌شوند، یک موسیقی‌دان یهودی برای حفظ جان خود دست به هرکاری می‌زند و...",
+        "director": "Roman Polanski",
         "cast": ["Adrien Brody", "Thomas Kretschmann", "Frank Finlay", "Emilia Fox"],
         "imdb": 8.5,
         "genre": ["جنگی", "بیوگرافی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Pianist.jpg"
     },
     {
         "name_english": "Gladiator",
         "name_persian": "گلادیاتور",
         "year": 2000,
-        "story": "Ridley Scott",
-        "director": "فیلم گلادیاتور (Gladiator) ارتش روم به رهبری ژنرال ماکسیموس، روم را نجات می دهد. امپراتور بدون توجه به پسر کثیفش، کومودوس، از ماکسیموس می خواهد تا زمام امور را به دست گیرد و یک جمهوری مستقل پدید آورَد. کومودوس پدر را به قتل می رسانَد و دستور اعدام ماکسیموس و خانواده او را در اسپانیا صادر می کند. ولی ماکسیموس ...",
+        "story": "فیلم گلادیاتور (Gladiator) ارتش روم به رهبری ژنرال ماکسیموس، روم را نجات می دهد. امپراتور بدون توجه به پسر کثیفش، کومودوس، از ماکسیموس می خواهد تا زمام امور را به دست گیرد و یک جمهوری مستقل پدید آورَد. کومودوس پدر را به قتل می رسانَد و دستور اعدام ماکسیموس و خانواده او را در اسپانیا صادر می کند. ولی ماکسیموس ...",
+        "director": "Ridley Scott",
         "cast": ["Russell Crowe", "Oliver Reed", "Joaquin Phoenix", "Connie Nielsen"],
         "imdb": 8.5,
         "genre": ["درام", "اکشن"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Gladiator.jpg"
     },
     {
         "name_english": "American History X",
         "name_persian": "تاریخ مجهول آمریکا",
         "year": 1998,
-        "story": "Tony Kaye",
-        "director": "فیلم تاریخ مجهول آمریکا (American History X) به بحران نژاد پرستی در آمریکا اشاره دارد با درگیری نوجوانی سفید پوست با چند جوان سیاه پوست شروع می شود و او موضوع را با «درک» ، برادر بزرگ ترش که گرایشات تند نئونازی دارد، در میان می گذارد. «درک» بی مهابا سلاحش را بر می دارد و به سراغ جوانان سیاه پوست می رود، آنان را می کشد، و به زندان محکوم می شود. اما در زندان، به دلیل بدرفتاری زندانیان سفید پوست با او، دیدگاهش نسبت به سیاه پوستان عوض می شود...",
+        "story": "فیلم تاریخ مجهول آمریکا (American History X) به بحران نژاد پرستی در آمریکا اشاره دارد با درگیری نوجوانی سفید پوست با چند جوان سیاه پوست شروع می شود و او موضوع را با «درک» ، برادر بزرگ ترش که گرایشات تند نئونازی دارد، در میان می گذارد. «درک» بی مهابا سلاحش را بر می دارد و به سراغ جوانان سیاه پوست می رود، آنان را می کشد، و به زندان محکوم می شود. اما در زندان، به دلیل بدرفتاری زندانیان سفید پوست با او، دیدگاهش نسبت به سیاه پوستان عوض می شود...",
+        "director": "Tony Kaye",
         "cast": ["Edward Norton", "Beverly D'Angelo", "Edward Furlong", "Jennifer Lien"],
         "imdb": 8.5,
         "genre": ["درام"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/American-History-X.jpg"
     },
     {
         "name_english": "The Usual Suspects",
         "name_persian": "تاریخ مجهول آمریکا",
         "year": 1995,
-        "story": "Bryan Singer",
-        "director": "فیلم مظنونین همیشگی (The Usual Suspects) تنها بازمانده حادثه تیراندازی در یک کشتی، مشاهدات خود درباره چگونگی آغاز درگیری بین پلیس و خلافکارها را توضیح می‌دهد و...",
+        "story": "فیلم مظنونین همیشگی (The Usual Suspects) تنها بازمانده حادثه تیراندازی در یک کشتی، مشاهدات خود درباره چگونگی آغاز درگیری بین پلیس و خلافکارها را توضیح می‌دهد و...",
+        "directory": "Bryan Singer",
         "cast": ["Kevin Spacey", "Stephen Baldwin", "Gabriel Byrne", " Palminteri"],
         "imdb": 8.5,
         "genre": ["رازآلود", "جنایی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Usual-Suspects.jpg"
     },
     {
         "name_english": "Leon The Professional",
         "name_persian": "لئون حرفه ای",
         "year": 1994,
-        "story": "Luc Besson",
-        "director": "فیلم لئون حرفه ای (Leon The Professional) ماتیلدا دختر 12 ساله ای است که خانواده اش توسط پلیس های کثیف که قاچاقچی مواد نیز هستند، به صورت وحشیانه ای به قتل می رسند ولی او موفق به فرار می شود. او با کمک یک قاتل حرفه ای تلاش می کند تا انتقام خانواده اش را بگیرد ولی...",
+        "story": "فیلم لئون حرفه ای (Leon The Professional) ماتیلدا دختر 12 ساله ای است که خانواده اش توسط پلیس های کثیف که قاچاقچی مواد نیز هستند، به صورت وحشیانه ای به قتل می رسند ولی او موفق به فرار می شود. او با کمک یک قاتل حرفه ای تلاش می کند تا انتقام خانواده اش را بگیرد ولی...",
+        "director": "Luc Besson",
         "cast": ["Jean Reno", "Natalie Portman", "Danny Aiello", "Gary Oldman"],
         "imdb": 8.5,
         "genre": ["اکشن", "جنایی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Leon-The-Professional.jpg"
     },
     {
         "name_english": "The Lion King",
         "name_persian": "شیرشاه",
         "year": 1994,
-        "story": "Rob Minkoff",
-        "director": "انیمیشن شیرشاه (The Lion King)  شیرشاه انیمیشنی حماسی و موزیکال محصول سال ۱۹۹۴ شرکت والت دیزنی است. داستان این اثر، برگرفته از چندین اثر هنری معروف از قصه‌های پیامبران گرفته تا نمایش نامه‌های ویلیام شکسپیر است. شیری به نام اسکار که در صدد پادشاهی جنگل است (که این سمت به برادرش موفاسا رسیده و در آینده به پسر موفاسا، سیمبا می‌رسد) او موفاسا را می‌کشد و برادرزاده‌اش سیمبا را فراری می‌دهد و سیمبا در آینده بزرگ می‌شود و می‌آید تا انتقام تاج و تختش و البته پدرش را از اسکار بگیرد...",
+        "story": "انیمیشن شیرشاه (The Lion King)  شیرشاه انیمیشنی حماسی و موزیکال محصول سال ۱۹۹۴ شرکت والت دیزنی است. داستان این اثر، برگرفته از چندین اثر هنری معروف از قصه‌های پیامبران گرفته تا نمایش نامه‌های ویلیام شکسپیر است. شیری به نام اسکار که در صدد پادشاهی جنگل است (که این سمت به برادرش موفاسا رسیده و در آینده به پسر موفاسا، سیمبا می‌رسد) او موفاسا را می‌کشد و برادرزاده‌اش سیمبا را فراری می‌دهد و سیمبا در آینده بزرگ می‌شود و می‌آید تا انتقام تاج و تختش و البته پدرش را از اسکار بگیرد...",
+        "director": "Rob Minkoff",
         "cast": ["James Earl Jones", "Whoopi Goldberg", "Matthew Broderick", "Jeremy Irons"],
         "imdb": 8.5,
         "genre": ["انیمیشن", "خانوادگی"],
-        "thumbnail": ""
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Lion-King.jpg"
+    },
+    {
+        "name_english": "Terminator 2: Judgment Day",
+        "name_persian": "نابودگر 2: روز داوری",
+        "year": 1991,
+        "story": "فیلم نابودگر 2 روز داوری (Terminator 2: Judgment Day) سارا کانر از اولین حمله نجات پیدا می کند، اما چند سال بعدی نابودگری دیگر این بار برای از بین بردن جان کانر فرستاده می شود اما انسان ها نیز نابودگری را برای نجات جان و مادرش به گذشته می فرستند...",
+        "director": "James Cameron",
+        "cast": ["Arnold Schwarzenegger", "Linda Hamilton", "Matthew Broderick", "Robert Patrick"],
+        "imdb": 8.5,
+        "genre": ["علمی", "اکشن", "تخیلی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Terminator-2-Judgment-Day.jpg"
+    },
+    {
+        "name_english": "Cinema Paradiso",
+        "name_persian": "سینما پارادیزو",
+        "year": 1988,
+        "story": "فیلم سینما پارادیزو (Cinema Paradiso) داستان یک فیلمساز است که دوران کودکی خودش را به یاد می آورد که عاشق یک تصویر در سینمای روستایشان شده بوده و یک رایطه دوستی عمیق با یک آپاراتچی سینما داشته...",
+        "director": "Giuseppe Tornatore",
+        "cast": ["Antonella Attili", "Enzo Cannavale", "Isa Danieli", "Philippe Noiret"],
+        "imdb": 8.5,
+        "genre": ["درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Cinema-Paradiso.jpg"
+    },
+    {
+        "name_english": "Grave of the Fireflies",
+        "name_persian": "مدفن کرم های شب تاب",
+        "year": 1988,
+        "story": "انیمیشن مدفن کرم های شب تاب (Grave of the Fireflies) در مورد یک پسر جوان و خواهر او میباشد که در طول جنگ جهانی سعی میکنند که زندگی خود را از آتش بمباران ها نجات دهند...",
+        "director": "Isao Takahata",
+        "cast": ["Akemi Yamaguchi", "Ayano Shiraishi", "Tsutomu Tatsumi", "Yoshiko Shinohara"],
+        "imdb": 8.5,
+        "genre": ["انیمیشن", "جنگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Grave-of-the-Fireflies.jpg"
+    },
+    {
+        "name_english": "Back to the Future",
+        "name_persian": "بازگشت به آینده",
+        "year": 1985,
+        "story": "فیلم بازگشت به آینده (Back to the Future) داستان یک پسر نوجوان به نام مارتی مک‌فلای را روایت می‌کند که به صورت تصادفی در زمان سفر می‌کند و از سال ۱۹۸۵ به ۱۹۵۵ منتقل می‌شود. او والدین خود را در دبیرستان ملاقات می‌کند و تصادفاً موجب برهم خوردن رابطه آن‌ها می‌شود. مارتی باید تغییری که در گذشته ایجاد کرده را اصلاح کند و کاری کند تا والدینش عاشق یک‌دیگر شوند و سپس با کمک دانشمندی به نام دکتر امت براون راهی جهت بازگشت به سال ۱۹۸۵ بیابد. ...",
+        "director": "Robert Zemeckis",
+        "cast": ["Christopher Lloyd", "Michael J. Fox", "Lea Thompson", "Crispin Glover"],
+        "imdb": 8.5,
+        "genre": ["علمی", "تخیلی", "ماجراجویی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Back-to-the-Future.jpg"
+    },
+    {
+        "name_english": "Anand",
+        "name_persian": "سعادت",
+        "year": 1971,
+        "story": "فیلم سعادت (Anand) آناند که به سرطان مبتلاست، تصميم مي گيرد از باقي مانده ي روزهاي عمرش نهايت لذت را ببرد. دکتر بهاسکار که درمان و مراقبت از آناند را به عهده دارد، کتابي درباره ي او مي نويسد که برنده ي جايزه ي ادبي سال مي شود. مراسم اهداي جايزه آغازگر روايتي است که سرگذشت آناند را باز مي گويد...",
+        "director": "Hrishikesh Mukherjee",
+        "cast": ["Amitabh Bachchan", "Rajesh Khanna", "Ramesh Deo", "Sumita Sanyal"],
+        "imdb": 8.5,
+        "genre": ["درام", "موزیکال"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Anand.jpg"
+    },
+    {
+        "name_english": "Once Upon a Time in the West",
+        "name_persian": "روزی روزگاری در غرب",
+        "year": 1968,
+        "story": "فیلم روزی روزگاری در غرب (C'era una volta il West) داستانی حماسی در مورد یک غریبه ی مرموز با ساز دهنی است که به جمع نیروهایی که برای حمایت از یک بیوه ی زیبای بدنام که جانش توسط یک قاتل بی رحم که در راه آهن کار می کند به خطر افتاده است، می پیوندد.",
+        "director": "Sergio Leone",
+        "cast": ["Charles Bronson", "Claudia Cardinale", "Henry Fonda", "Jason Robards"],
+        "imdb": 8.5,
+        "genre": ["وسترن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Once-Upon-a-Time-in-the-West.jpg"
+    },
+    {
+        "name_english": "Psycho",
+        "name_persian": "روانی",
+        "year": 1960,
+        "story": "فیلم روانی (Psycho) زنی به نام ماریون کرین که به عنوان منشی در یک بنگاه معاملات ملکی فعالیت می‌کند، چهل هزار دلار پول نقد را از مشتری کارفرمایش به سرقت می‌برد. در ادامه، او وارد هتلی دورافتاده می‌شود که مردی جوان به نام نورمن بیتس، مسئولیت اداره آن را برعهده دارد و...",
+        "director": "Alfred Hitchcock",
+        "cast": ["Anthony Perkins", "Janet Leigh", "Vera Miles", "John Gavin"],
+        "imdb": 8.5,
+        "genre": ["ترسناک", "رازآلود"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Psycho.jpg"
+    },
+    {
+        "name_english": "Modern Times",
+        "name_persian": "عصر جدید",
+        "year": 1936,
+        "story": "فیلم عصر جدید (Modern Times) چارلی در مقابل جامعه ی مدرن، عصر ماشین ها و پیشرفت بر می خیزد. در ابتدا او را می بینیم که دیوانه وار تلاش می کند تا با خط تولید سفت کردن پیچ و مهره ها همراه شود. او برای آزمایش با یک دستگاه تغذیه ی اتوماتیک انتخاب شده است اما اتفاقات ناگواری که پیش می آید باعث می شود تا رئیسش تصور کند که او دیوانه شده است و چارلی به یک بیمارستان روانی منتقل می شود...",
+        "director": "Charles Chaplin",
+        "cast": ["Charles Chaplin", "Henry Bergman", "Paulette Goddard", "Tiny Sandford"],
+        "imdb": 8.5,
+        "genre": ["درام", "خانوادگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Modern-Times.jpg"
+    },
+    {
+        "name_english": "City Lights",
+        "name_persian": "روشنایی های شهر",
+        "year": 1931,
+        "story": "فیلم روشنایی های شهر (City Lights) چارلی پس از آشنایی با یک دختر نابینا، شاخه گلی از او دریافت می‌کند و عاشق او می‌شود. این عشق باعث می‌شود تا «چارلی» دست به هر کاری بزند تا هزینه درمان چشم‌های دختر را فراهم کند و...",
+        "director": "Charles Chaplin",
+        "cast": ["Charles Chaplin", "Florence Lee", "Harry Myers", "Virginia Cherrill"],
+        "imdb": 8.5,
+        "genre": ["درام", "رمانتیک"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/City-Lights.jpg"
+    },
+    {
+        "name_english": "Your Name",
+        "name_persian": "اسم تو",
+        "year": 2016,
+        "story": "انیمیشن اسم تو (Your Name.) میتسوها یک دختر دبیرستانی است که در منطقه کوهستانی «هیدا» زندگی می‌کند و دیگر از زندگی روستایی خسته شده و آرزو می‌کند که یک پسر خوشتیپ اهل توکیو باشد. چیزی نمی‌گذرد که میتسوها گاه و بی‌گاه جایش با تاکی، پسری دبیرستانی و اهل توکیو جا به جا می‌شود...",
+        "director": "Makoto Shinkai",
+        "cast": ["Aoi Yûki", "Mone Kamishiraishi", "Ryô Narita", "Ryûnosuke Kamiki"],
+        "imdb": 8.4,
+        "genre": ["انیمیشن", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Your-Name.jpg"
+    },
+    {
+        "name_english": "Spider Man Into the Spider Verse",
+        "name_persian": "مرد عنکبوتی به درون دنیای عنکبوتی",
+        "year": 2018,
+        "story": "انیمیشن مرد عنکبوتی به درون دنیای عنکبوتی (Spider-Man: Into the Spider-Verse) نوجوانی که از طرفداران مرد عنکبوتی است، مجبور است که طبق انتظارات والدینش، ریو مورالز و جفرسون دیویس در یک مدرسه نمونه دولتی اما شبانه‌روزی تحصیل کند. پدرش جفرسون یک افسر پلیس است و مردعنکبوتی را به عنوان یک تهدید می‌شناسد. از آنجایی که مایلز علاقه خاصی به دیوارنگاری دارد به او یک ایستکاه متروکه را نشان می‌دهد که می‌تواند در آنجا روی دیوار نقاشی کند، اما حین نقاشی، عنکبوتی رادیواکتیوی مایلز را نیش زده و ...",
+        "director": "Bob Persichetti",
+        "cast": ["Hailee Steinfeld", "Jake Johnson", "Mahershala Ali", "Shameik Moore"],
+        "imdb": 8.4,
+        "genre": ["انیمیشن", "اکشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Spider-Man-Into-the-Spider-Verse.jpg"
+    },
+    {
+        "name_english": "Avengers: Infinity War",
+        "name_persian": "انتقام جویان: جنگ ابدیت",
+        "year": 2018,
+        "story": "فیلم انتقام جویان جنگ ابدیت (Avengers: Infinity War) انتقام‌جویان که از هم گسسته‌اند، دوباره با هم متحد می‌شوند و به نیروهای نگهبانان کهکشان می‌پیوندند تا با تانوس که به دنبال تصاحب همه‌ی سنگ‌های ابدیت و حکمرانی بر فضا، زمان و واقعیت است ، مقابله کنند. اما…",
+        "director": "Anthony Russo",
+        "cast": ["Chris Evans", "Chris Hemsworth", "Mark Ruffalo", "Robert Downey Jr"],
+        "imdb": 8.4,
+        "genre": ["علمی", "اکشن", "تخیلی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Avengers-Infinity-War.jpg"
     }
     
 ]
