@@ -702,6 +702,138 @@
         "imdb": 8.4,
         "genre": ["علمی", "ترسناک", "تخیلی"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Alien.jpg"
+    },
+    {
+        "name_english": "High and Low",
+        "name_persian": "بهشت و دوزخ",
+        "year": 1963,
+        "story": "فیلم بهشت و دوزخ (High and Low) کینگو گوندو سهامدار یک کارخانه تولید کفش است که با دیگر شرکای خود در کارخانه اختلاف دارد. گوندو پس از یک جلسه مشاجره‌آمیز با شرکای خود تلفنی از فردی ناشناس دریافت می‌کند که به او می‌گوید پسرش را دزدیده و برای آزاد کردنش تقاضای ۳۰ میلیون ین پول می‌کند. گوندو در ابتدا حاضر است با کمال میل پول را پرداخت کند، اما ناگهان متوجه می‌شود که آدم‌ربا دچار اشتباه شده و به جای پسر او پسر راننده‌اش را دزدیده است. حالا گوندو در یک دوراهی اخلاقی قرار گرفته است...",
+        "director": "Akira Kurosawa",
+        "cast": ["Kyôko Kagawa", "Tatsuya Nakadai", "Toshirô Mifune", "Yutaka Sada"],
+        "imdb": 8.4,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/High-and-Low.jpg"
+    },
+    {
+        "name_english": "Dr Strangelove",
+        "name_persian": "دکتر استرنج لاو",
+        "year": 1964,
+        "story": "فیلم (Dr. Strangelove) جک ریپر، ژنرال ارتش و رئیس پایگاه هوایی در آمریکا، حمله ای هسته ای علیه شوروی انجام می دهد. رئیس جمهور آمریکا بعد از شنیدن این خبر به دنبال راهی برای برای توقف این حملات است...",
+        "director": "Stanley Kubrick",
+        "cast": ["George C. Scott", "Keenan Wynn", "Peter Sellers", "Sterling Hayden"],
+        "imdb": 8.4,
+        "genre": ["کمدی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Dr-Strangelove.jpg"
+    },
+    {
+        "name_english": "Witness for the Prosecution",
+        "name_persian": "شاهدی برای تعقیب",
+        "year": 1957,
+        "story": "فیلم شاهدی برای تعقیب (Witness for the Prosecution) داستان سر ویلفرید روبارتس، وكیل سرشناس است که از یك سكته ى قلبى جان سالم به در برده است و دوران نقاهت را میگذراند . پزشكان او را از ادامه ى كار در محاكم جنایى منع كرده اند ، با این همه ،روبارتس دفاع از مردى به نام لنرد وول را متهم به قتل بیوه زنى شده قبول مىكند...",
+        "director": "Billy Wilder",
+        "cast": ["Charles Laughton", "Elsa Lanchester", "Marlene Dietrich", "Tyrone Power"],
+        "imdb": 8.4,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Witness-for-the-Prosecution.jpg"
+    },
+    {
+        "name_english": "Paths of Glory",
+        "name_persian": "راه‌های افتخار",
+        "year": 1957,
+        "story": "فیلم راه‌های افتخار (Paths of Glory) زمستان ۱۹۱۶ است و ارتش آلمان، درست بیرونِ دروازه‌های پاریس، مقابل نیروهای فرانسوی در سنگرهایشان، در گِل گیر کرده‌است. اگرچه تلفات بالا نیست، ولی خاکی هم تسخیر نمی‌شود. درحالی‌که فشار از سوی سیاستمدارها بالا گرفته تا به هر ترتیب، پیشرفت‌هایی در جبههٔ جنگ صورت گیرد، دو ژنرالِ خودمحورِ فرانسوی، برولار و میرو نقشهٔ حمله‌ای را طرح می‌ریزند که از همان ابتدا محکوم به شکست است...",
+        "director": "Stanley Kubrick",
+        "cast": ["Adolphe Menjou", "George Macready", "Kirk Douglas", "Ralph Meeker"],
+        "imdb": 8.4,
+        "genre": ["جنگی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Paths-of-Glory.jpg"
+    },
+    {
+        "name_english": "The Great Dictator",
+        "name_persian": "دیکتاتور بزرگ",
+        "year": 1940,
+        "story": "فیلم دیکتاتور بزرگ (The Great Dictator) ادنوید هاینکل است که تلاش میکند امپراطوری خودش را گسترش دهد در حالی که یک آرایشگر یهودی تلاش میکند جلوی آزار و اذیت رژیم هاینکل را بگیرد...",
+        "director": "Charles Chaplin",
+        "cast": ["Charles Chaplin", "Jack Oakie", "Paulette Goddard", "Reginald Gardiner"],
+        "imdb": 8.4,
+        "genre": ["جنگی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Great-Dictator.jpg"
+    },
+    {
+        "name_english": "1917",
+        "name_persian": "هزار و نهصد و هفده",
+        "year": 2019,
+        "story": "فیلم ۱۹۱۷ (1917) در سال ۱۹۱۷ میلادی و در بحبوحه جنگ جهانی اول، دو سرباز جوان بریتانیایی مامور می‌شوند که به عمق خاک دشمن نفوذ کنند و یک پیام بسیار مهم را به نیروهای خودی برسانند تا از گرفتار شدن ۱۶۰۰ سرباز در دام مرگبار دشمن جلوگیری نمایند و...",
+        "director": "Sam Mendes",
+        "cast": ["Colin Firth", "Daniel Mays", "Dean-Charles Champan", "George MacKay"],
+        "imdb": 8.3,
+        "genre": ["جنگی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/1917.jpg"
+    },
+    {
+        "name_english": "Andhadhun",
+        "name_persian": "ملودی کور",
+        "year": 2018,
+        "story": "فیلم ملودی کور (Andhadhun) یک پیانیست نابینا باید گزارش قتلی را به پلیس ارائه دهد که خودش هرگز شاهد آن نبوده‌است. این درحالی است که مجموعه‌ای از رویدادهای اسرارآمیز، زندگی او را تغییر می‌دهد و...",
+        "director": "Sriram Raghavan",
+        "cast": ["Anil Dhawan", "Ayushmann Khurrana", "Radhika Apte", "Tabu"],
+        "imdb": 8.3,
+        "genre": ["جنایی", "هیجان انگیز"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Andhadhun.jpg"
+    },
+    {
+        "name_english": "A Seperation",
+        "name_persian": "جدایی نادر از سیمین",
+        "year": 2012,
+        "story": "فیلم جدایی نادر از سیمین (A Separation) داستان زوجی است که در آستانه طلاق هستند و با ترک خانه توسط سیمین ، نادر زنی باردار را برای مراقبت از پدرش که مبتلا به آلزایمر است به خانه می آورد با این ورود اتفاقاتی رقم میخورد که سرنوشت دو خانواده را تحت شعاع قرار می دهد...",
+        "director": "Asghar Farhadi",
+        "cast": ["Payman Maadi", "Leila Hatami", "Shahab Hosseini", "Sareh Bayat"],
+        "imdb": 8.3,
+        "genre": ["درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/A-Seperation.jpg"
+    },
+    {
+        "name_english": "Incendies",
+        "name_persian": "ویران شده",
+        "year": 2010,
+        "story": "فیلم ویران شده (Incendies) داستان یک خواهر برادر دوقلو است که برای کشف تاریخچه خانوادگیشان به خاورمیانه می آیند و میخواهند آخرین آرزوی مادرشان را برآورده کنند...",
+        "director": "Denis Villeneuve",
+        "cast": ["Lubna Azabal", "Maxim Gaudette", "Mélissa Désormeaux-Poulin", "Mustafa Kamel"],
+        "imdb": 8.3,
+        "genre": ["درام", "جنگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Incendies.jpg"
+    },
+    {
+        "name_english": "My Father and My Son",
+        "name_persian": "پدرم و پسرم",
+        "year": 2010,
+        "story": "فیلم پدرم و پسرم (Babam ve Oglum) داستان صادق جوانی سرکش است که در دانشگاه به فعالیتهای سیاسی مشغول بوده و تبدیل به یک خبرنگار چپگرا در دهه ۷۰ می شود در حالی که پدرش دوست داشته او مهندس کشاورزی شده و کنترل مزرعه خانوادگی شان را به عهده بگیرد. در صبح ۱۲ سپتامبر سال ۱۹۸۰ وقتی کشور درگیر یک کودتا است آنها نمی توانند خود را به بیمارستان و پزشک برسانند و...",
+        "director": "Çagan Irmak",
+        "cast": ["Çetin Tekindor", "Ege Tanman", "Fikret Kuskan", "Hümeyra"],
+        "imdb": 8.3,
+        "genre": ["درام", "خانوادگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/My-Father-and-My-Son.jpg"
+    },
+    {
+        "name_english": "Toy Story 3",
+        "name_persian": "داستان اسباب بازی 3",
+        "year": 2010,
+        "story": "انیمیشن Toy Story 3 (Toy Story 3) در انیمیشن داستان اسباب بازی 3 ، اندی اکنون به ۱۷ سالگی رسیده و تا سه روز دیگر وارد دانشگاه می‌شود. تمام اسباب‌بازی های او نگران آینده نامعلوم خود هستند و از اینکه «اندی» آنها را ترک می‌کند ناراحت هستند، اما...",
+        "director": "Lee Unkrich",
+        "cast": ["Joan Cusack", "Ned Beatty", "Tim Allen", "Tom Hanks"],
+        "imdb": 8.3,
+        "genre": ["انیمیشن", "خانوادگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Toy-Story-3.jpg"
+    },
+    {
+        "name_english": "Inglourious Basterds",
+        "name_persian": "پست فطرت های لعنتی",
+        "year": 2009,
+        "story": "فیلم پست فطرت های لعنتی (Inglourious Basterds) فرانسه روزهای اشغال به دست ارتش نازی طی جنگ جهانی دوم را سپری می‌کند، تا اینکه گروهی از سربازان یهودی آمریکایی برنامه‌ای برای انتقام‌گیری از دشمن ترتیب می‌دهند، اما...",
+        "director": "Quentin Tarantino",
+        "cast": ["Brad Pitt", "Diane Kruger", "Eli Roth", "Mélanie Laurent"],
+        "imdb": 8.3,
+        "genre": ["جنگی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Inglourious-Basterds.jpg"
     }
     
 ]
