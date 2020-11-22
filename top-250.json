@@ -537,6 +537,171 @@
         "imdb": 8.4,
         "genre": ["علمی", "اکشن", "تخیلی"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Avengers-Infinity-War.jpg"
+    },
+    {
+        "name_english": "Coco",
+        "name_persian": "کوکو",
+        "year": 2017,
+        "story": "انیمیشن کوکو (Coco) میگل بر خلاف مخالفت خانواده‌اش با موسیقی، می‌خواهد راه الگویش ارنستو دلاکروز را پیش بگیرد و نوازنده شود. میگل که برای اثبات استعدادش درمانده شده به طور اتفاقی به سرزمین رنگارنگ مردگان راه پیدا می‌کند و در آنجا اجداد خود را ملاقات می‌کند...",
+        "director": "Adrian Molina",
+        "cast": ["Adrian Molina", "Anthony Gonzalez", "Benjamin Bratt", "Gael García Bernal"],
+        "imdb": 8.4,
+        "genre": ["خانوادگی", "انیمیشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Coco.jpg"
+    },
+    {
+        "name_english": "Django Unchained",
+        "name_persian": "جانگوی رها از بند",
+        "year": 2012,
+        "story": "فیلم جانگوی رها از بند (Django Unchained) دکتر کینگ شولتز آزادی یک برده سیاه پوست بنام جنگو را می خرد، و به او کمک می کند تا همسرش را که در چنگ یک مزرعه دار ثروتمند و بی رحم بنام کلوین کندی است، نجات دهد...",
+        "director": "Quentin Tarantino",
+        "cast": ["Christoph Waltz", "Jamie Foxx", "Kerry Washington", "Leonardo DiCaprio"],
+        "imdb": 8.4,
+        "genre": ["وسترن", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Django-Unchained.jpg"
+    },
+    {
+        "name_english": "The Dark Knight Rises",
+        "name_persian": "شوالیه تاریکی بر می خیزد",
+        "year": 2012,
+        "story": "فیلم شوالیه تاریکی بر می خیزد (The Dark Knight Rises) هشت سال بعد از ماجرای جوکر، بتمن بار دیگر مجبور می شود که از مخفیگاه خود بیرون بیاید و شهر گاتهام را از شر هیولای جدیدی به نام بین نجات دهد و...",
+        "director": "Christopher Nolan",
+        "cast": ["Christian Bale", "Anne Hathaway", "Gary Oldman", "Tom Hardy"],
+        "imdb": 8.4,
+        "genre": ["ماجراجویی", "اکشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Dark-Knight-Rises.jpg"
+    },
+    {
+        "name_english": "3 Idiots",
+        "name_persian": "سه احمق",
+        "year": 2009,
+        "story": "فیلم سه احمق (3 Idiots) فرهان، راجو، رانچو و چاتور در یک دانشگاه مهندسی درس می خوانده اند. چاتور ده سال قبل در زمان دانشجویی به آنها گفته بود که پس از ده سال در دانشگاه همدیگر را ببینند و بفهمند چه کسی موفق تر است. اما فرهان و راجو که دوستان صمیمی رانچو بوده اند نمی دانند او کجاست و سالهاست او را ندیده اند؛ بنابراین به دنبال آدرسی که چاتور داده هر سه به دنبال رانچو می روند و ...",
+        "director": "Rajkumar Hirani",
+        "cast": ["Aamir Khan", "Sharman Joshi", "Mona Singh", "Madhavan"],
+        "imdb": 8.4,
+        "genre": ["کمدی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/3-Idiots.jpg"
+    },
+    {
+        "name_english": "Like Stars on Earth",
+        "name_persian": "ستاره های روی زمین",
+        "year": 2007,
+        "story": "فیلم ستاره های روی زمین (Like Stars on Earth) ایشان آواستی کودکی نه ساله است که یک سال در کلاس سوم مردود شده و علی رغم برادر بزرگترش در کلاس از همه ضعیف تر است و به همین خاطر بارها توسط پدر و همکلاسی هایش تحقیر می شود. عاقبت وی با کارهای اشتباه خود، باعث به تنگ آمدن پدرش می شود و او ایشان را به مدرسه شبانه روزی می فرستد. اما...",
+        "director": "Aamir Khan",
+        "cast": ["Aamir Khan", "Vipin Sharma", "Tisca Chopra", "Darsheel Safary"],
+        "imdb": 8.4,
+        "genre": ["خانوادگی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Like-Stars-on-Earth.jpg"
+    },
+    {
+        "name_english": "WALL-E",
+        "name_persian": "وال ای",
+        "year": 2008,
+        "story": "انیمیشن وال ای (WALL·E) سالها است انسان ها زمین را ترک کرده اند و آنچه که بر روی کره زمین باقی مانده، کوه ها زباله و آهن پاره است. وال ای ربات آشغال جمع کنی است که تنها روی زمین باقی مانده ماموریت او، فشرده سازی و جمع آوری این پسماندها و آلودگی های صنعتی است. روزی سفینه ای غول پیکر از فضا فرود می آید و مهمان کوچکی را بهمراه خود می آورد. این مهمان ایو است و وظیفه او این است حیات را در کره زمین شناسایی کند.وال ای دلباخته او می شود و...",
+        "director": "Andrew Stanton",
+        "cast": ["Ben Burtt", "Elissa Knight", "Fred Willard", "Jeff Garlin"],
+        "imdb": 8.4,
+        "genre": ["خانوادگی", "انیمیشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/WALL-E.jpg"
+    },
+    {
+        "name_english": "The Lives of Others",
+        "name_persian": "زندگی دیگران",
+        "year": 2006,
+        "story": "فیلم زندگی دیگران (The Lives of Others) یک مامور پلیس امنیتی در برلین سال 1984 مامور میشود در مورد یک نویسنده و معشوقه اش جاسوسی و کسب اطلاعات کند. پس از مدتی او متوجه میشود که تحت تاثیر رابطه و زندگی آنها قرار گرفته است...",
+        "director": "Florian Henckel von Donnersmarck",
+        "cast": ["Martina Gedeck", "Sebastian Koch", " Ulrich Tukur", "Ulrich Mühe"],
+        "imdb": 8.4,
+        "genre": ["رمزآلود", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Lives-of-Others.jpg"
+    },
+    {
+        "name_english": "The Lives of Others",
+        "name_persian": "زندگی دیگران",
+        "year": 2006,
+        "story": "فیلم زندگی دیگران (The Lives of Others) یک مامور پلیس امنیتی در برلین سال 1984 مامور میشود در مورد یک نویسنده و معشوقه اش جاسوسی و کسب اطلاعات کند. پس از مدتی او متوجه میشود که تحت تاثیر رابطه و زندگی آنها قرار گرفته است...",
+        "director": "Florian Henckel von Donnersmarck",
+        "cast": ["Martina Gedeck", "Sebastian Koch", "Ulrich Tukur", "Ulrich Mühe"],
+        "imdb": 8.4,
+        "genre": ["رمزآلود", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Lives-of-Others.jpg"
+    },
+    {
+        "name_english": "Oldboy",
+        "name_persian": "پیر پسر",
+        "year": 2003,
+        "story": "فیلم پیر پسر (Oldboy) اوته سا مردی خوشگذران در حالیکه به دلیل مستی بازداشت شده است در روز تولد دخترش دزدیده می شود و برای مدت ۱۵ سال در یک اتاق زندانی می شود. در طول ۱۵ سال هیچ کس به سراغ او نمی آید و هر بار که اقدام به خودکشی می کند توسط افراد ناشناس درمان شده و به اتاق قبلی برگردانده می شود. بعد از سپری شدن ۱۵ سال به همان مرموزی روز اول آزاد می شود. در حالیکه در طول این ۱۵ سال فقط یک سؤال در ذهنش باقی مانده است. چرا من؟ ...",
+        "director": "Chan-wook Park",
+        "cast": ["Dae-han Ji", "Hye-jeong Kang", "Min-sik Choi", "Ji-Tae Yoo"],
+        "imdb": 8.4,
+        "genre": ["اکشن", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Oldboy.jpg"
+    },
+    {
+        "name_english": "Memento",
+        "name_persian": "یادگاری",
+        "year": 2001,
+        "story": "فیلم یادگاری (Memento) مردی که همسر خود را به تازگی از دست داده، تلاش می‌کند قاتل را به پای میز محاکمه بکشاند، با این حال، مشکل عدم تمرکز و اختلال در حافظه کوتاه‌مدت باعث می‌شود در این مسیر با چالش‌هایی روبرو شود و...",
+        "director": "Christopher Nolan",
+        "cast": ["Carrie-Anne Moss", "Guy Pearce", "Joe Pantoliano", "Mark Boone Junior"],
+        "imdb": 8.4,
+        "genre": ["اکشن", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Memento.jpg"
+    },
+    {
+        "name_english": "Princess Mononoke",
+        "name_persian": "شاهزاده مونونوکه",
+        "year": 1997,
+        "story": "انیمیشن شاهزاده مونونوکه (Princess Mononoke) داستان آشیتاکای ماجراجو است که در یک سفر برای پیدا کردن چندین شی با ماجراهای زیادی روبرو میشود و در این سفر با چندین قبیله میجنگدد و با دختری نیز آشنا میشود...",
+        "director": "Hayao Miyazaki",
+        "cast": ["Billy Crudup", "Yôji Matsuda", "Yûko Tanaka", "Yuriko Ishida"],
+        "imdb": 8.4,
+        "genre": ["فانتزی", "انیمیشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Princess-Mononoke.jpg"
+    },
+    {
+        "name_english": "Once Upon a Time in America",
+        "name_persian": "روزی روزگاری در آمریکا",
+        "year": 1984,
+        "story": "فیلم روزی روزگاری در آمریکا (Once Upon a Time in America) داستان یک گانگستر سابق بعد از 30 سال به منطقه شرقی منهتن برمیگردد. جایی که باید با گذشته و پشیمانی هایش رو به رو شود...",
+        "director": "Sergio Leone",
+        "cast": ["Robert De Niro", "Elizabeth McGovern", "James Woods", "Treat Williams"],
+        "imdb": 8.4,
+        "genre": ["درام", "جنایی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Once-Upon-a-Time-in-America.jpg"
+    },
+    {
+        "name_english": "Indiana Jones 1: Raiders of the Lost Ark",
+        "name_persian": "مهاجمان صندوقچه گمشده",
+        "year": 1981,
+        "story": "فیلم مهاجمان صندوقچه گمشده (Indiana Jones 1 Raiders of the Lost Ark) در سالهای 1930 باستان شناس و ماجراجوی آمریکایی، ایندیانا جونز توسط دولت آمریکا استخدام می شود و ماموریت پیدا می کند صندوق مقدس گم شده را که نازی ها در پی یافتن آن هستند پیدا کرده و با خود به آمریکا بیاورد...",
+        "director": "Steven Spielberg",
+        "cast": ["Harrison Ford", "John Rhys-Davies", "Karen Allen", "Paul Freeman"],
+        "imdb": 8.4,
+        "genre": ["اکشن", "ماجراجویی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Indiana-Jones-1-Raiders-of-the-Lost-Ark.jpg"
+    },
+    {
+        "name_english": "Apocalypse Now",
+        "name_persian": "مهاجمان صندوقچه گمشده",
+        "year": 1979,
+        "story": "فیلم مهاجمان صندوقچه گمشده (Indiana Jones 1 Raiders of the Lost Ark) در سالهای 1930 باستان شناس و ماجراجوی آمریکایی، ایندیانا جونز توسط دولت آمریکا استخدام می شود و ماموریت پیدا می کند صندوق مقدس گم شده را که نازی ها در پی یافتن آن هستند پیدا کرده و با خود به آمریکا بیاورد...",
+        "director": "Francis Ford Coppola",
+        "cast": ["Frederic Forrest", "Marlon Brando", "Martin Sheen", "Robert Duvall"],
+        "imdb": 8.4,
+        "genre": ["درام", "جنگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Apocalypse-Now.jpg"
+    },
+    {
+        "name_english": "Alien",
+        "name_persian": "بیگانه",
+        "year": 1979,
+        "story": "فیلم بیگانه (Alien) یک فضاپیما به نام نوسترومو در میانه سفر خود، تماس اضطراری ای از یک سیاره ناشناخته دریافت می کند. بعد از پاسخ به این تماس اضطراری، آنها متوجه می شوند که دیگر در سفینه خود تنها نیستند و...",
+        "director": "Ridley Scott",
+        "cast": ["John Hurt", "Sigourney Weaver", "Tom Skerritt", "Veronica Cartwright"],
+        "imdb": 8.4,
+        "genre": ["علمی", "ترسناک", "تخیلی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Alien.jpg"
     }
     
 ]
