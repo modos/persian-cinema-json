@@ -834,7 +834,151 @@
         "imdb": 8.3,
         "genre": ["جنگی", "درام"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Inglourious-Basterds.jpg"
+    },
+    {
+        "name_english": "Eternal Sunshine of the Spotless Mind",
+        "name_persian": "درخشش ابدی یک ذهن پاک",
+        "year": 2004,
+        "story": "فیلم درخشش ابدی یک ذهن پاک (Eternal Sunshine of the Spotless Mind) دکتر هاوارد کلینیکی دارد که افراد میتوانند خاطرات خود خواسته را از حافظه شان پاک کنند. جوئل که با کلمنتاین آشنا شده متوجه میشود ...",
+        "director": "Michel Gondry",
+        "cast": ["Jim Carrey", "Kate Winslet", "Gerry Robert Byrne", "Tom Wilkinson"],
+        "imdb": 8.3,
+        "genre": ["رمانتیک", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Eternal-Sunshine-of-the-Spotless-Mind.jpg"
+    },
+    {
+        "name_english": "Amelie",
+        "name_persian": "املی",
+        "year": 2001,
+        "story": "فیلم املی (Amelie) املی یک دختر فرانسوی است که با پدر پیرش زندگی می کند. تجربه های تلخ دوران کودکی اش باعث شده تا او کمی متفاوت به نظر آید. او در زندگی نمی تواند عادی رفتار کند .تا اینکه بسته ای را در درون دیوار خانه اش پیدا می کند و...",
+        "director": "Jean-Pierre Jeunet",
+        "cast": ["Audrey Tautou", "Lorella Cravotta", "Mathieu Kassovitz", "Rufus"],
+        "imdb": 8.3,
+        "genre": ["رمانتیک", "کمدی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Amelie.jpg"
+    },
+    {
+        "name_english": "Snatch",
+        "name_persian": "قاپ زنی",
+        "year": 2000,
+        "story": "فیلم قاپ زنی (Snatch) تورکیش و تامی از بوکسوری ایرلندی به نام میکی می خواهند تا در یک مسابقه ی مشت زنی شکست بخورد. از طرف دیکر یک گنگستر روسی، «باریس» که از گنگستری یهودی فرانکی می خواهد که از طرف او روی مسابقه شرط بندی کند و در عین حال از صاحب یک مغازه ی گرویی نیز می خواهد تا با هم دستان کودنش پولهای شرط بندی را بدزدند...",
+        "director": "Guy Ritchie",
+        "cast": ["Benicio Del Toro", "Brad Pitt", "Jason Statham", "Dennis Farina"],
+        "imdb": 8.3,
+        "genre": ["رمانتیک", "کمدی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Snatch.jpg"
+    },
+    {
+        "name_english": "Good Will Hunting",
+        "name_persian": "ویل هانتینگ نابغه",
+        "year": 1997,
+        "story": "فیلم ویل هانتینگ نابغه (Good Will Hunting) ویل هانتینگ یگ رفتگر در دانشگاه ام ای تی که استعداد زیادی در ریاضی دارد در زندگی خودش به مشکل خورده و پیش روانشناسی میرود تا با کمک او بتواند مسیر درست در زندگیش را پیدا کند...",
+        "director": "Gus Van Sant",
+        "cast": ["Ben Affleck", "Stellan Skarsgård", "Robin Williams", "Matt Damon"],
+        "imdb": 8.3,
+        "genre": ["رمانتیک", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Good-Will-Hunting.jpg"
+    },
+    {
+        "name_english": "Children of Heaven",
+        "name_persian": "بچه های آسمان",
+        "year": 1999,
+        "story": "فیلم بچه های آسمان (Children of Heaven) علی و زهرا مشکل مالی دارند. کم کم شرایط سخت و سخت تر می شود. علی و زهرا تصمیم می گیرند این مشکل را خودشان حل کنند و بدون اطلاع والدینشان...",
+        "director": "Majid Majidi",
+        "cast": ["Amir Farokh Hashemian", "Bahareh Sedighi", "Reza Naji", "Nafise Jar Mohammadi"],
+        "imdb": 8.3,
+        "genre": ["خانوادگی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Children-of-Heaven.jpg"
+    },
+    {
+        "name_english": "The Bandit",
+        "name_persian": "راهزنی",
+        "year": 1996,
+        "story": "فیلم راهزنی (Eskiya) باران راهزن افسانه ای بعد از 35 سال از زندان آزاد میشود و میبیند دنیا بسیار تغییر کرده و در حالی که هنوز در شوک تغییرات است به دنبال انتقام از همکارو دوست قدیمیش است که او را فروخته است...",
+        "director": "Yavuz Turgul",
+        "cast": ["Sener Sen", "Sermin Hürmeriç", "Ugur Yücel", "Yesim Salkim"],
+        "imdb": 8.3,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Bandit.jpg"
+    },
+    {
+        "name_english": "Toy Story",
+        "name_persian": "داستان اسباب بازی",
+        "year": 1995,
+        "story": "انیمیشن داستان اسباب بازی (Toy Story) یک عروسک قدیمی به نام وودی که رهبری اسباب‌بازی‌های پسربچه‌ای شش ساله را برعهده دارد، با ورود عروسک پیشرفته‌ای به نام باز، جایگاه خود را در میان اسباب‌بازی‌ها در خطر می‌بیند و...",
+        "director": "John Lasseter",
+        "cast": ["Tom Hanks", "Don Rickles", "Jim Varney", "Tim Allen"],
+        "imdb": 8.3,
+        "genre": ["انیمیشن", "خانوادگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Toy-Story.jpg"
+    },
+    {
+        "name_english": "Braveheart",
+        "name_persian": "شجاع دل",
+        "year": 1995,
+        "story": "فیلم شجاع دل (Braveheart) داستان زندگی حماسی یک آزادی خواه اسکاتلندی است که با انگلیسی‌ها برای استقلال می‌جنگد. «ویلیام والاس» شخصیتی ستودنی و کم نظیر است که در پی عشق به همسر از دست رفته‌اش و عشق به سرزمینش آخرین قطره خون خود را فدا می‌کند و...",
+        "director": "Mel Gibson",
+        "cast": ["Mel Gibson", "Angus Macfadyen", "Patrick McGoohan", "Sophie Marceau"],
+        "imdb": 8.3,
+        "genre": ["تاریخی", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Braveheart.jpg"
+    },
+    {
+        "name_english": "Reservoir Dogs",
+        "name_persian": "سگ های انباری",
+        "year": 1992,
+        "story": "فیلم سگ های انباری (Reservoir Dogs) شش سارق از طرف گنگستری به نام جو کپت و پسرش ادی برای سرقت از یک فروشگاه الماس‌فروشی اجیر می‌شوند...",
+        "director": "Quentin Tarantino",
+        "cast": ["Chris Penn", "Harvey Keitel", "Michael Madsen", "Tim Roth"],
+        "imdb": 8.3,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Reservoir-Dogs.jpg"
+    },
+    {
+        "name_english": "Full Metal Jacket",
+        "name_persian": "غلاف تمام فلزی",
+        "year": 1987,
+        "story": "فیلم غلاف تمام فلزی (Full Metal Jacket) واحد جذب نیروی نیروی دریایی ایالات متحده، کارولینای جنوبی. گروهبان توپخانه، هارتمن تیمی از داوطلبان تازه کار را می‌ پذیرد تا در هفته آینده زیر نظرش آموزش های لازمه را ببینند. شدت خشونت و خشم هراتمن چنان بالا است که کسی جرئت صحبت با او را ندارد. بزودی این تیم به جنگ ویتنام می روند و داستان فیلم از جا به اوج خود می رسد…",
+        "director": "Stanley Kubrick",
+        "cast": ["Adam Baldwin", "Matthew Modine", "R. Lee Ermey", "Vincent D'Onofrio"],
+        "imdb": 8.3,
+        "genre": ["جنگی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Full-Metal-Jacket.jpg"
+    },
+    {
+        "name_english": "Come and See",
+        "name_persian": "بیا و بنگر",
+        "year": 1985,
+        "story": "فیلم بیا و بنگر (Come and See) بعد از پیدا کردن یک تفنگ قدیمی پسر جوانی به نیروهای مقاومت شوروی می پیوندد تا در مقابل نیروهای آلمانی بایستد و وحشت جنگ جهانی را تجربه میکند...",
+        "director": "Elem Klimov",
+        "cast": ["Aleksey Kravchenko", "Liubomiras Laucevicius", "Olga Mironova", "Vladas Bagdonas"],
+        "imdb": 8.3,
+        "genre": ["جنگی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Come-and-See.jpg"
+    },
+    {
+        "name_english": "Aliens",
+        "name_persian": "بیگانه ها",
+        "year": 1986,
+        "story": "فیلم بیگانه ها (Aliens) پنجاه و هفت سال بعد از فاجعه ای که برای الن ریپلی رخ داد، سفینه فرار اضطراری او در کهکشان توسط یک تیم نجات در حالی که به خوابی عمیق فرو رفته، پیدا می شود. وقتی او را به زمین بر می گردانند هیچکس داستان او را باور نمی کند. اما او مسئول تیمی می شود که باید دوباره به آن سیاره برگردند و درجستجوی بازماندگان سفر قبلی و یا بیگانگان باشند...",
+        "director": "James Cameron",
+        "cast": ["Carrie Henn", "Michael Biehn", "Paul Reiser", "Sigourney Weaver"],
+        "imdb": 8.3,
+        "genre": ["اکشن", "علمی", "تخیلی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Aliens.jpg"
+    },
+    {
+        "name_english": "Amadeus",
+        "name_persian": "بیگانه ها",
+        "year": 1984,
+        "story": "فیلم آمادئوس (Amadeus) آنتونیو سالیری معتقد است که موسیقی موتزارت آوایی الهی است. آو آرزو می کرد همچون موتزارت یک موسیقیدان حرفه ای بود تا می توانست با نوشتن آهنگ...",
+        "director": "Milos Forman",
+        "cast": ["Elizabeth Berridge", "F. Murray Abraham", "Roy Dotrice", "Tom Hulce"],
+        "imdb": 8.3,
+        "genre": ["بیوگرافی", "تاریخی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Amadeus.jpg"
     }
+    
     
 ]
 
