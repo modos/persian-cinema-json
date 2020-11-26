@@ -969,7 +969,7 @@
     },
     {
         "name_english": "Amadeus",
-        "name_persian": "بیگانه ها",
+        "name_persian": "آمادئوس",
         "year": 1984,
         "story": "فیلم آمادئوس (Amadeus) آنتونیو سالیری معتقد است که موسیقی موتزارت آوایی الهی است. آو آرزو می کرد همچون موتزارت یک موسیقیدان حرفه ای بود تا می توانست با نوشتن آهنگ...",
         "director": "Milos Forman",
@@ -977,7 +977,282 @@
         "imdb": 8.3,
         "genre": ["بیوگرافی", "تاریخی"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Amadeus.jpg"
-    }
+    },
+    {
+        "name_english": "Scarface",
+        "name_persian": "صورت زخمی",
+        "year": 1983,
+        "story": "فیلم صورت زخمی (Scarface) در سال 1980 در میامی یک از پناهنده های کوبایی که به امریکا فرستاده شده اند مسوولیت یک کارتل مواد مخدر را به دست میگیرد و بلند پروازی خود را آغاز میکند...",
+        "director": "Brian De Palma",
+        "cast": ["Al Pacino", "Mary Elizabeth Mastrantonio", "Michelle Pfeiffer", "Steven Bauer"],
+        "imdb": 8.3,
+        "genre": ["درام", "جنایی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Scarface.jpg"
+    },
+    {
+        "name_english": "Star Wars 6: Return of the Jedi",
+        "name_persian": "جنگ ستارگان 6: بازگشت جدای",
+        "year": 1983,
+        "story": "فیلم جنگ ستارگان 6 بازگشت جدای (Star Wars: Episode VI - Return of the Jedi) لوک اسکای‌واکر به همراه اعضای اتحادیه انقلابیون به سیاره تاتوئین می‌رود تا دوستش هان سولو را از چنگ جابای هات نجات دهد. در همین اثنا، امپراتوری کهکشانی، تصمیم میگیرد تا با یک ستاره مرگ نیرومندتر، نیروهای انقلابی را در هم بشکند. هم‌زمان، ناوگان انقلابیون نیز در حال تدارک دیدن یک حمله تمام عیار به این ایستگاه فضایی جدید است ...",
+        "director": "Richard Marquand",
+        "cast": ["Harrison Ford", "Mark Hamill", "Carrie Fisher", "Billy Dee Williams"],
+        "imdb": 8.3,
+        "genre": ["تخیلی", "علمی", "اکشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Star-Wars-6-Return-of-the-Jedi.jpg"
+    },
+    {
+        "name_english": "Das Boot",
+        "name_persian": "کشتی",
+        "year": 1981,
+        "story": "فیلم کشتی (Das Boot) فرانسه هنگام جنگ جهانی دوم به دست نیروهای ارتش آلمان نازی اشغال شده و نیروی دریائی آلمان نازی یکی از بندرهای فرانسه اشغالی به نام بندر لاروشل را که در باختر فرانسه است پایگاه جنگی خودش کرده است، در سال ۱۹٤۱ یکی از زیردریائی های نیروی دریائی آلمان نازی به فرماندهی کاپیتان کلون (با بازی یورگن پروشنو) از بندر لاروشل برای شرکت در نبرد آتلانتیک رهسپار دریا می شود...",
+        "director": "Wolfgang Petersen",
+        "cast": ["Herbert Grönemeyer", "Klaus Wennemann", "Jürgen Prochnow", "Hubertus Bengsch"],
+        "imdb": 8.3,
+        "genre": ["جنگی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Das-Boot.jpg"
+    },
+    {
+        "name_english": "Taxi Driver",
+        "name_persian": "راننده تاکسی",
+        "year": 1976,
+        "story": "فیلم راننده تاکسی (Taxi Driver) مردی تنها و افسرده به نام تراویس بیکل که در شهر نیویورک سکونت دارد و از بی‌خوابی مزمن رنج می‌برد، در طول شب به عنوان راننده تاکسی مشغول به فعالیت می‌شود. از آنجایی که تراویس نمی‌تواند به معضل‌های اجتماعی پیرامون خود بی‌تفاوت باشد، تصمیم می‌گیرد که...",
+        "director": "Martin Scorsese",
+        "cast": ["Robert De Niro", "Jodie Foster", "Cybill Shepherd", "Albert Brooks"],
+        "imdb": 8.3,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Taxi-Driver.jpg"
+    },
+    {
+        "name_english": "The Sting",
+        "name_persian": "نیش",
+        "year": 1973,
+        "story": "فیلم نیش (The Sting) جانی هوکر به همراه لوتر کولمن درجولیت ایلی نویز جیب بری می‌کردند تا اینکه در یکی از این تلکه کردن‌ها آن‌ها به‌طور اتفاقی پول هنگفتی را از بانکدار معروفی به نام دویل لانگان کلاهبرداری می‌کنند. این امر به کشته شدن لوتر می‌انجامد. جانی با همکاری دوست قدیمی لوتر، هنری گندورف که در شیکاگو زندگی می‌کند سعی در انتقام‌گیری از لانگان را دارد...",
+        "director": "George Roy Hill",
+        "cast": ["Paul Newman", "Charles Durning", "Robert Redford", "Robert Shaw"],
+        "imdb": 8.3,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Sting.jpg"
+    },
+    {
+        "name_english": "2001: A Space Odyssey",
+        "name_persian": "دو هزار و یک: یک ادیسه فضایی",
+        "year": 1968,
+        "story": "فیلم 2001 یک ادیسه فضایی (2001: A Space Odyssey) در دوران ماقبل تاریخ شروع می شود جائیکه با ظهور بلوکه ای عظیم میمونها وحشتزده به اینسو و انسو می روند. سپس به عصر مدرن می رویم جائیکه بلوکه ای دیگر روی ماه کشف شده است که امواجی را مداوما به مشتری می فرستد. دکتر دیوید بومن (کی ر دول آ)، فرانک پولی (گری لاکوود)، سه دانشمند منجمد شده و هال ۹۰۰۰ کامپیوتری که مغز سفینه است به مشتری فرستاده شده اند تا گیرنده امواج را شناسایی کنند. اما این ماموریت با خطر مواجه شده است، هال ۹۰۰۰ باید تصمیم بگیرد که جان خدمه مهم تر است و یا اهداف ماموریت...",
+        "director": "Stanley Kubrick",
+        "cast": ["William Sylvester", "Keir Dullea", "Gary Lockwood", "Daniel Richter"],
+        "imdb": 8.3,
+        "genre": ["تخیلی", "علمی", "ماجراجویی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/2001-A-Space-Odyssey.jpg"
+    },
+    {
+        "name_english": "For a Few Dollars More",
+        "name_persian": "به خاطر چند دلار",
+        "year": 1965,
+        "story": "فیلم به خاطر چند دلار بیشتر (For a Few Dollars More) داستان مانکو جایزه بگیری است که ایندیو و گروهش را دنبال می کند. در حین این تعقیب او با جایزه بگیر دیگری، کلنل مارتیمور دیدار می کند، این دو تصمیم می گیرند با هم شریک شوند و ایندیو را برای بدست آوردن جایزه دستگیر کنند اما...",
+        "director": "Sergio Leone",
+        "cast": ["Clint Eastwood", "Mara Krupp", "Lee Van Cleef", "Gian Maria Volontè"],
+        "imdb": 8.3,
+        "genre": ["وسترن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/For-a-Few-Dollars-More.jpg"
+    },
+    {
+        "name_english": "Lawrence of Arabia",
+        "name_persian": "لورنس عربستان",
+        "year": 1962,
+        "story": "فیلم لورنس عربستان (Lawrence of Arabia) لورنس عربستان فیلمی حماسی بر پایه ی زندگی توماس ادوارد لورنس می باشد. داستان فیلم درباره ی تجربه‌ های لورنس در عربستان در زمان جنگ جهانی اول است که…",
+        "director": "David Lean",
+        "cast": ["Anthony Quinn", "Alec Guinness", "Peter O'Toole", "Jack Hawkins"],
+        "imdb": 8.3,
+        "genre": ["بیوگرافی", "تاریخی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Lawrence-of-Arabia.jpg"
+    },
+    {
+        "name_english": "North by Northwest",
+        "name_persian": "شمال از شمال غربی",
+        "year": 1959,
+        "story": "فیلم شمال از شمال غربی (North by Northwest) داستانی پرحاشیه و ترسناک از مردی که به طور ناخواسته درگیر ماجرای جاسوسی شده و خود را با اتهاماتی روبرو می‌بیند و زنی که قصد یاری رساندن به او را دارد و...",
+        "director": "Alfred Hitchcock",
+        "cast": ["James Mason", "Jessie Royce Landis", "Eva Marie Saint", "Cary Grant"],
+        "imdb": 8.3,
+        "genre": ["رازآلود", "ماجراجویی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/North-by-Northwest.jpg"
+    },
+    {
+        "name_english": "Vertigo",
+        "name_persian": "سرگیجه",
+        "year": 1959,
+        "story": "فیلم سرگیجه (Vertigo) یک کارآگاه سابق پلیس، مشغول مبارزه با شیاطین درونش است و همزمان گرفتار عشق یک بانوی بسیار زیبا می‌شود و ...",
+        "director": "Alfred Hitchcock",
+        "cast": ["James Stewart", "Barbara Bel Geddes", "Tom Helmore", "Kim Novak"],
+        "imdb": 8.3,
+        "genre": ["رازآلود", "عاشقانه"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Vertigo.jpg"
+    },
+    {
+        "name_english": "Ikiru",
+        "name_persian": "زیستن",
+        "year": 1952,
+        "story": "فیلم زیستن (Ikiru) داستان کانجی مردی میانسال است که برای سی سال در یک شغل اداری فعالیت کرده و پس از مرگ همسرش، زندگی خود را وقف پسرش کرده، اما تنها چیزی که برای پسرش مهم است، حقوق بازنشستگی «کانجی» است و...",
+        "director": "Akira Kurosawa",
+        "cast": ["Haruo Tanaka", "Nobuo Kaneko", "Takashi Shimura", "Shin'ichi Himori"],
+        "imdb": 8.3,
+        "genre": ["درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Ikiru.jpg"
+    },
+    {
+        "name_english": "Bicycle Thieves",
+        "name_persian": "دزد دوچرخه",
+        "year": 1952,
+        "story": "فیلم دزد دوچرخه (Bicycle Thieves) در مورد کارگر بی کاری است که سرانجام در شغل اعلامیه چسبانی استخدام می شود. وی مجبور است برای اینکه در این شغل تأیید شود، دوچرخه ای را به همراه داشته باشد تا بوسیله آن پوسترها در سطح شهر نصب نماید. از اینرو با توجه به فقر خانواده اش، با پول ملحفه های تخت خواب خانه که می فروشد و دوچرخه قدیمی خود را که گرو بانک است، آزاد می کند و سر کار می رود. اما پس از چند روز کار، دزدی دوچرخه را می دزدد و آنتونیو مجبور است برای اینکه شغلش را از دست ندهد، هرچه سریعتر دوچرخه اش را پیدا کند. برای همین با کمک پسر کوچک و دوستانش، در شهر جستجو می کنند و ....",
+        "director": "Vittorio De Sica",
+        "cast": ["Elena Altieri", "Enzo Staiola", "Lianella Carell", "Lamberto Maggiorani"],
+        "imdb": 8.3,
+        "genre": ["درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Bicycle-Thieves.jpg"
+    },
+    {
+        "name_english": "M",
+        "name_persian": "M - Eine Stadt sucht einen Mörder",
+        "year": 1931,
+        "story": "فیلم ام شهری به دنبال یک قاتل می‌گردد (M - Eine Stadt sucht einen Mörder) برلین در هراس از قاتلى ( لوره ) است که دختران کوچک را بیرحمانه مىکشد و پلیس هیچ سرنخى از او ندارد...",
+        "director": "Fritz Lang",
+        "cast": ["Peter Lorre", "Otto Wernicke", "Inge Landgut", "Ellen Widmann"],
+        "imdb": 8.3,
+        "genre": ["رازآلود", "جنایی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/M.jpg"
+    },
+    {
+        "name_english": "The Kid",
+        "name_persian": "پسر بچه",
+        "year": 1921,
+        "story": "فیلم پسر بچه (The Kid) داستان مادر تنهایی است که توان مراقبت از کودک تازه به دنیا آمده اش را ندارد وی را داخل اتومبیل خانواده ثروتمندی می گذارد اما دو سارق اتومبیل را به سرقت می برند و وقتی متوجه کودک می شوند وی را در خرابه ای رها می کنند. ولگردی او را پیدا می کند....",
+        "director": "Charles Chaplin",
+        "cast": ["Charles Chaplin", "Carl Miller", "Jackie Coogan", "Edna Purviance"],
+        "imdb": 8.3,
+        "genre": ["خانوادگی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Kid.jpg"
+    },
+    {
+        "name_english": "Green Book",
+        "name_persian": "کتاب سبز",
+        "year": 2018,
+        "story": "فیلم کتاب سبز (Green Book) روایت رابطه یک پیانیست آفریقایی - آمریکایی به نام دان شرلی و راننده ایتالیایی - آمریکایی او در جریان تور سال 1960 است، و اتفاقات پیرامون این دو نفر در اوج درگیری های نژاد پرستی در آمریکا را نشان می دهد...",
+        "director": "Peter Farrelly",
+        "cast": ["Viggo Mortensen", "Mahershala Ali", "Linda Cardellini", "Sebastian Maniscalco"],
+        "imdb": 8.3,
+        "genre": ["بیوگرافی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Green-Book.jpg"
+    },
+    {
+        "name_english": "Three Billboards Outside Ebbing Missouri",
+        "name_persian": "سه بیلبورد خارج از ابینگ میزوری",
+        "year": 2017,
+        "story": "فیلم سه بیلبورد خارج از ابینگ میزوری (Three Billboards Outside Ebbing, Missouri) داستان یک مادر است که شخصا با مسولین محلی در می افتد تا پرونده قتل دخترش را وقتی آنها نمیتوانند متهم را دستگیر کنند خودش حل کند...",
+        "director": "Martin McDonagh",
+        "cast": ["Woody Harrelson", "Sam Rockwell", "Frances McDormand", "Caleb Landry Jones"],
+        "imdb": 8.3,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Three-Billboards-Outside-Ebbing-Missouri.jpg"
+    },
+    {
+        "name_english": "Klaus",
+        "name_persian": "کلاوس",
+        "year": 2019,
+        "story": "انیمیشن کلاوس (Klaus) یک پستچی در هنگام انجام ماموریت خود در یک شهر یخ زده واقع در شمال متوجه میشود که بابانوئل خود را مخفی کرده است و …",
+        "director": "Carlos Martínez López",
+        "cast": ["J.K. Simmons", "Will Sasso", "Rashida Jones", "Jason Schwartzman"],
+        "imdb": 8.3,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Klaus.jpg"
+    },
+    {
+        "name_english": "Drishyam",
+        "name_persian": "گول ظاهر را نخور",
+        "year": 2015,
+        "story": "فیلم گول ظاهر را نخور (Drishyam) خانواده ای به شکل غیر منتظره درگیر یک جرم میشوند و مرد خانواده تلاش میکند تا خانواده اش را از نیمه‌ی تاریک قانون نجات دهد…",
+        "director": "Nishikant Kamat",
+        "cast": ["Ajay Devgn", "Rajat Kapoor", "Shriya Saran", "Tabu"],
+        "imdb": 8.3,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Drishyam.jpg"
+    },
+    {
+        "name_english": "Winter Sleep",
+        "name_persian": "خواب زمستانی",
+        "year": 2014,
+        "story": "فیلم خواب زمستانی (Winter Sleep) آیدین، بازیگر بازنشسته ای است که حالا یک هتل کوچک در مرکز آناتولی را اداره می کند و روابطش با همسر جوانش، نیهال بسیار خروشان و جنجالی شده است و خواهرش نِجلا هم در تلاطم طلاقی است که تازه پشت سر گذاشته...",
+        "director": "Nuri Bilge Ceylan",
+        "cast": ["Ayberk Pekcan", "Melisa Sözen", "Haluk Bilginer", "Demet Akbag"],
+        "imdb": 8.3,
+        "genre": ["درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Winter-Sleep.jpg"
+    },
+    {
+        "name_english": "The Secret in Their Eyes",
+        "name_persian": "راز چشمان آن‌ها",
+        "year": 2009,
+        "story": "فیلم راز چشمان آن‌ها (The Secret in Their Eyes) داستان یک مشاور دولتی است که رمانی در مورد یک پروندهای حل نشده خودکشی زمان کارش و عشق یک طرفه اش مینویسد و ....",
+        "director": "Juan José Campanella",
+        "cast": ["Carla Quevedo", "Pablo Rago", "Soledad Villamil", "Ricardo Darín"],
+        "imdb": 8.3,
+        "genre": ["درام", "رازآلود"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Secret-in-Their-Eyes.jpg"
+    },
+    {
+        "name_english": "Warrior",
+        "name_persian": "مبارز",
+        "year": 2011,
+        "story": "فیلم مبارز (Warrior) برند کانلون با بازی جوئل ادگرتون و تامی کانلون با بازی تام هاردی دو برادرند که گذشته سختی را گذرانده اند و با هم رابطه خوبی ندارند. تامی و برند در مسابقه هنرهای رزمی ترکیبی شرکت می کنند و برای بدست آوردن جایزه نخست که 5 میلیون دلار است با هم رقابت می کنند...",
+        "director": "Gavin O'Connor",
+        "cast": ["Tom Hardy", "Joel Edgerton", "Nick Nolte", "Jennifer Morrison"],
+        "imdb": 8.3,
+        "genre": ["درام", "ورزشی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Warrior.jpg"
+    },
+    {
+        "name_english": "There Will Be Blood",
+        "name_persian": "خون به پا خواهد شد",
+        "year": 2007,
+        "story": "فیلم خون به پا خواهد شد (There Will Be Blood) دنیل پلین‌ویو در سال ۱۸۹۸ پس از آنکه باخبر می‌شود در دشتی در غرب آمریکا نفت پیدا شده، به سرعت همراه با پسرخوانده‌اش راهی غرب می‌شود و...",
+        "director": "Paul Thomas Anderson",
+        "cast": ["Daniel Day-Lewis", "Paul Dano", "Martin Stringer", "Ciarán Hinds"],
+        "imdb": 8.3,
+        "genre": ["درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/There-Will-Be-Blood.jpg"
+    },
+    {
+        "name_english": "Pans Labyrinth",
+        "name_persian": "هزارتوی افسانه ای",
+        "year": 2006,
+        "story": "فیلم خون به پا خواهد شد (There Will Be Blood) دنیل پلین‌ویو در سال ۱۸۹۸ پس از آنکه باخبر می‌شود در دشتی در غرب آمریکا نفت پیدا شده، به سرعت همراه با پسرخوانده‌اش راهی غرب می‌شود و...",
+        "director": "Guillermo del Toro",
+        "cast": ["Ariadna Gil", "Sergi López", "Maribel Verdú", "Ivana Baquero"],
+        "imdb": 8.3,
+        "genre": ["درام", "جنگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Pans-Labyrinth.jpg"
+    },
+    {
+        "name_english": "V for Vendetta",
+        "name_persian": "انتقام جو",
+        "year": 2006,
+        "story": "فیلم انتقام جو (V for Vendetta) مبارزی که با نام مستعار «وی» شناخته می‌شود، علیه استبداد در دولت بریتانیا دست به مقابله می‌زند و به کمک یک زن جوان، نقشه‌ای برای سرنگون کردن حکومت تهیه می‌کند، تا اینکه...",
+        "director": "James McTeigue",
+        "cast": ["Hugo Weaving", "Natalie Portman", "Stephen Rea", "Rupert Graves"],
+        "imdb": 8.2,
+        "genre": ["جنایی", "اکشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/V-for-Vendetta.jpg"
+    },
+    {
+        "name_english": "Inside Out",
+        "name_persian": "سرنشینان",
+        "year": 2015,
+        "story": "انیمیشن سرنشینان (Inside Out) انیمیشن سرنشینان درباره ی دختر شاد و پر انرژی 11 ساله ای به نام رایلی است که به دلیل شرایط خانوادگی مجبور می شود به همراه خانواده اش به شهر سان فرانسیسکو نقل مکان کند. این دختر کوچولو در این شهر جدید بایستی دوستان جدیدی پیدا کرده و وضعیت خودش را با این محیط جدیدش تطابق دهد. اما پنج حس حیاتی او که شامل خوشحالی، غم، عصابانیت، ترس و خجالت نمی توانند در این موقعیت جدیدی که رایلی در آن قرار دارد مدیریت همیشگی که بر ذهن او داشتند هم اکنون نیز داشته باشند و در این محیط جدید این پنج حس دائما در حال کشمکش هستند ولی…",
+        "director": "Pete Docter",
+        "cast": ["Amy Poehler", "Mindy Kaling", "Lewis Black", "Bill Hadar"],
+        "imdb": 8.2,
+        "genre": ["انیمیشن", "خانوادگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Inside-Out.jpg"
+    }                                                            
     
     
 ]
