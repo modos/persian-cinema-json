@@ -378,7 +378,7 @@
         "name_persian": "تاریخ مجهول آمریکا",
         "year": 1995,
         "story": "فیلم مظنونین همیشگی (The Usual Suspects) تنها بازمانده حادثه تیراندازی در یک کشتی، مشاهدات خود درباره چگونگی آغاز درگیری بین پلیس و خلافکارها را توضیح می‌دهد و...",
-        "directory": "Bryan Singer",
+        "director": "Bryan Singer",
         "cast": ["Kevin Spacey", "Stephen Baldwin", "Gabriel Byrne", " Palminteri"],
         "imdb": 8.5,
         "genre": ["رازآلود", "جنایی"],
@@ -1252,7 +1252,150 @@
         "imdb": 8.2,
         "genre": ["انیمیشن", "خانوادگی"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Inside-Out.jpg"
-    }                                                            
+    },
+    {
+        "name_english": "Rang De Basanti",
+        "name_persian": "زعفرانی رنگش کن",
+        "year": 2006,
+        "story": "فیلم زعفرانی رنگش کن (Rang De Basanti) داستان شش هندی جوان که به زنی انگلیسی کمک میکنند تا مستندی در مورد مبارزان آزادی خواه قدیمی بسازد و این باعث میشود آنها...",
+        "director": "Rakeysh Omprakash Mehra",
+        "cast": ["Aamir Khan", "Sharman Joshi", "Siddharth", "Soha Ali Khan"],
+        "imdb": 8.2,
+        "genre": ["کمدی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Rang-De-Basanti.jpg"
+    },
+    {
+        "name_english": "Batman Begins",
+        "name_persian": "بتمن آغاز کرد",
+        "year": 2005,
+        "story": "فیلم بتمن آغاز کرد (Batman Begins) بروس وین که در کودکی شاهد قتل پدر و مادرش بوده و نمی تواند این خاطرات تلخ را از ذهنش پاک کند همچون آواره ای از یک نقطه به نقطه دیگر جهان سفر کرده و با تبهکاران مبارزه می کند . او در نقطه ای از آسیا با فردی مرموز به اسم هنری دوکارد آشنا می شود که به او پیشنهاد می کند با انجام تمرینات سخت فیزیکی به عضویت انجمن سایه ها به رهبری “راس ال گول” درآید . بروس می پذیرد و تمرینات دشوار را با موفقیت پشت سر می گذارد اما زمانیکه انجمن از او می خواهد فرد بیگناهی را بقتل برسانتد قبول نکرده و به زادگاه خود شهر گاتهام بر می گردد تا …",
+        "director": "Christopher Nolan",
+        "cast": ["Christian Bale", "Michael Caine", "Liam Neeson", "Ken Watanabe"],
+        "imdb": 8.2,
+        "genre": ["ماجراجویی", "اکشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Batman-Begins.jpg"
+    },
+    {
+        "name_english": "Downfall",
+        "name_persian": "سقوط",
+        "year": 2004,
+        "story": "فیلم سقوط (Downfall) تراودل یونگه ، آخرین منشی و ماشین‌نویس آدولف هیتلر، داستان روزهای آخر زندگی پیشوای آلمان را تعریف می‌کند که در پناهگاهی در برلین می‌گذرد...",
+        "director": "Oliver Hirschbiegel",
+        "cast": ["Alexandra Maria Lara", "Bruno Ganz", "Ulrich Matthes", "Juliane Köhler"],
+        "imdb": 8.2,
+        "genre": ["تاریخی", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Downfall.jpg"
+    },
+    {
+        "name_english": "Howls Moving Castle",
+        "name_persian": "قلعه متحرک هاول",
+        "year": 2004,
+        "story": "انیمیشن قلعه متحرک هاول (Howl's Moving Castle) داستانی عاشقانه بین دختری 18 ساله به اسم سوفی، نفرین شده توسط جادوگری و دربند شده در بدن یک پیرزن، و یک جاذوگر به نام هارو است. سوفی بخاطر طلسم، به دنبال سرنوشتش می رود، سرنوشتی که او را به قلعه متحرک و عجیب هارو هدایت می کند. در قلعه، سوفی با دیو آتش هارو، کاریشیفا آشنا می شود. کاریشیفا به او قول می دهد تا طلسم را از روی او بردارد و او را به 18 سالگی برگرداند، ولی تنها به شرطی که ....",
+        "director": "Hayao Miyazaki",
+        "cast": ["Tatsuya Gashûin", "Takuya Kimura", "Chieko Baishô", "Akihiro Miwa"],
+        "imdb": 8.2,
+        "genre": ["انیمیشن", "خانوادگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Howls-Moving-Castle.jpg"
+    },
+    {
+        "name_english": "A Beautiful Mind",
+        "name_persian": "ذهن زیبا",
+        "year": 2001,
+        "story": "فیلم ذهن زیبا (A Beautiful Mind) ریاضی‌دان معروف جان نش که دارای خلق و خویی خاص و نه چندان اجتماعی است، می‌پذیرد که کار روی یک پروژه مخفیانه در زمینه رمزنگاری را آغاز کند، تصمیمی که زندگی او را دگرگون می‌کند و...",
+        "director": "Ron Howard",
+        "cast": ["Russell Crowe", "Jennifer Connelly", "Ed Harris", "Christopher Plummer"],
+        "imdb": 8.2,
+        "genre": ["بیوگرافی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/A-Beautiful-Mind.jpg"
+    },
+    {
+        "name_english": "Lock Stock and Two Smoking Barrels",
+        "name_persian": "قفل انبار و دو بشکه باروت",
+        "year": 1998,
+        "story": "فیلم قفل انبار و دو بشکه باروت (Lock, Stock and Two Smoking Barrels) داستان یک سرقت را روایت می‌کند که درمورد پسری با اعتماد به نفس بالا است که ۵۰۰،۰۰۰ پوند به رئیس یکی از بزرگترین خلافکاران شهر بهکار است . برای اینکه پسر و دوستانش بتوانند بدهی خود را پرداخت کنند تصمیم به سرقت از گروهی خلافکار دیگر می‌گیرند که در آپارتمان کناری آن‌ها زندگی می‌کنند...",
+        "director": "Guy Ritchie",
+        "cast": ["Jason Statham", "Dexter Fletcher", "Nick Moran", "Jason Flemyng"],
+        "imdb": 8.2,
+        "genre": ["کمدی", "جنایی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Lock-Stock-and-Two-Smoking-Barrels.jpg"
+    },
+    {
+        "name_english": "LA Confidential",
+        "name_persian": "محرمانه لس آنجلس",
+        "year": 1997,
+        "story": "فیلم محرمانه لس آنجلس (L.A. Confidential) سه پلیس به نام‌های ادموند اکسلی، جک وینسنز و وندل باد وایت مامور تحقیق در‌مورد تعدادی قتل هستند و به روش خاص خود به دنبال اجرای عدالت رفته‌اند. آنها به دنیای زیرزمینی جنایتکاران شهر لس آنجلس وارد می‌شوند که نهایتاً تمامی این فسادها ختم میشود به...",
+        "director": "Curtis Hanson",
+        "cast": ["Russell Crowe", "Kim Basinger", "Kevin Spacey", "Guy Pearce"],
+        "imdb": 8.2,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/LA-Confidential.jpg"
+    },
+    {
+        "name_english": "Heat",
+        "name_persian": "محرمانه لس آنجلس",
+        "year": 1995,
+        "story": "فیلم مخمصه (Heat) داستان چند بانک زن حرفه ای است که در آخرین سرقت خود در مخمصه ای با پلیس گیر می افتند و در ادامه پلیس به دنبال دستگیری آنها است ولی ...",
+        "director": "Michael Mann",
+        "cast": ["Al Pacino", "Robert De Niro", "Jon Voight", "Val Kilmer"],
+        "imdb": 8.2,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Heat.jpg"
+    },
+    {
+        "name_english": "Unforgiven",
+        "name_persian": "نابخشوده",
+        "year": 1992,
+        "story": "فیلم نابخشوده (Unforgiven) داستان فیلم در سال ۱۹۸۸ در ایالت وایومینگ می گذرد، زنی پیش خدمتی است که توسط دو گاوچران مجروح و از ریخت می افتد. کلانتر شهر (جین هکمن) تنها به جریمه کردنشان اکتفا می کند. اما دوستان زن برای کسی که بتواند انتقامش را بگیرد هزار دلار جایزه می گذارند. ویلیام مانی (کلینت ایستوود) هفت تیرکش که توبه کرده ولی هنوز گذشته زشتش عذابش می دهد به کمک دوست قدیمی اش (مورگان فریمن) و یک مرد جوان آخرین کار خود را شروع می کند...",
+        "director": "Clint Eastwood",
+        "cast": ["Clint Eastwood", "Gene Hackman", "Morgan Freeman", "Richard Harris"],
+        "imdb": 8.2,
+        "genre": ["وسترن", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Unforgiven.jpg"
+    },
+    {
+        "name_english": "Indiana Jones 3: and the Last Crusade",
+        "name_persian": "ایندیانا جونز و آخرین جنگ صلیبی",
+        "year": 1989,
+        "story": "فیلم ایندیانا جونز و آخرین جنگ صلیبی (Indiana Jones and the Last Crusade) ایندیانا جونز پروفسور باستان شناسی است که برای برگرداندن اشیای تاریخی به موزه ها می جنگد. مجموعه داری ثروتمند به نام والتر به او می گوید که پدرش دکتر جونز متخصص قرون وسطی، در میانه ی جست و جو برای یافتن جام مقدس ناپدید شده است و ایندی سعی می کند جای او را پیدا کند...",
+        "director": "Steven Spielberg",
+        "cast": ["Harrison Ford", "Sean Connery", "Denholm Elliott", "Alison Doody"],
+        "imdb": 8.2,
+        "genre": ["اکشن", "ماجراجویی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Indiana-Jones-3-and-the-Last-Crusade.jpg"
+    },
+    {
+        "name_english": "My Neighbor Totoro",
+        "name_persian": "ایندیانا جونز و آخرین جنگ صلیبی",
+        "year": 1989,
+        "story": "فیلم ایندیانا جونز و آخرین جنگ صلیبی (Indiana Jones and the Last Crusade) ایندیانا جونز پروفسور باستان شناسی است که برای برگرداندن اشیای تاریخی به موزه ها می جنگد. مجموعه داری ثروتمند به نام والتر به او می گوید که پدرش دکتر جونز متخصص قرون وسطی، در میانه ی جست و جو برای یافتن جام مقدس ناپدید شده است و ایندی سعی می کند جای او را پیدا کند...",
+        "director": "Hayao Miyazaki",
+        "cast": ["Chika Sakamoto", "Naoki Tatsuta", "Noriko Hidaka", "Shigesato Itoi"],
+        "imdb": 8.2,
+        "genre": ["انیمیشن", "خانوادگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/My-Neighbor-Totoro.jpg"
+    },
+    {
+        "name_english": "Die Hard",
+        "name_persian": "جان سخت",
+        "year": 1989,
+        "story": "فیلم جان سخت (Die Hard) گروهی تروریست اداره ی مرکزی جدید یک شرکت ژاپنی در لس آنجلس را تصرف می کنند و مهمانان شرکت کنندگان در مهمانی شب سال نو را به گروگان می گیرند. در این جا جان مکلین پلیس نیویورکی، نبردی یک تنه را علیه مهاجمان آغاز می کند...",
+        "director": "John McTiernan",
+        "cast": ["Bruce Willis", "Bonnie Bedelia", "Reginald VelJohnson", "Alan Rickman"],
+        "imdb": 8.2,
+        "genre": ["اکشن", "هیجان انگیز"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Die-Hard.jpg"
+    },
+    {
+        "name_english": "Ran",
+        "name_persian": "آشوب",
+        "year": 1985,
+        "story": "فیلم آشوب (Ran) پادشاهی ستمگر که برای گسترش قلمرو خود به جنگ و خونریزی می پرداخت، در اواخر عمر اموال خود را بین پسرانش تقسیم و پسر بزرگتر را به عنوان وارث انتخاب می کند. ولی پسر کوچک از این اتفاق ناراضی است و او را ترک می کند...",
+        "director": "Akira Kurosawa",
+        "cast": ["Akira Terao", "Tatsuya Nakadai", " Daisuke Ryû", "Jinpachi Nezu"],
+        "imdb": 8.2,
+        "genre": ["اکشن", "جنگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Ran.jpg"
+    }                                                                         
     
     
 ]
