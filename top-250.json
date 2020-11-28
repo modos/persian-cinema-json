@@ -1112,7 +1112,7 @@
     },
     {
         "name_english": "M",
-        "name_persian": "M - Eine Stadt sucht einen Mörder",
+        "name_persian": "ام",
         "year": 1931,
         "story": "فیلم ام شهری به دنبال یک قاتل می‌گردد (M - Eine Stadt sucht einen Mörder) برلین در هراس از قاتلى ( لوره ) است که دختران کوچک را بیرحمانه مىکشد و پلیس هیچ سرنخى از او ندارد...",
         "director": "Fritz Lang",
@@ -1391,11 +1391,154 @@
         "year": 1985,
         "story": "فیلم آشوب (Ran) پادشاهی ستمگر که برای گسترش قلمرو خود به جنگ و خونریزی می پرداخت، در اواخر عمر اموال خود را بین پسرانش تقسیم و پسر بزرگتر را به عنوان وارث انتخاب می کند. ولی پسر کوچک از این اتفاق ناراضی است و او را ترک می کند...",
         "director": "Akira Kurosawa",
-        "cast": ["Akira Terao", "Tatsuya Nakadai", " Daisuke Ryû", "Jinpachi Nezu"],
+        "cast": ["Akira Terao", "Tatsuya Nakadai", "Daisuke Ryû", "Jinpachi Nezu"],
         "imdb": 8.2,
         "genre": ["اکشن", "جنگی"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Ran.jpg"
-    }                                                                         
+    },
+    {
+        "name_english": "Raging Bull",
+        "name_persian": "گاو خشمگین",
+        "year": 1980,
+        "story": "فیلم گاو خشمگین (Raging Bull) این فیلم تصویر زندگی جیک لا موتا بوکسور معروف امریکایی است. تصویری از عاشقی هایش و به قهرمانی رسیدنش، از دلهره ها و شک هایش و از مغلوب شدنش در مبارزه با غول شهرت...",
+        "director": "Martin Scorsese",
+        "cast": ["Robert De Niro", "Joe Pesci", "Cathy Moriarty", "Frank Vincent"],
+        "imdb": 8.2,
+        "genre": ["درام", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Raging-Bull.jpg"
+    },
+    {
+        "name_english": "Stalker",
+        "name_persian": "استاکر",
+        "year": 1979,
+        "story": "فیلم استاکر (Stalker) داستان منطقه‌ای اسرارآمیز در دنیایی پس از فاجعه است. در منطقه محلی وجود دارد که مردم باور دارند در آن عمیق‌ترین آرزوهای قلبی فرد برآورده می‌شوند. داستان فیلم پویش راهنما (استاکر) برای رساندن دو زائر به محل است...",
+        "director": "Andrei Tarkovsky",
+        "cast": ["Nikolay Grinko", "Anatoliy Solonitsyn", "Alisa Freyndlikh", "Aleksandr Kaydanovskiy"],
+        "imdb": 8.2,
+        "genre": ["درام", "علمی", "تخیلی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Stalker.jpg"
+    },
+    {
+        "name_english": "Monty Python and the Holy Grail",
+        "name_persian": "مانتی پایتون و جام مقدس",
+        "year": 1975,
+        "story": "فیلم مانتی پایتون و جام مقدس (Monty Python and the Holy Grail) شاه آرتور به همراه شوالیه های باوفای خود به دنبال یافتن جام مقدس به موانع احمقانه زیادی برمی خورند...",
+        "director": "Terry Gilliam",
+        "cast": ["Terry Gilliam", "John Cleese", "Graham Chapman", "Eric Idle"],
+        "imdb": 8.2,
+        "genre": ["فانتزی", "ماجراجویی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Monty-Python-and-the-Holy-Grail.jpg"
+    },
+    {
+        "name_english": "Chinatown",
+        "name_persian": "محله چینی ها",
+        "year": 1974,
+        "story": "فیلم محله چینی ها (Chinatown) داستان جیک کارآگاه خصوصی لس آنجلسی و متخصص در امور افشای خیانت های زناشویی است که توسط زنی که خود را خانوم مالوری معرفی می کند استخدام می شود تا پرده از راز خیانت شوهر او بردارد. آقای مالوری که درگیر برنامه ای دربارهٔ سدسازی و آبرسانی در زمان قحطی است، توسط گیتس تعقیب می شود و چند عکس رسواکننده که نشانگر خیانتش بود، به طور اتفاقی در یکی دو روزنامهٔ محلی چاپ می شود. اما خیلی زود خانوم مالوری واقعی به این عمل کارآگاه اعتراض کرده و مشخص می شود همگی قربانی ماجرای رازآلودی شده اند...",
+        "director": "Roman Polanski",
+        "cast": ["Jack Nicholson", "Perry Lopez", "John Huston", "Faye Dunaway"],
+        "imdb": 8.2,
+        "genre": ["رازآلود", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Chinatown.jpg"
+    },
+    {
+        "name_english": "Andrei Rublev",
+        "name_persian": "آندری روبلف",
+        "year": 1966,
+        "story": "فیلم محله چینی ها (Chinatown) داستان جیک کارآگاه خصوصی لس آنجلسی و متخصص در امور افشای خیانت های زناشویی است که توسط زنی که خود را خانوم مالوری معرفی می کند استخدام می شود تا پرده از راز خیانت شوهر او بردارد. آقای مالوری که درگیر برنامه ای دربارهٔ سدسازی و آبرسانی در زمان قحطی است، توسط گیتس تعقیب می شود و چند عکس رسواکننده که نشانگر خیانتش بود، به طور اتفاقی در یکی دو روزنامهٔ محلی چاپ می شود. اما خیلی زود خانوم مالوری واقعی به این عمل کارآگاه اعتراض کرده و مشخص می شود همگی قربانی ماجرای رازآلودی شده اند...",
+        "director": "Andrei Tarkovsky",
+        "cast": ["Nikolay Sergeev", "Nikolay Grinko", "Ivan Lapikov", "Anatoliy Solonitsyn"],
+        "imdb": 8.2,
+        "genre": ["تاریخی", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Andrei-Rublev.jpg"
+    },
+    {
+        "name_english": "The Great Escape",
+        "name_persian": "فرار بزرگ",
+        "year": 1963,
+        "story": "فیلم فرار بزرگ (The Great Escape) در دوران جنگ جهانى دوم می گذرد جایی که گروهى از اسراى جنگى متفقین در اردوگاهى آلمانى، تصمیم به فرار میگیرند...",
+        "director": "John Sturges",
+        "cast": ["Steve McQueen", "Richard Attenborough", "James Garner", "Charles Bronson"],
+        "imdb": 8.2,
+        "genre": ["جنگی", "تاریخی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Great-Escape.jpg"
+    },
+    {
+        "name_english": "To Kill a Mockingbird",
+        "name_persian": "کشتن مرغ مقلد",
+        "year": 1962,
+        "story": "فیلم کشتن مرغ مقلد (To Kill a Mockingbird) داستان وکیلی ساده است که در شهری کوچک پرونده جوان سیاه پوستی که متهم به تجاوز به یک دختر سفید پوست است رو به عهده می گیرد...",
+        "director": "Robert Mulligan",
+        "cast": ["Rosemary Murphy", "John Megna", "Gregory Peck", "Frank Overton"],
+        "imdb": 8.2,
+        "genre": ["درام", "جنایی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/To-Kill-a-Mockingbird.jpg"
+    },
+    {
+        "name_english": "Yojimbo",
+        "name_persian": "یوجیمبو",
+        "year": 1961,
+        "story": "فیلم یوجیمبو (Yojimbo) در یکی از شهرهای ژاپن، در شهری که قانونی وجود ندارد و کلانتر شهر فاسد و خودفروخته است، یک تن برای اجرای عدالت از راه می‌رسد…",
+        "director": "Akira Kurosawa",
+        "cast": ["Eijirô Tôno", "Tatsuya Nakadai", "Yôko Tsukasa", "Toshirô Mifune"],
+        "imdb": 8.2,
+        "genre": ["درام", "اکشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Yojimbo.jpg"
+    },
+    {
+        "name_english": "Judgment at Nuremberg",
+        "name_persian": "محاکمه در نورنبرگ",
+        "year": 1961,
+        "story": "فیلم یوجیمبو (Yojimbo) در یکی از شهرهای ژاپن، در شهری که قانونی وجود ندارد و کلانتر شهر فاسد و خودفروخته است، یک تن برای اجرای عدالت از راه می‌رسد…",
+        "director": "Stanley Kramer",
+        "cast": ["Spencer Tracy", "Richard Widmark", "Marlene Dietrich", "Burt Lancaster"],
+        "imdb": 8.2,
+        "genre": ["جنگی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Judgment-at-Nuremberg.jpg"
+    },
+    {
+        "name_english": "Wild Strawberries",
+        "name_persian": "توت فرنگی های وحشی",
+        "year": 1957,
+        "story": "پروفسور بورگ (شوستروم) همراه عروسش، ماریانه (تولین)، که در زندگی زناشویی با همسرش (بیورنستراند) مشکل دارد...",
+        "director": "Ingmar Bergman",
+        "cast": ["Victor Sjöström", "Bibi Andersson", "Ingrid Thulin", "Gunnar Björnstrand"],
+        "imdb": 8.2,
+        "genre": ["رمانتیک", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Wild-Strawberries.jpg"
+    },
+    {
+        "name_english": "The Seventh Seal",
+        "name_persian": "مهر هفتم",
+        "year": 1957,
+        "story": "فیلم مهر هفتم (The Seventh Seal) درباره مردی است که در حال شطرنج بازی کردن با مردی کشاورز در خلال دوره طاعون مرگبار جهان است و به دنبال جواب هایی برای معنی زندی ، مرگ و وجود خدا میگردد...",
+        "director": "Ingmar Bergman",
+        "cast": ["Bengt Ekerot", "Nils Poppe", "Max von Sydow", "Gunnar Björnstrand"],
+        "imdb": 8.2,
+        "genre": ["فانتزی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Seventh-Seal.jpg"
+    },
+    {
+        "name_english": "Tokyo Story",
+        "name_persian": "داستان توکیو",
+        "year": 1953,
+        "story": "فیلم داستان توکیو (Tokyo Story) پدر و مادر مسنی تصمیم می‌گیرند در یک تابستان گرم به توکیو سفر کنند تا فرزندان خود را ملاقات کنند. اما فرزندان آنها به خاطر مشغله‌های روزمره توجه چندانی به آنها نمی‌کنند. در این سفر تنها یکی از عروس‌های این پدر و مادر به آنها محبت می‌کند که از قضا شوهر او یعنی پسر این پدر و مادر سال‌ها پیش مرده‌است.مادر پیر در مسیر بازگشت به خانه بیمار می‌شود و ...",
+        "director": "Yasujirô Ozu",
+        "cast": ["Chieko Higashiyama", "Sô Yamamura", "Setsuko Hara", "Chishû Ryû"],
+        "imdb": 8.2,
+        "genre": ["درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Tokyo-Story.jpg"
+    },
+    {
+        "name_english": "Rashomon",
+        "name_persian": "راشومون",
+        "year": 1953,
+        "story": "فیلم Rashomon (Rashomon) در سال ۱۸۹۸، یک جنایت فجیع است که در بیشه ای اتفاق می افتد و افرادی برای شهادت و اینکه این اتفاق چگونه افتاده فرا خوانده میشوند و از دید خودشان داستان را تعریف میکنند و لی...",
+        "director": "Akira Kurosawa",
+        "cast": ["Machiko Kyô", "Toshirô Mifune", "Takashi Shimura", "Masayuki Mori"],
+        "imdb": 8.2,
+        "genre": ["درام", "جنایی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Rashomon.jpg"
+    }                                                                                      
     
     
 ]
