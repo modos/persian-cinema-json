@@ -616,21 +616,10 @@
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Lives-of-Others.jpg"
     },
     {
-        "name_english": "The Lives of Others",
-        "name_persian": "زندگی دیگران",
-        "year": 2006,
-        "story": "فیلم زندگی دیگران (The Lives of Others) یک مامور پلیس امنیتی در برلین سال 1984 مامور میشود در مورد یک نویسنده و معشوقه اش جاسوسی و کسب اطلاعات کند. پس از مدتی او متوجه میشود که تحت تاثیر رابطه و زندگی آنها قرار گرفته است...",
-        "director": "Florian Henckel von Donnersmarck",
-        "cast": ["Martina Gedeck", "Sebastian Koch", "Ulrich Tukur", "Ulrich Mühe"],
-        "imdb": 8.4,
-        "genre": ["رمزآلود", "درام"],
-        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Lives-of-Others.jpg"
-    },
-    {
         "name_english": "Oldboy",
         "name_persian": "پیر پسر",
         "year": 2003,
-        "story": "فیلم پیر پسر (Oldboy) اوته سا مردی خوشگذران در حالیکه به دلیل مستی بازداشت شده است در روز تولد دخترش دزدیده می شود و برای مدت ۱۵ سال در یک اتاق زندانی می شود. در طول ۱۵ سال هیچ کس به سراغ او نمی آید و هر بار که اقدام به خودکشی می کند توسط افراد ناشناس درمان شده و به اتاق قبلی برگردانده می شود. بعد از سپری شدن ۱۵ سال به همان مرموزی روز اول آزاد می شود. در حالیکه در طول این ۱۵ سال فقط یک سؤال در ذهنش باقی مانده است. چرا من؟ ...",
+        "story": "فیلم پیر پسر (Oldboy) اوته سا مردی خوشگذران در حالیکه به دلیل مستی بازداشت شده است در روز تولد دخترش دزدیده می شود و برای مدت ۱۵ سال در یک اتاق زندانی می شود. در طول ۱۵ سال هیچ کس به سراغ او نمی آید و هر بار که اقدام به خودکشی می کند توسط افراد ناشناس درمان شده و به اتاق قبلی برگردانده می شود. بعد از سپری شدن ۱۵ سال به همان مرموزی روز اول آزاد می شود. در حالیکه در طول این ۱۵ سال فقط یک سؤال در ذهنش باقی مانده است. چرا من؟...",
         "director": "Chan-wook Park",
         "cast": ["Dae-han Ji", "Hye-jeong Kang", "Min-sik Choi", "Ji-Tae Yoo"],
         "imdb": 8.4,
@@ -1538,7 +1527,150 @@
         "imdb": 8.2,
         "genre": ["درام", "جنایی"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Rashomon.jpg"
-    }                                                                                      
+    },
+    {
+        "name_english": "White Heat",
+        "name_persian": "اوج التهاب",
+        "year": 1949,
+        "story": "فیلم اوج التهاب (White Heat) دربارهٔ تعقیب و گریز تبهکار و جانی خطرناکی به نام کودی جَرِت است که توسط نیروهای پلیس مورد تعقیب است و بعد از مرگ مادرش برای کشتن قاتلانِ او تصمیم به فرار از زندان می‌گیرد...",
+        "director": "Raoul Walsh",
+        "cast": ["Edmond O'Brien", "James Cagney", "Virginia Mayo", "Margaret Wycherly"],
+        "imdb": 8.1,
+        "genre": ["درام", "اکشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/White-Heat.jpg"
+    },
+    {
+        "name_english": "The Treasure of the Sierra Madre",
+        "name_persian": "گنج های سیرامادره",
+        "year": 1948,
+        "story": "فیلم گنج های سیرامادره (The Treasure of the Sierra Madre) فرد سی.دابز و باب کورتین که هر دو مشغول کار در مکزیک هستند و با پیرمردی به نام هاوارد آشنا شده و متوجه می شوند که هاوارد یک کاشف باتجربه طلاست. به همین خاطر آن ها تصمیم می گیرند تا با همراهی هاوارد به دنبال طلا بروند و خود را از وضع بدی که دارند نجات دهند...",
+        "director": "John Huston",
+        "cast": ["Walter Huston", "Tim Holt", "Humphrey Bogart", "Bruce Bennett"],
+        "imdb": 8.1,
+        "genre": ["درام", "ماجراجویی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Treasure-of-the-Sierra-Madre.jpg"
+    },
+    {
+        "name_english": "The Gold Rush",
+        "name_persian": "جویندگان طلا",
+        "year": 1925,
+        "story": "فیلم جویندگان طلا (The Gold Rush) در سال ۱۸۹۸، تب طلا همه جا را فراگرفته است و همه کس براى به دست آوردن ثروتى باد آورده به آلاسکا روى می آورد. از جمله چارلى چاپلین، ولگردى تنها که خیلى زود با جویندگان دیگر، جیم گندهه دوست مى شود...",
+        "director": "Charles Chaplin",
+        "cast": ["Charles Chaplin", "Tom Murray", "Mack Swain", "Henry Bergman"],
+        "imdb": 8.1,
+        "genre": ["درام", "خانوادگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Gold-Rush.jpg"
+    },
+    {
+        "name_english": "Sherlock Jr",
+        "name_persian": "شرلوک جونیور",
+        "year": 1924,
+        "story": "فیلم شرلوک جونیور (Sherlock Jr.) باستر ، آپاراتچى و نظافتچى سینماى محله ،مشتاق است که با رموز کارآگاهى آشنا شود. در حالى که میکوشد تا دل محبوبه اش  را نیز به دست بیاورد...",
+        "director": "Buster Keaton",
+        "cast": ["Buster Keaton", "Erwin Connelly", "Joe Keaton", "Kathryn McGuire"],
+        "imdb": 8.1,
+        "genre": ["رمانتیک", "اکشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Sherlock-Jr.jpg"
+    },
+     {
+        "name_english": "Room",
+        "name_persian": "اتاق",
+        "year": 2015,
+        "story": "فیلم اتاق (Room) داستان در مورد پسربچه ای 5 ساله و با روحیه بنام جک می باشد که مادر دلسوزش از او مراقبت می کند. مثل تمام مادرهای مهربان دیگر، مادر جک هم خودش را وقف جک می کند تا او خوشحال و در امان باشد. اما زندگی آنها معمولی نیست، آنها درون مکانی محبوس شده اند که آن را اتاق می نامند. تا اینکه سرانجام حس کنجکاوی جک، مادر را مجبور می کند که ریسک کند از آنجا فرار کنند و دنیای بیرون را ببینند...",
+        "director": "Lenny Abrahamson",
+        "cast": ["Brie Larson", "Jacob Tremblay", "Wendy Crewson", "Sean Bridgers"],
+        "imdb": 8.1,
+        "genre": ["هیجان انگیز", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Room.jpg"
+    },
+    {
+        "name_english": "Wild Tales",
+        "name_persian": "قصه های وحشی",
+        "year": 2014,
+        "story": "فیلم قصه های وحشی (Wild Tales) چند اپیزودی است و هرکدام داستان های عجیب و هیجان انگیزی را را روایت میکند . اپیزود اول این فیلم در مورد پسری است که تمام افرادی که به شکلی در زندگی وی نقش داشتند را به صورت ناشناس سوار هواپیما کرده و....",
+        "director": "Damián Szifron",
+        "cast": ["Dario Grandinetti", "Mónica Villa", "María Marull", "Diego Starosta"],
+        "imdb": 8.1,
+        "genre": ["هیجان انگیز", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Wild-Tales.jpg"
+    },
+    {
+        "name_english": "PK",
+        "name_persian": "پی کی",
+        "year": 2014,
+        "story": "فیلم پی کی (PK) یک موجود فرازمینی پس از فرود بر روی سیاره زمین، تنها ابزار برقرارکننده ارتباط با سفینه فضایی خود را از دست می‌دهد. از سوی دیگر، شخصیت معصومانه و سوال‌های کودکانه او موجب می‌شود که اطرافیانش، مفاهیم بنیادین زندگی خود را مورد ارزیابی قرار دهند و...",
+        "director": "Rajkumar Hirani",
+        "cast": ["Aamir Khan", "Anushka Sharma", "Boman Irani", "Sanjay Dutt"],
+        "imdb": 8.1,
+        "genre": ["فانتزی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/PK.jpg"
+    },
+    {
+        "name_english": "The Grand Budapest Hotel",
+        "name_persian": "هتل بزرگ بوداپست",
+        "year": 2014,
+        "story": "فیلم هتل بزرگ بوداپست (The Grand Budapest Hotel) در سال 1930 که دولتی فاشیست در حال قدرت گرفتن است و شعله جنگ در حال روشن شدن، هتل بزرگ بوداپس به واسطه تلاش فراوان مهماندار و شاگردش به یکی از برترین تفریحگاه‌های اروپا تبدیل شده است. یکی از مشتریان همیشگی هتل می‌میرد و یک نقاشی ارزشمند به مهماندار می رسد، با این اتفاق همه چیز تغییر می‌کند...",
+        "director": "Wes Anderson",
+        "cast": ["Ralph Fiennes", "Adrien Brody", "F. Murray Abraham", "Mathieu Amalric"],
+        "imdb": 8.1,
+        "genre": ["ماجراجویی", "جنایی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Grand-Budapest-Hotel.jpg"
+    },
+    {
+        "name_english": "Gone Girl",
+        "name_persian": "دختر گمشده",
+        "year": 2014,
+        "story": "فیلم دختر گمشده (Gone Girl) در مورد مردیست که همسرش را در پنجمین سالگرد ازدواجشان گم می کند اما تمام انگشت ها بسمت او نشانه می رود بطوریکه لقب قاتل زنان به وی داده می شود...",
+        "director": "David Fincher",
+        "cast": ["Ben Affleck", "Rosamund Pike", "F. Murray Abraham", "Neil Patrick Harris"],
+        "imdb": 8.1,
+        "genre": ["رازآلود", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Gone-Girl.jpg"
+    },
+    {
+        "name_english": "Hacksaw Ridge",
+        "name_persian": "ستیغ جهنمی",
+        "year": 2014,
+        "story": "فیلم ستیغ جهنمی (Hacksaw Ridge) دزموند داس که پزشک ارتش و مخالف جنگ است، حاضر نمی‌شود سلاحی حمل کند اما طی نبرد «اوکیناوا» در جنگ جهانی دوم با وجود شلیک‌های بی‌وقفه دشمن، یک تنه جان بیش از ۷۵ نفر از هم‌رزمانش را نجات می‌دهد و...",
+        "director": "Hacksaw Ridge",
+        "cast": ["Andrew Garfield", "Luke Bracey", "Sam Worthington", "Teresa Palmer"],
+        "imdb": 8.1,
+        "genre": ["تاریخی", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Hacksaw-Ridge.jpg"
+    },
+    {
+        "name_english": "12 Years a Slave",
+        "name_persian": "دوازده سال بردگی",
+        "year": 2013,
+        "story": "فیلم دوازده سال بردگی (12 Years a Slave) سالومون نورثاپ یک سیاهپوست آزاد است که با همسر و فرزندانش در ساراتوگای نیویورک زندگی می کند. او با نواختن ویولن امرار معاش می کند. یک شب توسط چند نفر اراذل و اوباش مسموم شده و به عنوان برده فروخته می شود. به هوش که می آید، خود را در غل و زنجیر می بیند…",
+        "director": "Steve McQueen",
+        "cast": ["Michael Kenneth Williams", "Michael Fassbender", "Chiwetel Ejiofor", "Brad Pitt"],
+        "imdb": 8.1,
+        "genre": ["تاریخی", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/12-Years-a-Slave.jpg"
+    },
+    {
+        "name_english": "Rush",
+        "name_persian": "شتاب",
+        "year": 2013,
+        "story": "فیلم شتاب (Rush) که بازسازی واقعه مسابقه فرمول یک دهه ۱۹۷۰ میان جیمز هانت و نیکی لائودا است که در سال ۱۹۷۶ در یک تصادف فاجعه بار در مسابقات فرمول یک جایزه بزرگ آلمان به شدت مجروح می‌شود و تا سر حد مرگ پیش می‌رود. اما او چند هفته پس از حادثه به میدان‌ها باز می‌گردد تا با رقیبش، جیمز هانت، برای دست یابی به مقام قهرمانی جهان در سال ۱۹۷۶ در فوجی ژاپن به رقابت بپردازد و ...",
+        "director": "Ron Howard",
+        "cast": ["Chris Hemsworth", "Alexandra Maria Lara", "Daniel Brühl", "Olivia Wilde"],
+        "imdb": 8.1,
+        "genre": ["درام", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Rush.jpg"
+    },
+    {
+        "name_english": "Ford v Ferrari",
+        "name_persian": "فورد در برابر فراری",
+        "year": 2019,
+        "story": "فیلم (Ford v Ferrari) در سال ۱۹۶۶ میلادی، گروهی از مهندسان و طراحان کارآزموده، تحت هدایت یک مهندس بریتانیایی و یک راننده آمریکایی، قوانین فیزیک را به چالش می‌کشند و یک اتومبیل مسابقه پرسرعت را برای کمپانی فورد طراحی می‌‎کنند، تا در مسابقات اتومبیلرانی لومان به رقابت با تیم فرمول یک فراری بپردازند و...",
+        "director": "James Mangold",
+        "cast": ["Christian Bale", "Matt Damon", "Caitriona Balfe", "Jon Bernthal"],
+        "imdb": 8.1,
+        "genre": ["اکشن", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Ford-v-Ferrari.jpg"
+    }                                                                                                
     
     
 ]
