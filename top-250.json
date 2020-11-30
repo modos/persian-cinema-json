@@ -1670,7 +1670,150 @@
         "imdb": 8.1,
         "genre": ["اکشن", "بیوگرافی"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Ford-v-Ferrari.jpg"
-    }                                                                                                
+    },
+    {
+        "name_english": "Spotlight",
+        "name_persian": "افشاگر",
+        "year": 2015,
+        "story": "فیلم افشاگر (Spotlight) به روایت داستان یکی از قدیمی‌ترین گروه‌های روزنامه‌نگاری بوستون گلوب به نام گروه روزنامه‌نگاران اسپات‌لایت از روزنامه بوستون گلوب می‌پردازد. آن‌ها از کودک آزاری در یک کلیسای کاتولیک در ماساچوست آمریکا ...",
+        "director": "Tom McCarthy",
+        "cast": ["Rachel McAdams", "Michael Keaton", "Liev Schreiber", "Mark Ruffalo"],
+        "imdb": 8.1,
+        "genre": ["جنایی", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Spotlight.jpg"
+    },
+    {
+        "name_english": "The Help",
+        "name_persian": "خدمتکار",
+        "year": 2011,
+        "story": "فیلم خدمتکار (The Help) یک نویسنده در جنبش حقوق شهروندی سیاه پوستان در دهه 60 تصمیم میگیرد کتابی در مورد جزییات زندگی سیاه پوستان خدمتکار به سفید پوستان و نگاه آنها به زندگی خانواده های سفید پوست که برای آنها کار میکنند و سختی زندگی آنها در آن روز ها بنویسد...",
+        "director": "Tate Taylor",
+        "cast": ["Bryce Dallas Howard", "Emma Stone", "Octavia Spencer", "Viola Davis"],
+        "imdb": 8.1,
+        "genre": ["درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Help.jpg"
+    },
+    {
+        "name_english": "Mad Max: Fury Road",
+        "name_persian": "مکس دیوانه: جاده خشم",
+        "year": 2011,
+        "story": "فیلم مکس دیوانه جاده خشم (Mad Max: Fury Road) در آینده ای دور، در حالی که تنها بیابانی خشک از زمین باقی مانده است، باقیمانده ی نسل انسان ها برای زنده ماندن حاضرند یکدیگر را از بین ببرند. اما در این میان ، مردی جوان به نام مکس ، که خانواده اش را از دست داده است ، در جستجوی صلح می باشد و…",
+        "director": "George Miller",
+        "cast": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult", "Zoë Kravitz"],
+        "imdb": 8.1,
+        "genre": ["تخیلی", "علمی", "اکشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Mad-Max-Fury-Road.jpg"
+    },
+    {
+        "name_english": "Gran Torino",
+        "name_persian": "گرن تورینو",
+        "year": 2011,
+        "story": "فیلم گرن تورینو (Gran Torino) والت کوالسکی یک سرباز بازنشسته ناراضی از زندگی است که در جنگ کره حضور داشته است و دل خوشی از کره ها ندارد. او حالا تصمیم به اصلاح همسایه اش گرفته است، یک نوجوان آسیایی که قصد دزدیدن دارایی با ارزش «کوالسکی» را داشته است و...",
+        "director": "Clint Eastwood",
+        "cast": ["Clint Eastwood", "Ahney Her", "Bee Vang", "Christopher Carley"],
+        "imdb": 8.1,
+        "genre": ["درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Gran-Torino.jpg"
+    },
+    {
+        "name_english": "Harry Potter and the Deathly Hallows Part 2",
+        "name_persian": "هری پاتر و یادگاران مرگ قسمت دوم",
+        "year": 2011,
+        "story": "فیلم هری پاتر و یادگاران مرگ قسمت دوم (Harry Potter and the Deathly Hallows: Part 2) فیلم در ادامه قسمت اول و پس از مرگ جن خانگی دابی ادامه پیدا می کند ، اما هری قصد توقف ندارد و با کمک دوستانش و گریپهوک قصد سرقت از گرین گوتز برای یافتن جان پیچی دیگر را دارند اما وقتی به گرینگوتز می رسند ...",
+        "director": "David Yates",
+        "cast": ["Daniel Radcliffe", "Emma Watson", "Michael Gambon", "Rupert Grint"],
+        "imdb": 8.1,
+        "genre": ["درام", "رازآلود"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Harry-Potter-and-the-Deathly-Hallows-Part-2.jpg"
+    },
+    {
+        "name_english": "Shutter Island",
+        "name_persian": "جزیره شاتر",
+        "year": 2011,
+        "story": "فیلم جزیره شاتر (Shutter Island) در سال ۱۹۵۴، یک جنایتکار که در بیمارستان روانی بستری است، موفق به فرار می‌شود و مقامات امنیتی را غافلگیر می‌کند، گروهی برای یافتن وی به جزیه مرموز شاتر فرستاده می‌شوند، اما…",
+        "director": "Martin Scorsese",
+        "cast": ["Leonardo DiCaprio", "Mark Ruffalo", "Ben Kingsley", "Emily Mortimer"],
+        "imdb": 8.1,
+        "genre": ["هیجان انگیز", "رازآلود"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Shutter-Island.jpg"
+    },
+    {
+        "name_english": "Hachi A Dogs Tale",
+        "name_persian": "هاچی داستان یک سگ",
+        "year": 2009,
+        "story": "فیلم هاچی داستان یک سگ (Hachi: A Dog's Tale) به زندگی «کریستوفر مک کندلس»، که یک ورزشکار است می پردازد. او پس از فارغ التحصیلی، تصمیم می گیرد تا همه ی 24 هزار دلار پس اندازش را به موسسه خیریه اهدا کند و به سمت آلاسکا سفری را آغاز می کند تا...",
+        "director": "Lasse Hallström",
+        "cast": ["Sarah Roemer", "Richard Gere", "Joan Allen", "Cary-Hiroyuki Tagawa"],
+        "imdb": 8.1,
+        "genre": ["درام", "خانوادگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Hachi-A-Dogs-Tale.jpg"
+    },
+    {
+        "name_english": "Mary and Max",
+        "name_persian": "ماری و مکس",
+        "year": 2009,
+        "story": "انیمیشن ماری و مکس (Mary and Max) دوستی بین «ماری»، دختری ۸ ساله و تنها که در حومه شهر «ملبورن» زندگی می‌کند و «مکس» مردی ۴۴ ساله بسیار چاقی که در «نیویورک» زندگی می‌کند است و...",
+        "director": "Adam Elliot",
+        "cast": ["Toni Collette", "Philip Seymour Hoffman", "Eric Bana", "Barry Humphries"],
+        "imdb": 8.1,
+        "genre": ["خانوادگی", "انیمیشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Mary-and-Max.jpg"
+    },
+    {
+        "name_english": "How to Train Your Dragon",
+        "name_persian": "مربی اژدها",
+        "year": 2010,
+        "story": "انیمیشن مربی اژدها (How to Train Your Dragon) یک وایکینگ جوان که علاقه زیادی به شکار اژدها دارد، بر خلاف انتظار خودش با یک اژدهای جوان دوست می شود و …",
+        "director": "Chris Sanders",
+        "cast": ["Jay Baruchel", "Gerard Butler", "Craig Ferguson", "Christopher Mintz-Plasse"],
+        "imdb": 8.1,
+        "genre": ["اکشن", "خانوادگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/How-to-Train-Your-Dragon.jpg"
+    },
+    {
+        "name_english": "Into the Wild",
+        "name_persian": "به سوی طبیعت وحشی",
+        "year": 2007,
+        "story": "فیلم به سوی طبیعت وحشی (Into the Wild) به زندگی «کریستوفر مک کندلس»، که یک ورزشکار است می پردازد. او پس از فارغ التحصیلی، تصمیم می گیرد تا همه ی 24 هزار دلار پس اندازش را به موسسه خیریه اهدا کند و به سمت آلاسکا سفری را آغاز می کند تا...",
+        "director": "Sean Penn",
+        "cast": ["Vince Vaughn", "Marcia Gay Harden", "Emile Hirsch", "Catherine Keener"],
+        "imdb": 8.1,
+        "genre": ["بیوگرافی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Into-the-Wild.jpg"
+    },
+    {
+        "name_english": "No Country for Old Men",
+        "name_persian": "جایی برای پیرمردها نیست",
+        "year": 2007,
+        "story": "فیلم جایی برای پیرمردها نیست (No Country for Old Men) یک مرد شکارچی در مناطق روستایی تگزاس بقایای یک نزاع بین چندین قاچاقچی را پیدا می‌کند که همدیگر را به قتل رسانده اند. این مرد به جای خبر دادن به پلیس، دو میلیون دلار موجود در آنجا را برداشته و پا به فرار می گذارد و به این ترتیب یک داستان تعقیب و گریز آغاز می‌شود و...",
+        "director": "Ethan Coen",
+        "cast": ["Javier Bardem", "Josh Brolin", "Tommy Lee Jones", "Woody Harrelson"],
+        "imdb": 8.1,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/No-Country-for-Old-Men.jpg"
+    },
+    {
+        "name_english": "Million Dollar Baby",
+        "name_persian": "عزیز میلیون دلاری",
+        "year": 2007,
+        "story": "فیلم عزیز میلیون دلاری (دختر میلیون دلاری) (Million Dollar Baby) زنی جوان به نام مگی فیتزجرالد تحت هدایت یک مربی کارآزموده به نام فرانکی دان، تمریناتی دشوار را انجام می‌دهد تا به یک بوکسور حرفه‌ای تبدیل شود و...",
+        "director": "Clint Eastwood",
+        "cast": ["Clint Eastwood", "Hilary Swank", "Jay Baruchel", "Morgan Freeman"],
+        "imdb": 8.1,
+        "genre": ["ورزشی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Million-Dollar-Baby.jpg"
+    },
+    {
+        "name_english": "Hotel Rwanda",
+        "name_persian": "هتل روآندا",
+        "year": 2007,
+        "story": "فیلم هتل روآندا (Hotel Rwanda) پل که مدیر هتل «هزار تپه» در کیگالی است. پس از چندی خشونت های قومی بالا می گیرد و افراد قبیله ی هوتو آغاز به کشتار افراد قبیله ی توتسی می کنند. پل نمی تواند درست روی دست بگذارد و با این که خودش از قبیله ی هوتو است، به پناهندگان توتسی در هتل جا می دهد...",
+        "director": "Terry George",
+        "cast": ["Don Cheadle", "Joaquin Phoenix", "Sophie Okonedo", "Xolani Mali"],
+        "imdb": 8.1,
+        "genre": ["تاریخی", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Hotel-Rwanda.jpg"
+    }                                                                                                                   
     
     
 ]
