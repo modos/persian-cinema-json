@@ -1948,7 +1948,7 @@
     },
     {
         "name_english": "Before Sunrise",
-        "name_persian": " پیش از طلوع",
+        "name_persian": "پیش از طلوع",
         "year": 1995,
         "story": "فیلم پیش از طلوع (Before Sunrise) یک مرد و زن جوان در قطار با یکدیگر آشنا می‌شوند و یک بعد از ظهر را به سیر و سیاحت در شهر وین می‌پردازند. درحالیکه هر دوی آنها می‌دانند، احتمالاً این آخرین دیداری است که با یکدیگر خواهند داشت...",
         "director": "Richard Linklater",
@@ -1956,7 +1956,150 @@
         "imdb": 8.1,
         "genre": ["رمانتیک", "درام"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Before-Sunrise.jpg"
-    }                                                                                                                                                
+    },
+    {
+        "name_english": "Jurassic Park",
+        "name_persian": "پارک ژوراسیک",
+        "year": 1993,
+        "story": "فیلم پارک ژوراسیک (Jurassic Park) با استفاده از تکنولوژی فوق پیشرفته گونه هایی از دایناسورها خلق شده اند و در جزیره ای نگهداری می شوند. جان هموند با بازی ریچارد آتنبروگ به این جزیره دعوت می شود و به زودی دو نوه اش به او ملحق می شوند اما یکی از کارکنان پارک سعی دارد جنین یکی از دایناسورها را بدزدد و به همین منظور سیستم امنیتی پارک را خاموش می کند اما اوضاع هنگامی که دایناسورها فرار می کنند رو به وخامت می رود و ...",
+        "director": "Steven Spielberg",
+        "cast": ["Sam Neill", "Richard Attenborough", "Laura Dern", "Jeff Goldblum"],
+        "imdb": 8.1,
+        "genre": ["تخیلی", "اکشن", "علمی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Jurassic-Park.jpg"
+    },
+    {
+        "name_english": "In the Name of the Father",
+        "name_persian": "به نام پدر",
+        "year": 1993,
+        "story": "فیلم به نام پدر (In the Name of the Father) در دهه ۱۹۶۰ در کشور ایرلند، جبهه آزادی بخش ایرلند در یک رستوران در منطقه گیلفورد بمب گذاری می‌کند. اما چهار جوانی که به جرم این بمب‌گذاری دستگیر و محکوم می‌شوند، در واقع گناهکار نیستند و...",
+        "director": "Jim Sheridan",
+        "cast": ["Daniel Day-Lewis", "Alison Crosbie", "Philip King", "Pete Postlethwaite"],
+        "imdb": 8.1,
+        "genre": ["بیوگرافی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/In-the-Name-of-the-Father.jpg"
+    },
+    {
+        "name_english": "Dead Poets Society",
+        "name_persian": "انجمن شاعران مرده",
+        "year": 1989,
+        "story": "فیلم انجمن شاعران مرده (Dead Poets Society) جان کیتینگ که به تدریس زبان انگلیسی مشغول است، شاگردان خود را تشویق می‌کند تا از زاویه‌ای تازه به شعر و ادبیات نگاه کنند و...",
+        "director": "Peter Weir",
+        "cast": ["Robin Williams", "Robert Sean Leonard", "Ethan Hawke", "Josh Charles"],
+        "imdb": 8.1,
+        "genre": ["کمدی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/In-the-Name-of-the-Father.jpg"
+    },
+    {
+        "name_english": "The Princess Bride",
+        "name_persian": "عروس شاهزاده",
+        "year": 1987,
+        "story": "فیلم عروس شاهزاده (The Princess Bride) پدربزرگی مهربان بر بالین نوه بیمار خود حاضر شده و داستانی قدیمی از دختری به نام «باترکاپ» که در یک مزرعه دورافتاده زندگی می کند را تعریف می کند و...",
+        "director": "Rob Reiner",
+        "cast": ["Robin Wright", "Mandy Patinkin", "Cary Elwes", "Chris Sarandon"],
+        "imdb": 8.1,
+        "genre": ["رمانتیک", "خانوادگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Princess-Bride.jpg"
+    },
+    {
+        "name_english": "Stand by Me",
+        "name_persian": "کنار من بمان",
+        "year": 1986,
+        "story": "فیلم کنار من بمان (Stand by Me) نویسنده ای بعد از مرگ دوستش سفری به دوران کودکی را برای پیدا کردن پسری گمشده آغاز میکند...",
+        "director": "Rob Reiner",
+        "cast": ["Wil Wheaton", "River Phoenix", "Corey Feldman", "Jerry O'Connell"],
+        "imdb": 8.1,
+        "genre": ["ماجراجویی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Stand-by-Me.jpg"
+    },
+    {
+        "name_english": "Platoon",
+        "name_persian": "جوخه",
+        "year": 1986,
+        "story": "فیلم جوخه (Platoon) یک سرباز جوان در ویتنام زمانی که با ترس‌های جنگ و دوگانگی انسان رو به رو می‌شود، درگیر یک بحران اخلاقی می‌شود...",
+        "director": "Oliver Stone",
+        "cast": ["Charlie Sheen", "Willem Dafoe", "Keith David", "Tom Berenger"],
+        "imdb": 8.1,
+        "genre": ["جنگی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Platoon.jpg"
+    },
+    {
+        "name_english": "Paris Texas",
+        "name_persian": "پاریس تگزاس",
+        "year": 1984,
+        "story": "فیلم پاریس تگزاس (Paris, Texas) درباره ترویس هندرسون است که همیشه بی هدف رانندگی میکند و برای 4 سال است گم شده و در بیابان سرگردان است و حالا برادرش به دنبال او میگردد...",
+        "director": "Wim Wenders",
+        "cast": ["Aurore Clément", "Nastassja Kinski", "Harry Dean Stanton", "Dean Stockwell"],
+        "imdb": 8.1,
+        "genre": ["درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Paris-Texas.jpg"
+    },
+    {
+        "name_english": "Nausicaa of the Valley of the Wind",
+        "name_persian": "نائوشکا از دره باد",
+        "year": 1984,
+        "story": "انیمیشن نائوشکا از دره باد (Nausicaa of the Valley of the Wind) هزار سال پس از وقوع یک جنگ بسیار عظیم و نابودی بخش عمده‌ای از تمدن بشری، شاهزاده خانمی به نام نیوشکا تمام تلاش خود را به کار می‌گیرد تا از وقوع نبردی ویرانگر میان دو کشور و نابودی کامل سیاره زمین جلوگیری کند و...",
+        "director": "Hayao Miyazaki",
+        "cast": ["Sumi Shimamoto", "Mahito Tsujimura", "Hisako Kyôda", "Gorô Naya"],
+        "imdb": 8.1,
+        "genre": ["انیمیشن", "تخیلی", "علمی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Nausicaa-of-the-Valley-of-the-Wind.jpg"
+    },
+    {
+        "name_english": "The Thing",
+        "name_persian": "موجود",
+        "year": 1982,
+        "story": "فیلم موجود (The Thing) کارکنان پایگاه تحقیقاتی آمریکایی در قطب، با گونه ای موجود فضایی روبرو می‌شوند که در واقع مانند انگل بدن موجودات زنده دیگر آلوده می‌کند و در آن پنهان می‌شود و زمانی که لو می‌رود کالبد جسمانی قربانیان خود را به گونه ای ترسناک و خونخوار تغییر شکل می‌دهد. اکنون کارکنان پایگاه برای پاکسازی و یافتن اینکه چه کسی آلوده هست، درگیر چالش‌های مرموز و غیرمنتظره ای می‌شوند...",
+        "director": "John Carpenter",
+        "cast": ["Kurt Russell", "Keith David", "Wilford Brimley", "Richard Masur"],
+        "imdb": 8.1,
+        "genre": ["ترسناک", "راز آلود"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Thing.jpg"
+    },
+    {
+        "name_english": "Blade Runner",
+        "name_persian": "بلید رانر",
+        "year": 1982,
+        "story": "فیلم بلید رانر (Blade Runner) در سال ۲۰۱۹ در لس آنجلس رخ می‌دهد. «ریک دکارد»، از اعضای سابق یک واحد ویژه‌ پلیس که تخصص در از بین بردن روبات‌های شبه انسان را دارد. با اصرار و اجبار «سروان برایانت» می‌پذیرد تا گروهی از روبات‌ها را بیابد و از بین ببرد. این گروه متشکل از شش روبات است که با ظاهر انسانی، با یک سفینه فضایی به زمین آمده‌اند و…",
+        "director": "Ridley Scott",
+        "cast": ["Harrison Ford", "Edward James Olmos", "Sean Young", "Rutger Hauer"],
+        "imdb": 8.1,
+        "genre": ["اکشن", "علمی", "تخیلی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Blade-Runner.jpg"
+    },
+    {
+        "name_english": "The Elephant Man",
+        "name_persian": "مرد فیل نما",
+        "year": 1980,
+        "story": "فیلم مرد فیل‌نما (The Elephant Man) «جوزف» در انگلستان بدنیا آمد وسالهای ابتدایی زندگی او مانند سایر کودکان سپری شد. اما هرچه بزرگتر می‌شد، نشانه‌هایی از یک بیماری عجیب در او شدت می‌گرفت و از سوی نزدیکان خود نامهربانی می‌دید و...",
+        "director": "David Lynch",
+        "cast": ["Anthony Hopkins", "Anne Bancroft", "John Gielgud", "John Hurt"],
+        "imdb": 8.1,
+        "genre": ["درام", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Elephant-Man.jpg"
+    },
+    {
+        "name_english": "Monty Pythons: Life of Brian",
+        "name_persian": "مانتی پایتون: زندگی برایان",
+        "year": 1979,
+        "story": "فیلم زندگی برایان (Life of Brian) فیلمی کمدی بر اساس داستان زندگی عیسی مسیح است. شخصیت اصلی فیلم، برایان کوهن که در همان محل زندگی مسیح و در همان زمان به دنیا می‌آید و داستان زندگی‌اش شباهتی طنزآلود به داستان‌های مذهبی دربارهٔ زندگی عیسی دارد. او در دهکده ای با آرامش زندگی می‌کند تا اینکه بر اثر اتفاقی همه خیال می‌کنند که او مسیح است. اما وی مسیح بودنش را تکذیب می‌کند. در نهایت مردم باعث به صلیب کشیده شدن مردی که می‌پندارند مسیح است، می‌شوند...",
+        "director": "Terry Jones",
+        "cast": ["Graham Chapman", "Terry Gilliam", "Michael Palin", "John Cleese"],
+        "imdb": 8.1,
+        "genre": ["کمدی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Monty-Pythons-Life-of-Brian.jpg"
+    },
+    {
+        "name_english": "The Deer Hunter",
+        "name_persian": "شکارچی گوزن",
+        "year": 1978,
+        "story": "فیلم شکارچی گوزن (The Deer Hunter) در گرماگرم جنگ ویتنام مایکل ورونسکی به دنبال دوست خود می‌گردد تا او را به خانه‌اش بازگرداند...",
+        "director": "Michael Cimino",
+        "cast": ["Robert De Niro", "Christopher Walken", "Meryl Streep", "John Cazale"],
+        "imdb": 8.1,
+        "genre": ["درام", "جنگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Deer-Hunter.jpg"
+    }                                                                                                                                                           
     
     
 ]
