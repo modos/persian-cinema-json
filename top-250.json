@@ -1813,7 +1813,150 @@
         "imdb": 8.1,
         "genre": ["تاریخی", "بیوگرافی"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Hotel-Rwanda.jpg"
-    }                                                                                                                   
+    },
+    {
+        "name_english": "Memories of Murder",
+        "name_persian": "خاطرات قتل",
+        "year": 2003,
+        "story": "فیلم خاطرات قتل (Memories of Murder) کره جنوبی، سال ۱۹۸۶. برای دومین بار جسد یک زن، با دست و پای بسته، و در حالی که مورد تجاوز قرار گرفته پیدا می شود. دو کارآگاه پلیس محلی خشن و خیره سر مامور رسیدگی به این پرونده شده و بدون هیچ ترفند خاصی، تنها با شکنجه و بازجویی مظنونین در کارشان جلو می روند. تا اینکه یک کارآگاه حرفه ای از سئول می آید تا به آن دو در تحقیقات کمک کند. بعد از پیدا شدن سومین جسد زن، آن‌ها سرنخ هایی از این قاتل سریالی بدست می آورند...",
+        "director": "Bong Joon Ho",
+        "cast": ["Jae-ho Song", "Kang-ho Song", "Roe-ha Kim", "Sang-kyung Kim"],
+        "imdb": 8.1,
+        "genre": ["جنایی", "اکشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Memories-of-Murder.jpg"
+    },
+    {
+        "name_english": "Kill Bill Vol 1",
+        "name_persian": "بیل را بکش: بخش 1",
+        "year": 2003,
+        "story": "فیلم بیل را بکش بخش ۱ (Kill Bill: Vol. 1) یک عروس بعد از کمای طولانی، بیدار میشود. اثری از بچه ای که قبلا در شکم داشته نیست. تنها چیزی که در ذهن دارد، انتقام گرفتن از تیم قاتلینی است که به او خیانت کردند، تیمی که خودش هم زمانی عضو آن بود....",
+        "director": "Quentin Tarantino",
+        "cast": ["Uma Thurman", "Michael Madsen", "David Carradine", "Daryl Hannah"],
+        "imdb": 8.1,
+        "genre": ["جنایی", "اکشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Kill-Bill-Vol-1.jpg"
+    },
+    {
+        "name_english": "Finding Nemo",
+        "name_persian": "در جستجوی نمو",
+        "year": 2003,
+        "story": "انیمیشن در جستجوی نمو (Finding Nemo) در مورد یک دلقک ماهی به نام مارلین است که در مورد پسرش نمو زیادی حساس است و او را در اقیانوس گم می کند و درپی آن با کمک ماهی به نام دوری به جستجوی نمو می پردازد...",
+        "director": "Andrew Stanton",
+        "cast": ["Willem Dafoe", "Ellen DeGeneres", "Alexander Gould", "Albert Brooks"],
+        "imdb": 8.1,
+        "genre": ["خانوادگی", "انیمیشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Finding-Nemo.jpg"
+    },
+    {
+        "name_english": "Catch Me If You Can",
+        "name_persian": "اگه می تونی منو بگیر",
+        "year": 2002,
+        "story": "فیلم اگه می‌تونی منو بگیر (Catch Me If You Can) «آبیگنل جونیور» با مهارت خاص خود در جعل اسناد، موفق شد میلیون‌ها دلار چک را جعل کرده و خود را به جای افراد مختلفی مطرح کند، اما ...",
+        "director": "Steven Spielberg",
+        "cast": ["Tom Hanks", "Leonardo DiCaprio", "Christopher Walken", "Martin Sheen"],
+        "imdb": 8.1,
+        "genre": ["جنایی", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Catch-Me-If-You-Can.jpg"
+    },
+    {
+        "name_english": "Amores perros",
+        "name_persian": "عشق سگی",
+        "year": 2000,
+        "story": "فیلم عشق سگی (Amores perros) داستان یک تصادف جاده‌ای وحشتناک را روایت می‌کند که زندگی سه نفر را به یکدیگر مرتبط می‌سازد. هر یک از شخصیت‌های این فیلم با کمبودها، افسوس‌ها و واقعیت‌های تلخی دست به گریبان هستند که...",
+        "director": "Alejandro G. Iñárritu",
+        "cast": ["Álvaro Guerrero", "Goya Toledo", "Gael García Bernal", "Emilio Echevarría"],
+        "imdb": 8.1,
+        "genre": ["هیجان انگیز", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Amores-perros.jpg"
+    },
+    {
+        "name_english": "Lagaan",
+        "name_persian": "عشق سگی",
+        "year": 2001,
+        "story": "فیلم خراج (Lagaan: Once Upon a Time in India) در دوران حکومت بریتانیا بر هند می گذرد و زندگی مردم یک روستا را نشان می دهد که به خراج سنگینی که حکومت بر آن ها بسته معترض هستند و حاضر می شوند تا بر روی سرنوشت خود در یک مسابقه کریکت با حاکمان انگلیسیشان شرط بندی کنند...",
+        "director": "Ashutosh Gowariker",
+        "cast": ["Aamir Khan", "Gracy Singh", "Raghuvir Yadav", "Rachel Shelley"],
+        "imdb": 8.1,
+        "genre": ["ماجراجویی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Lagaan.jpg"
+    },
+    {
+        "name_english": "The Sixth Sense",
+        "name_persian": "حس ششم",
+        "year": 2001,
+        "story": "فیلم حس ششم (The Truman Show) کودکی که با ارواح ارتباط دارد، برای رهایی از وضعیت بحرانی خود به نزد یک روانشناس می‌رود و از او درخواست کمک می‌کند، اما...",
+        "director": "M. Night Shyamalan",
+        "cast": ["Bruce Willis", "Haley Joel Osment", "Toni Collette", "Olivia Williams"],
+        "imdb": 8.1,
+        "genre": ["علمی", "درام", "تخیلی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Sixth-Sense.jpg"
+    },
+    {
+        "name_english": "The Truman Show",
+        "name_persian": "نمایش ترومن",
+        "year": 1999,
+        "story": "فیلم نمایش ترومن (The Truman Show) زندگی مردی را نمایش می‌دهد که زندگی اش بدون اطلاع وی به صورت ۲۴ ساعته از شبکهٔ تلویزیونی برای میلیون‌ها نفر در سراسر جهان در حال پخش است. ترومن به واقعیت زندگی خویش شک می‌کند و جهت رسیدن به حقیقت زندگی اش شروع به کاوش می‌کند...",
+        "director": "Peter Weir",
+        "cast": ["Jim Carrey", "Ed Harris", "Noah Emmerich", "Laura Linney"],
+        "imdb": 8.1,
+        "genre": ["علمی", "درام", "تخیلی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Truman-Show.jpg"
+    },
+    {
+        "name_english": "The Big Lebowski",
+        "name_persian": "لبوفسکی بزرگ",
+        "year": 1999,
+        "story": "فیلم لبوفسکی بزرگ (The Big Lebowski) «جف لبوفسکی» که با یک میلیونرِ هم‌نامِ خود اشتباه گرفته‌می‌شود، به دنبالِ این است تا زندگیِ تباه خود را سامان دهد، پس از دوستانش در باشگاه بولینگ می‌خواهد تا او را برای رسیدن به این مقصود یاری کنند...",
+        "director": "Ethan Coen",
+        "cast": ["Jeff Bridges", "Steve Buscemi", "Julianne Moore", "John Goodman"],
+        "imdb": 8.1,
+        "genre": ["فانتزی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Big-Lebowski.jpg"
+    },
+    {
+        "name_english": "In the Mood for Love",
+        "name_persian": "در حال و هوای عشق",
+        "year": 2000,
+        "story": "فیلم در حال و هوای عشق (Faa yeung nin wa) هنگ کنک سال های 1960. اقای چو (تونی لونگ) و خانم چان (مگی چنگ) به تازگی به همسایگی هم در امده اند. همسران انها به دلیل شرایط کاری همیشه در سفراند. اقای چو یک روز خانم چان را به نوشیدنی دعوت می کند، انها از همسرانشان و سفرهایشان صحبت می کنند. هر دوی انها به به نقاط مشترکی در مورد همسرانشان رسیده و به انها مشکوک می شوند، نکند که همسران در سفر با هم در ارتباط باشند اما داستان فقط این نیست و خود این تلاش برای حل معما فصه را وارد مرحله تازه ای میکند اما ...",
+        "director": "Kar-Wai Wong",
+        "cast": ["Maggie Cheung", "Ping Lam Siu", "Tony Chiu-Wai Leung", "Tung Cho Joe Cheung"],
+        "imdb": 8.1,
+        "genre": ["رمانتیک", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/In-the-Mood-for-Love.jpg"
+    },
+    {
+        "name_english": "Fargo",
+        "name_persian": "فارگو",
+        "year": 1996,
+        "story": "فیلم فارگو (Fargo) مارج گاندرسن ، پلیس محلی، زن بارداری است که تحمل، سادگی و رفتار مهربانش، ذکاوتش را پنهان کرده است. وقتی جسد دو سرنشین اتومبیلی در نزدیکی جسد یک پلیس کشف می‌شود، «مارج» این اتفاق را با پرونده دو خلافکار به نام‌های «کارل» و«گیار» کنار هم می‌گذارد و...",
+        "director": "Ethan Coen",
+        "cast": ["Frances McDormand", "Peter Stormare", "William H. Macy", "Steve Buscemi"],
+        "imdb": 8.1,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Fargo.jpg"
+    },
+    {
+        "name_english": "La Haine",
+        "name_persian": " نفرت",
+        "year": 1995,
+        "story": "فیلم نفرت (La haine) در پی بروز یک شورش خشونت‌آمیز در یکی از مناطق فقیرنشین حومه پاریس، زندگی سه مرد جوان مهاجر دستخوش تلاطم‌‌های غیرمنتظره‌ای می‌شود و...",
+        "director": "Mathieu Kassovitz",
+        "cast": ["Vincent Cassel", "Saïd Taghmaoui", "Abdel Ahmed Ghili", "Hubert Koundé"],
+        "imdb": 8.1,
+        "genre": ["جنایی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/La-Haine.jpg"
+    },
+    {
+        "name_english": "Before Sunrise",
+        "name_persian": " پیش از طلوع",
+        "year": 1995,
+        "story": "فیلم پیش از طلوع (Before Sunrise) یک مرد و زن جوان در قطار با یکدیگر آشنا می‌شوند و یک بعد از ظهر را به سیر و سیاحت در شهر وین می‌پردازند. درحالیکه هر دوی آنها می‌دانند، احتمالاً این آخرین دیداری است که با یکدیگر خواهند داشت...",
+        "director": "Richard Linklater",
+        "cast": ["Ethan Hawke", "Andrea Eckert", "Julie Delpy", "Hanno Pöschl"],
+        "imdb": 8.1,
+        "genre": ["رمانتیک", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Before-Sunrise.jpg"
+    }                                                                                                                                                
     
     
 ]
