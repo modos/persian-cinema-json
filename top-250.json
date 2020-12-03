@@ -1074,7 +1074,7 @@
         "director": "Alfred Hitchcock",
         "cast": ["James Stewart", "Barbara Bel Geddes", "Tom Helmore", "Kim Novak"],
         "imdb": 8.3,
-        "genre": ["رازآلود", "عاشقانه"],
+        "genre": ["رازآلود", "رمانتیک"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Vertigo.jpg"
     },
     {
@@ -2099,7 +2099,150 @@
         "imdb": 8.1,
         "genre": ["درام", "جنگی"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Deer-Hunter.jpg"
-    }                                                                                                                                                           
+    },
+    {
+        "name_english": "Rocky",
+        "name_persian": "راکی",
+        "year": 1976,
+        "story": "فیلم راکی (Rocky) مربوط به یک ورزشکار رشته بوکس به نام راکی بالبوآ (با بازی سیلوستر استالونه) با اصالت ایتالیایی در فیلادلفیا، پنسیلوانیا است که نتوانسته بود به قهرمانی برسد. اما شانس به او رو کرد و مسابقه‌ای بین او و قهرمان سنگین‌وزن جهان به نام آپولو کرید (با بازی کارل ویترز و الهام گرفته از شخصیت محمد علی کلی) شکل گرفت که راکی توانست با پشت کار و تلاش، قهرمان را شکست دهد...",
+        "director": "John G. Avildsen",
+        "cast": ["Sylvester Stallone", "Burt Young", "Carl Weathers", "Talia Shire"],
+        "imdb": 8.1,
+        "genre": ["درام", "ورزشی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Rocky.jpg"
+    },
+    {
+        "name_english": "Network",
+        "name_persian": "راکی",
+        "year": 1976,
+        "story": "فیلم شبکه (Network) وقتی به «هوارد بیل» (فینچ)، مفسر خبری کهنه کار شبکه ی تلویزیونیUBS تذکر می دهند که آمار تماشاگران برنامه اش افت کرده، در برنامه ی خبری زنده اش اعلام می کند که در برنامه ی بعدی مغزش را متلاشی خواهد کرد …",
+        "director": "Sidney Lumet",
+        "cast": ["Faye Dunaway", "Peter Finch", "Robert Duvall", "William Holden"],
+        "imdb": 8.1,
+        "genre": ["درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Network.jpg"
+    },
+    {
+        "name_english": "Barry Lyndon",
+        "name_persian": "بری لیندون",
+        "year": 1976,
+        "story": "فیلم بری لیندون (Barry Lyndon) داستان مردی در قرن ۱۸ که در یک خانواده روستایی ساده به دنیا آمده‌است و با مادرش زندگی می‌کند، عاشق دختر عموی خود می‌شود، موفق به ازدواج با او نمی‌شود. به جنگ می‌رود و پس از آن اتفاقات زیادی در زندگی او پیش می‌آید، با یک کنتس بیوه برای ثروت او ازدواج می‌کند و به این وسیله راه ترقی او باز می‌شود...",
+        "director": "Stanley Kubrick",
+        "cast": ["Hardy Krüger", "Marisa Berenson", "Ryan O'Neal", "Patrick Magee"],
+        "imdb": 8.1,
+        "genre": ["تاریخی", "جنگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Barry-Lyndon.jpg"
+    },
+    {
+        "name_english": "Cool Hand Luke",
+        "name_persian": "لوک خوش دست",
+        "year": 1967,
+        "story": "فیلم لوک خوش دست (Cool Hand Luke) لوک جکسون، کهنه سرباز جنگ، چندین دستگاه پارکومتر را می شکند و به دو سال حبس در زندان فلوریدا محکوم میشود...",
+        "director": "Stuart Rosenberg",
+        "cast": ["George Kennedy", "Strother Martin", "Paul Newman", "J.D. Cannon"],
+        "imdb": 8.1,
+        "genre": ["درام", "جنایی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Cool-Hand-Luke.jpg"
+    },
+    {
+        "name_english": "The Battle of Algiers",
+        "name_persian": "نبرد الجزایر",
+        "year": 1967,
+        "story": "فیلم نبرد الجزایر (The Battle of Algiers) در هفتم اکتبر سال ۱۹۵۷. «سرهنگ ماتیو» (مارتن) و سربازان چترباز تحت فرماندهی او، ساختمانی را که «علی» (حجاج)، آخرین رهبر سازمان آزادی بخش الجزایر، در آن مخفی شده، محاصره می کنند. با نزدیک شدن زمان حمله ی سربازان، علی وقایع چند سال گذشته را به یاد می آورد...",
+        "director": "Gillo Pontecorvo",
+        "cast": ["Brahim Hadjadj", "Jean Martin", "Yacef Saadi", "Samia Kerbash"],
+        "imdb": 8.1,
+        "genre": ["درام", "جنگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Battle-of-Algiers.jpg"
+    },
+    {
+        "name_english": "The 400 Blows",
+        "name_persian": "چهارصد ضربه",
+        "year": 1959,
+        "story": "فیلم چهارصد ضربه (The 400 Blows) آنتوان پسری ۱۴ ساله است که مشکلاتی در خانه و مدرسه دارد. برای اینکه از تنبیه فرار کند و دیگر تنبیه نشود، به همراه دوستش «رنه» از مدرسه می‌گریزد و در پاریس سر گردان می‌شود...",
+        "director": "François Truffaut",
+        "cast": ["Albert Rémy", "Claire Maurier", "Jean-Pierre Léaud", "Guy Decomble"],
+        "imdb": 8.1,
+        "genre": ["درام", "جنایی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-400-Blows.jpg"
+    },
+    {
+        "name_english": "Ben Hur",
+        "name_persian": "بن هور",
+        "year": 1959,
+        "story": "فیلم بن هور (Ben-Hur) داستان شاهزاده‌ای به نام جودا بن‌هور است که ناجوانمردانه به جرم سوءقصد به جان فرستاده سزار، توسط دوست رومی‌اش دستگیر و به بردگی و بندگی فرستاده می‌شود و دیگر اعضای خانواده‌اش هم به سیاهچال فرستاده می‌شوند. او پس از عبور از ماجراهای بسیار به وطن خویش بازمی‌گردد تا انتقام گیرد و خواهر و مادرش را رهایی بخشد...",
+        "director": "William Wyler",
+        "cast": ["Charlton Heston", "Haya Harareet", "Stephen Boyd", "Jack Hawkins"],
+        "imdb": 8.1,
+        "genre": ["درام", "تاریخی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Ben-Hur.jpg"
+    },
+    {
+        "name_english": "The Bridge on the River Kwai",
+        "name_persian": "پل رودخانه کوای",
+        "year": 1957,
+        "story": "فیلم پل رودخانه کوای (The Bridge on the River Kwai) کلنل نیکلسون (با بازی الک گینس) و سربازانش (از ارتش انگلستان) در سنگاپور به دست نیروهای ژاپنی اسیر شده و به منطقه ای در تایلند برای ساختن یک پل بر رودخانه کوای فرستاده می شوند. شیرز (با بازی ویلیام هولدن) به عنوان تنها افسر آمریکایی اسارتگاه قصد ندارد با نیروهای انگلیسی اسیر در ساختن پل همراه شود. او برای فرار تلاش می کند، اما ...",
+        "director": "David Lean",
+        "cast": ["Alec Guinness", "Jack Hawkins", "William Holden", "Sessue Hayakawa"],
+        "imdb": 8.1,
+        "genre": ["درام", "جنگی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Bridge-on-the-River-Kwai.jpg"
+    },
+    {
+        "name_english": "On the Waterfront",
+        "name_persian": "در بارانداز",
+        "year": 1957,
+        "story": "فیلم در بارانداز (On the Waterfront) در مورد یک جوان بوکسور است که برای یک باند کار میکند که تمامی تبادلات یک بارانداز را زیر نظر دارند. جوان برای این باند همه کار میکند از قتل تا گوشمالی تا زمانی که با یک دختر جوان آشنا میشود و سعی میکند که از این باند بیرون بیاید، اما...",
+        "director": "Elia Kazan",
+        "cast": ["Marlon Brando", "Karl Malden", "Lee J. Cobb", "Rod Steiger"],
+        "imdb": 8.1,
+        "genre": ["درام", "جنایی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/On-the-Waterfront.jpg"
+    },
+    {
+        "name_english": "The Wages of Fear",
+        "name_persian": "مزد ترس",
+        "year": 1953,
+        "story": "فیلم مزد ترس (The Wages of Fear) داستان شهری در امریکای لاتین که مردم در آن بر دو دسته اند: کارگر یا بیکار، و از این دو گونه بیرون نیست: کارگرانی در پرتو سازمان نفت و بیشینه ای بیکار؛ و در هر دو گونه، مردمانی یکنواخت، با زندگی خسته کننده. تا اینکه یکی از چاه های «نفت» آتش می گیرد و برای خاموش ساختنش نیاز به نیتروگلیسیرین است...",
+        "director": "Henri-Georges Clouzot",
+        "cast": ["Charles Vanel", "Folco Lulli", "Peter van Eyck", "Yves Montand"],
+        "imdb": 8.1,
+        "genre": ["درام", "ماجراجویی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Wages-of-Fear.jpg"
+    },
+    {
+        "name_english": "Rebecca",
+        "name_persian": "ربه کا",
+        "year": 1940,
+        "story": "فیلم ربه‌کا (Rebecca) ندیمه‌ای جوان در مونت کارلو با مرد جوان ثروتمندی به نام ماکسیم دو وینتر که همسرش ربه‌کا را به تازگی از دست داده است آشنا می‌شود. آندو عاشق یکدیگر شده و ازدواج می‌کنند. ماکسیم همسرش را به عمارت باشکوه ماندرلی می‌آورد اما خدمتکاران که هنوز به همسر اول ماکسیم که به طرز مشکوکی جان داده است وفادارند...",
+        "director": "Alfred Hitchcock",
+        "cast": ["George Sanders", "Laurence Olivier", "Judith Anderson", "Joan Fontaine"],
+        "imdb": 8.1,
+        "genre": ["درام", "رازآلود"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Rebecca.jpg"
+    },
+    {
+        "name_english": "Mr Smith Goes to Washington",
+        "name_persian": "آقای اسمیت به واشینگتن می رود",
+        "year": 1939,
+        "story": "فیلم آقای اسمیت به واشینگتن می‌رود (Mr. Smith Goes to Washington) قرار میشود یک مرد ساده لوح جایی در مجلس سنا آمریکا داشته باشد. برنامه های او معمولا برای سیستم فاسد در جریان، مشکل ایجاد میکند و او تحت فشار قرار میگیرد ولی تصمیمی برای کوتاه آمدن ندارد...",
+        "director": "Frank Capra",
+        "cast": ["James Stewart", "Jean Arthur", "Edward Arnold", "Claude Rains"],
+        "imdb": 8.1,
+        "genre": ["درام", "کمدی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Mr-Smith-Goes-to-Washington.jpg"
+    },
+    {
+        "name_english": "Gone with the Wind",
+        "name_persian": "بر باد رفته",
+        "year": 1939,
+        "story": "فیلم بر باد رفته (Gone with the Wind) اسکارلت بزرگ‌ترین دختر جرالد اوهارا صاحب مزرعه پنبه تارا. با فهمیدن اعلام نامزدی و ازدواج اشلی ویلکز پسر مالک مزرعه مجاور با دختر خاله‌اش ملانی همیلتون به فکر ابراز علاقه به اشلی می‌افتد چون فکر می‌کند اشلی به خاطر ناامید شدن از او می‌خواهد ازدواج کند...",
+        "director": "George Cukor",
+        "cast": ["Barbara O'Neil", "Clark Gable", "Vivien Leigh", "Thomas Mitchell"],
+        "imdb": 8.1,
+        "genre": ["رمانتیک", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Gone-with-the-Wind.jpg"
+    }                                                                                                                                                                            
     
     
 ]
