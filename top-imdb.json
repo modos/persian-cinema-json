@@ -506,6 +506,17 @@
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/City-Lights.jpg"
     },
     {
+        "name_english": "The Shining",
+        "name_persian": "درخشش",
+        "year": 1980,
+        "story": "فیلم درخشش (The Shining) خانواده‌ای به عنوان سرایدار به یک هتل در محلی دور افتاده که در تعطیلی زمستانی هست، می روند. در آنجا نیرویی شیطانی روی مرد تاثیر گذاشته و جنون خشونت وی را می گیرد. در حالی که پسرش به خاطر توانایی خاصی که دارد علائمی از اتفاقات وحشتناکی که قبلا در هتل رخ داده را می بیند…",
+        "director": "Stanley Kubrick",
+        "cast": ["Jack Nicholson", "Scatman Crothers", "Shelley Duvall", "Danny Lloyd"],
+        "imdb": 8.4,
+        "genre": ["درام", "ترسناک"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Shining.jpg"
+    },
+    {
         "name_english": "Your Name",
         "name_persian": "اسم تو",
         "year": 2016,
@@ -2242,7 +2253,128 @@
         "imdb": 8.1,
         "genre": ["رمانتیک", "درام"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Gone-with-the-Wind.jpg"
-    }                                                                                                                                                                            
+    },
+    {
+        "name_english": "It Happened One Night",
+        "name_persian": "در یک شب اتفاق افتاد",
+        "year": 1934,
+        "story": "فیلم در یک شب اتفاق افتاد (It Happened One Night) پیتر وارن خبرنگار صاف و ساده‌ای است که با هدف اثبات توانایی‌اش به مدیر نشریه‌ای که او را اخراج کرده دختر فراری مرد ثروتمند شهر را تعقیب می‌کند تا گزارش اختصاصی خود را در موردش بنویسد. «الی اندروز» دختر پرانرژی و کم تجربه‌ای است که در مواجهه با دنیای فرار خود بسیار بی‌دفاع به نظر می‌رسد...",
+        "director": "Frank Capra",
+        "cast": ["Walter Connolly", "Roscoe Karns", "Claudette Colbert", "Clark Gable"],
+        "imdb": 8.1,
+        "genre": ["رمانتیک", "کمدی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/It-Happened-One-Night.jpg"
+    },
+    {
+        "name_english": "The Passion of Joan of Arc",
+        "name_persian": "مصائب ژاندارک",
+        "year": 1928,
+        "story": "فیلم مصائب ژاندارک (The Passion of Joan of Arc) مصائب ژاندارک، روایت درایر از دستگیری، بازجویی و شکنجه، محاکمه و اعدام ژاندارک، دوشیزه اورلیان و قهرمان ملی فرانسوی است که شجاعانه در برابر متجاوزان انگلیسی و دستگاه مذهبی پشتیبان آن‌ها (کلیسا) ایستاد و جانش را در این راه گذاشت و بعد از مرگ، قدیسه خوانده شد...",
+        "director": "Carl Theodor Dreyer",
+        "cast": ["Maurice Schutz", "Maria Falconetti", "Eugene Silvain،", "André Berley"],
+        "imdb": 8.1,
+        "genre": ["تاریخی", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Passion-of-Joan-of-Arc.jpg"
+    },
+    {
+        "name_english": "The General",
+        "name_persian": "مصائب ژاندارک",
+        "year": 1926,
+        "story": "فیلم ژنرال (The General) در زمان جنگ داخلی آمریکا، جانی گری در زندگی اش دو عشق دارد: یکی لوکوموتیوی به نام ژنرال و دیگری دختری به نام آنابل لی. نیروهای نفوذی شمالی ژنرال را می‌دزدند و در حالی که آنابل لی در یکی از واگن‌هایش به جا مانده، آن را به طرف مناطق خودی می‌برند. جانی یک تنه به تعقیب لوکوموتیوش می‌رود تا ژنرال و آنابل لی را نجات دهد و...",
+        "director": "Buster Keaton",
+        "cast": ["Buster Keaton", "Glen Cavender", "Jim Farley", "Marion Mack"],
+        "imdb": 8.1,
+        "genre": ["کمدی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-General.jpg"
+    },
+    {
+        "name_english": "Guardians of the Galaxy",
+        "name_persian": "مصائب ژاندارک",
+        "year": 2014,
+        "story": "فیلم (Guardians of the Galaxy) درباره پنج ابرقهرمان بین کهکشانی است که برای مقابله با یک نیروی شیطانی که قصد نابودی کهکشان را دارد، متحد شده و گروه نگهبانان کهکشان را تشکیل میدهند...",
+        "director": "James Gunn",
+        "cast": ["Bradley Cooper", "Chris Pratt", "Vin Diesel", "Zoe Saldana"],
+        "imdb": 8.1,
+        "genre": ["کمدی", "علمی", "تخیلی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Guardians-of-the-Galaxy.jpg"
+    },
+    {
+        "name_english": "Monsters Inc",
+        "name_persian": "شرکت هیولاها",
+        "year": 2001,
+        "story": "انیمیشن شرکت هیولاها (Monsters, Inc.) در دنیای هیولا ها کارخانه ای است که انرژی دنیای هیولا ها را از صدای جیغ بچه ها موقع ترسیدن تامین میکند سالیوان و مک دو هیولا هستند . و رئیس کارخانه میگوید تماس با کودکان باعث مرگ می شود ،سالیوان بهترین هیولا در ترساندن و تولید انرژی است یک بار که برای ترساندن وارد اتاق کودکی می شوند و کودک نمی ترسد و پنهانی وارد دنیای هیولا ها می شود و باعث اتفاقات جدیدی میشود...",
+        "director": "David Silverman",
+        "cast": ["Steve Buscemi", "Mary Gibbs", "John Goodman", "Billy Crystal"],
+        "imdb": 8.0,
+        "genre": ["خانوادگی", "انیمیشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Monsters-Inc.jpg"
+    },
+    {
+        "name_english": "Aladdin",
+        "name_persian": "شرکت هیولاها",
+        "year": 1992,
+        "story": "انیمیشن علاءالدین (Aladdin) دختر پادشاه (یاسمن) برای فرار از ازدواج اجباری از خانه فرار کرده و علاءالدین را می‌بیند. علاءالدین عاشق او می‌شود و...",
+        "director": "John Musker",
+        "cast": ["Jonathan Freeman", "Scott Weinger", "Robin Williams", "Linda Larkin"],
+        "imdb": 8.0,
+        "genre": ["خانوادگی", "انیمیشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Aladdin.jpg"
+    },
+    {
+        "name_english": "Castle in the Sky",
+        "name_persian": "قصری در آسمان",
+        "year": 1986,
+        "story": "انیمیشن قصری در آسمان (Castle in the Sky) روایتگر تلاش دو نوجوان به نامهای شیتا و پازو برای رسیدن به قلعه‌ای به نام لاپوتا است. قلعه‌ای که باقی‌مانده از سرزمینی معلق در آسمان است که سال‌ها انسان‌ها بر روی آن در آرامش زندگی می‌کردند ولی بر اثر پدیده‌ای ناشناخته مجبور به بازگشت بر روی زمین می‌شوند...",
+        "director": "Hayao Miyazaki",
+        "cast": ["Mayumi Tanaka", "Kotoe Hatsui", "Keiko Yokozawa", "Van Der Beek"],
+        "imdb": 8.0,
+        "genre": ["خانوادگی", "انیمیشن"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Castle-in-the-Sky.jpg"
+    },
+    {
+        "name_english": "The Terminator",
+        "name_persian": "نابودگر 1",
+        "year": 1984,
+        "story": "فیلم نابودگر (The Terminator) کانر فرماندهی انسان ها را در سال 2029 در مقابل ماشین ها بر عهده دارد، پس ماشین ها ربات نابودگری را برای از بین بردن مادر کانر به گذشته می فرستند، اما کایل که او نیز به گذشته فرستاده شده سعی میکند از سارا محافظت کند...",
+        "director": "James Cameron",
+        "cast": ["Arnold Schwarzenegger", "Paul Winfield", "Michael Biehn", "Linda Hamilton"],
+        "imdb": 8.0,
+        "genre": ["علمی", "اکشن", "تخیلی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Terminator.jpg"
+    },
+    {
+        "name_english": "Butch Cassidy and the Sundance Kid",
+        "name_persian": "بوچ کسیدی و ساندنس کید",
+        "year": 1969,
+        "story": "فیلم بوچ کسیدی و سادنس کید (Butch Cassidy and the Sundance Kid) داستان فیلم در مورد دو دزد و راهزن به نامهای «بوچ» و «ساندنس» است که به قطارها دستبرد می‌زنند. اما یکی از سرقت هایشان طبق برنامه پیش نمی‌رود و گروهی از مردان قانون تا دندان مسلح، شروع به تعقیب آن دو می کنند. وقتی آن دو می فهمند که این گروه تصمیم ندارند دست از تعقیب بردارند، تصمیم می گیرند به بولیوی بروند...",
+        "director": "George Roy Hill",
+        "cast": ["Katharine Ross", "Paul Newman", "Robert Redford", "Strother Martin"],
+        "imdb": 8.0,
+        "genre": ["جنایی", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Butch-Cassidy-and-the-Sundance-Kid.jpg"
+    },
+    {
+        "name_english": "Butch Cassidy and the Sundance Kid",
+        "name_persian": "بوچ کسیدی و ساندنس کید",
+        "year": 1969,
+        "story": "فیلم بوچ کسیدی و سادنس کید (Butch Cassidy and the Sundance Kid) داستان فیلم در مورد دو دزد و راهزن به نامهای «بوچ» و «ساندنس» است که به قطارها دستبرد می‌زنند. اما یکی از سرقت هایشان طبق برنامه پیش نمی‌رود و گروهی از مردان قانون تا دندان مسلح، شروع به تعقیب آن دو می کنند. وقتی آن دو می فهمند که این گروه تصمیم ندارند دست از تعقیب بردارند، تصمیم می گیرند به بولیوی بروند...",
+        "director": "George Roy Hill",
+        "cast": ["Katharine Ross", "Paul Newman", "Robert Redford", "Strother Martin"],
+        "imdb": 8.0,
+        "genre": ["جنایی", "بیوگرافی"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Butch-Cassidy-and-the-Sundance-Kid.jpg"
+    },
+    {
+        "name_english": "Gravity",
+        "name_persian": "جاذبه",
+        "year": 2013,
+        "story": "فیلم جاذبه (Gravity) دکتررایان استون در اولین ماموریت فضایی خود برای تعمیر تلسکوپ فضایی هابل، با فضانورد کار کشته ای به نام مت کوالسکی همراه می شود، اما در حین تعمیر خبری اضطراری برای تمام فضانوردان مخابره می شود مبنی بر اینکه...",
+        "director": "Alfonso Cuarón",
+        "cast": ["Sandra Bullock", " George Clooney", "Ed Harris", "Orto Ignatiussen"],
+        "imdb": 7.7,
+        "genre": ["تخیلی", "علمی", "درام"],
+        "thumbnail": "https://modos.github.io/persian-cinema-json/posters/Gravity.jpg"
+    }                                                                                                                                                                                         
     
     
 ]
