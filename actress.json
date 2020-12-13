@@ -8,5 +8,60 @@
                     "About Time", "Terminal"],
         "bio": "مارگو الیس رابی‎ بازیگر و تهیه‌کننده سینما و تلویزیون اهل استرالیا است. او در فیلم‌هایی نظیر دربارهٔ زمان، گرگ وال استریت، تمرکز، افسانه تارزان، من تونیا هستم، روزی روزگاری در هالیوود، و شخصیت هارلی کوئین در دنیای توسعه‌یافته دی‌سی شامل جوخه انتحار (۲۰۱۶) و پرندگان شکاری (۲۰۲۰) ایفای نقش کرده‌است. او تا کنون نامزد دو جایزه اسکار و پنج جایزه بفتا شده‌است. مارگو رابی در سال ۲۰۱۶ با تام آکرلی ازدواج کرد. در سال ۲۰۱۷، مجلهٔ تایم وی را جزوه یکی از ۱۰۰ فرد تأثیرگذار در جهان معرفی کرد، و در سال ۲۰۱۹، او در بین فهرست پردرآمدترین بازیگران زن جهان قرار گرفت. مارگو رابی تاکنون موفق به کسب جایزه اسکار نشده‌است.",            
         "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Margot-Robbie.jpg"
+    },
+    {
+        "name_english": "Scarlett Johansson",
+        "name_persian": "اسکارلت جوهانسون",
+        "birth_year": 1984,
+        "movies": ["The Avengers", "Lucy", "Marriage Story",
+                   "Ghost in the Shell", "Jojo Rabbit", "Her", "Don Jon", "Match Point",
+                    "Rough Night", "Lost in Translation"],
+        "bio": "اسکارلت جوهانسون یا اسکارلت یوهانسون متولد 22 نوامبر 1984 در نیویورک، بازیگر و مدل آمریکایی- دانمارکی است. مادرش ملانی سولان، بازیگر و تهیه کننده از خانواده ای یهودی اهل محله‌ی برانکس نیویورک است و پدرش، کارستن جوهانسون، معمار و اهل کپنگهام دانمارک است. آن‌ها 13 سال پس از به دنیا آمدن اسکارلت از یکدیگر جدا شدند. پدر بزرگ پدری اسکارلت، انجر، فیلم‌نامه نویس بود که در سال 2001 از دنیا رفت.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Scarlett-Johansson.jpg"
+    },
+    {
+        "name_english": "Ana de Armas",
+        "name_persian": "آنا د آرماس",
+        "birth_year": 1988, 
+        "movies": ["Knives Out", "Blade Runner 2049", "Knock Knock",
+                   "No Time to Die", "Ward Dogs", "Hands of Stone", "Sergio"],
+        "bio": "آنا دِ آرماس با نام کامل آنا سلیا د آرماس کاسو (Ana Celia de Armas Caso) متولد 30 آپریل 1988 در کوبا، بازیگر است. پدرش رامون، با رشته‌ی فلسفه از دانشگاه شوروی فارغ‌التحصیل شد و شغل‌های مختلفی از جمله معلمی و متصدی بانک داشته است.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Ana-de-Armas.jpg"
+    },
+    {
+        "name_english": "Gal Gadot",
+        "name_persian": "گل گدوت",
+        "birth_year": 1985, 
+        "movies": ["Wonder Woman", "Justice League", "Fast & Furious",
+                   "Fast Five", "Batman v Superman", "Keeping Up with the Joneses"],
+        "bio": "گل گدوت (Gal Gadot) بازیگر و مدل اسرائیلی متولد 30 آوریل 1985 است. به زبان عبری، نام او به معنای «موج» و نام خانوادگی اش به معنای «کرانه رودخانه» است. مادرش معلم و پدرش مهندس است. پدرش اصالتا اسرائیلی است و خانواده مادری اش از بازماندگان آشوویتس هستند.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Gal-Gadot.jpg"
+    },
+    {
+        "name_english": "Charlize Theron",
+        "name_persian": "شارلیز ترون",
+        "birth_year": 1975, 
+        "movies": ["Mad Max: Fury Road", "Atomic Blonde", "The Old Guard",
+                   "Monster", "Bombshell", "Long Shot"],
+        "bio": "شارلیز ترون به انگلیسی Charlize Theron متولد 7 اوت 1975 بازیگر و تهیه‌کننده آفریقای جنوبی-آمریکایی است. کودکی او در ژوهانسبورگ و در مزرعه پدر اش گذشته است. او از کودکی یادگیری رقص باله را شروع کرد و در آن موفق بود تا اینکه در اثر آسیب دیدگی آن را کنار گذاشت.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Charlize-Theron.jpg"
+    },
+    {
+        "name_english": "Cate Blanchett",
+        "name_persian": "کیت بلانشت",
+        "birth_year": 1969, 
+        "movies": ["Carol", "Blue Jasmine", "The Aviator",
+                   "Hanna", "Ocean's 8", "The Curious Case of Benjamin Button"],
+        "bio": "کیت بلانشت (Cate Blanchett) بازیگر، نویسنده و تهیه‌کننده استرالیایی متولد 14 می 1969 در ملبورن است. مادرش «جون»، معلم استرالیایی و پدرش «رابرت»، اهل تگزاس و از افسران نیروی دریایی آمریکا بوده که بعدها در عرصه تبلیغات مشغول به کار شد.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Cate-Blanchett.jpg"
+    },
+    {
+        "name_english": "Natalie Portman",
+        "name_persian": "ناتالی پورتمن",
+        "birth_year": 1981, 
+        "movies": ["Black Swan", "Leon the Professional", "V for Vendetta",
+                   "Annihiation", "Jackie", "No Strings Attached"],
+        "bio": "ناتالی پورتمن (Natalie Portman)، با نام اصلی ناتالی هرشلاگ، متولد 9 ژوئن 1981 بازیگر، تهیه‌کننده و کارگردان آمریکایی-اسرائیلی سینما و تلویزیون است.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Natalie-Portman.jpg"
     }
 ]
