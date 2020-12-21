@@ -63,5 +63,95 @@
                    "Annihiation", "Jackie", "No Strings Attached"],
         "bio": "ناتالی پورتمن (Natalie Portman)، با نام اصلی ناتالی هرشلاگ، متولد 9 ژوئن 1981 بازیگر، تهیه‌کننده و کارگردان آمریکایی-اسرائیلی سینما و تلویزیون است.",            
         "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Natalie-Portman.jpg"
+    },
+    {
+        "name_english": "Chloë Grace Moretz",
+        "name_persian": "کلویی گریس مورتز",
+        "birth_year": 1997, 
+        "movies": ["Hugo", "Kick Ass", "The 5th Wave",
+                   "Let Me In", "Neighbors 2: Sorority Rising"],
+        "bio": "کلویی گریس مورتز(Chloë Grace Moretz) بازیگر آمریکایی متولد 10 فوریه 1997 است. در سن 7 سالگی برای اولین بار نامزد دریافت جایزه هنرمند جوان برای اجرای بهترین نقش کودک در فیلم «آمیتی‌ویل هارور» شد. «جک و لوبیای سحرآمیز»، «سایه های سیاه» و «هوگو» از فیلم های این بازیگر هستند.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Chloë-Grace-Moretz.jpg"
+    },
+    {
+        "name_english": "Amber Heard",
+        "name_persian": "امبر هرد",
+        "birth_year": 1986, 
+        "movies": ["Aquaman", "The Rum Diary", "Justice League",
+                   "3 Days to Kill", "Drive Angry", "London Fields"],
+        "bio": "امبر هرد (Amber Heard) بازیگر و تهیه کننده آمریکایی متولد 22 آوریل 1986 است. مادرش پاتریشیا هرد محقق و پدرش دیوید هرد پیمانکار است. او برای وارد شدن به صنعت مدلینگ مدرسه را ترک کرد و اولین کارش حضور در دو موزیک ویدیو بود. پس از ترک مدرسه در خانه درس خواند و دیپلم گرفت.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Amber-Heard.jpg"
+    },
+    {
+        "name_english": "Angelina Jolie",
+        "name_persian": "آنجلینا جولی",
+        "birth_year": 1975, 
+        "movies": ["Maleficent", "Mr. & Mrs. Smith", "Lara Craft: Tomb Raider",
+                   "Wanted", "Changeling", "Salt", "The Tourist"],
+        "bio": "آنجلینا جولی به انگلیسی Angelina Jolie متولد 4 ژوئن 1975 بازیگر، کارگردان و نیکوکار اهل ایالات متحده آمریکا است. او را با نام های «انجی» و «ای جی» صدا می کنند. پدرش جان ویت بازیگر برنده اسکار و مادرش مارچلین برتراند بازیگر امریکایی است.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Angelina-Jolie.jpg"
+    },
+    {
+        "name_english": "Jessica Chastain",
+        "name_persian": "جسیکا چستین",
+        "birth_year": 1977, 
+        "movies": ["Molly's Game", "Ava", "The Help",
+                   "It: Chapter 2", "Zero Dark Thirty", "Salt"],
+        "bio": "جسیکا میشل چَستِین (Jessica Michelle Chastain) بازیگر و تهیه کننده آمریکایی متولد 24 مارس 1977 است. او در خانواده ای متوسط در ساکرامنتو کالیفرنیا بزرگ شد. مادرش «جری» یک سرآشپز وگان است و یک ناپدری دارد که آتشنشان است. از کودکی به رقص علاقمد بود و در سن 9 سالگی شروع به یادگیری آن کرد و در سن 13 سالگی عضو یه گروه رقص بود.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Jessica-Chastain.jpg"
+    },
+    {
+        "name_english": "Emily Blunt",
+        "name_persian": "امیلی بلانت",
+        "birth_year": 1983, 
+        "movies": ["A Quiet Place", "The Devils Wear Prada", "Marry Poppins Returns",
+                   "Edge of Tomorrow", "Sicario"],
+        "bio": "امیلی بلانت به انگلیسی Emily Blunt متولد 23 فوریه 1983 بازیگر انگلیسی امریکایی و برنده جایزه گلدن گلوب بهترین بازیگر نقش مکمل زن برای بازی در فیلم دختر گیدون است.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Emily-Blunt.jpg"
+    },
+    {
+        "name_english": "Kristen Stewart",
+        "name_persian": "کریستن استوارت",
+        "birth_year": 1990, 
+        "movies": ["Twilight", "Charlie's Angels", "Snow Wight and the Huntsman",
+                   "Underwater", "Panic Room"],
+        "bio": "کریستن جیمز استوارت به انگلیسی Kristen Jaymes Stewart متولد 9 آوریل 1990 بازیگر آمریکاییِ سینما و تلویزیون و متولد یک خانوادهٔ فیلم گرا است. شروع حرفه بازیگری استوارت در سال 1999 با نقش‌های ناشناس و شخصیت‌های فرعی در چندین فیلم بود و این موضوع مربوط به قبل از به دست آوردن شهرت در سال 2002 به خاطر بازی در نقشِ دختر جودی فاستر در تریلر اتاقِ وحشت بود که برای او نامزدیِ دریافت جایزهٔ بهترین بازیگر نقشِ مُکمل زنِ پیشرو در یک فیلم سینمایی را به ارمغان آورد.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Kristen-Stewart.jpg"
+    },
+    {
+        "name_english": "Kate Winslet",
+        "name_persian": "کیت وینسلت",
+        "birth_year": 1975, 
+        "movies": ["Titanic", "The Reader", "Ammonite",
+                   "Little Children", "The Holiday", "The Dressmaker"],
+        "bio": "کِیت وینسْلِت به انگلیسی Kate Winsletمتوسط 5 اکتبر 1975 بازیگر انگلستانی است. او برنده جایزه اسکار، جایزه امی، جایزه گلدن گلوب و جایزه گرمی است. وینست اولین حضور بلند سینمایی اش فیلم «موجودات آسمانی»(1994) بود که برای بازی در این فیلم مورد توجه و ستایش بسیاری قرار گرفت. او جوان ترین فردی است که شش بار نامزد جایزه اسکار شده است.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Kate-Winslet.jpg"
+    },
+    {
+        "name_english": "Dakota Johnson",
+        "name_persian": "داکوتا جانسون",
+        "birth_year": 1989, 
+        "movies": ["Fifty Shades of Gray", "Suspiria", "How to Be Single",
+                   "The High Note", "Bad Times at El Royale", "Black Mass"],
+        "bio": "داکوتا جانسون (Dakota Johnson) بازیگر و تهیه کننده آمریکایی متولد 4 اکتبر 1989 است. او را بیشتر برای بازی در فیلم «50 طیف گری» می شناسند. او همچنین در فیلم های «شبکه اجتماعی»، «خیابان جامپ شماره 21»، «عشای ربانی سیاه» و «حیوان صفت» نقش آفرینی کرده است.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Dakota-Johnson.jpg"
+    },
+    {
+        "name_english": "Cara Delevingne",
+        "name_persian": "داکوتا جانسون",
+        "birth_year": 1992, 
+        "movies": ["Paper Towns", "Pan", "Kids in Love",
+                   "Suicide Squad", "Valerian and the City of a Thousand Planets"],
+        "bio": "کارا دلوین به انگلیسی Cara Delevingne متولد 12 اوت 1992، مدل و بازیگر انگلیسی است. او نوه رئیس پیشین کمپانی English Heritage، سِر جوزلین استیونز است.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Cara-Delevingne.jpg"
+    },
+    {
+        "name_english": "Elizabeth Olsen",
+        "name_persian": "الیزابت اولسن",
+        "birth_year": 1989, 
+        "movies": ["Avengers: End Game", "Avengers: Infinity War", "Old Boy",
+                   "Wind River"],
+        "bio": "الیزابت چیس لیزی اولسن به انگلیسی Elizabeth Chase Lizzie Olsen متولد 16 فوریه 1989 بازیگر آمریکایی با نام هنری الیزابت اولسن است. الیزابت اولسن، خواهر کوچکتر مری کیت اولسن و اشلی اولسن، بازیگران و طراحان مد است.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Elizabeth-Olsen.jpg"
     }
 ]

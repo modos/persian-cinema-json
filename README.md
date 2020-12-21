@@ -1,5 +1,7 @@
 Free & Simple Hollywood Json for Non-commercial Purposes
 
+Donate : https://idpay.ir/modos
+
 <h3>EndPoints</h3>
 <h5>Actresses:</h5>
 https://modos.github.io/persian-cinema-json/actress.json
@@ -20,7 +22,7 @@ object's structure:
 <h5>Top IMDB Movies:</h5>
 https://modos.github.io/persian-cinema-json/top-imdb.json
 
-return list of top imdb movies ( almost 250 )
+return list of top imdb movies
 
 object's structure:
 <pre>{
