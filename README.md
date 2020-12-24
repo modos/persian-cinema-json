@@ -2,8 +2,8 @@ Free & Simple Hollywood Json for Non-commercial Purposes
 
 Donate : https://idpay.ir/modos
 
-<h3>EndPoints</h3>
-<h5>Actresses:</h5>
+<h2>EndPoints</h2>
+<h3>Actresses:</h3>
 https://modos.github.io/persian-cinema-json/actress.json
 
 return list of female acts in json format
@@ -19,7 +19,7 @@ object's structure:
         "bio": "مارگو الیس رابی‎ بازیگر و تهیه‌کننده سینما و تلویزیون اهل استرالیا است. او در فیلم‌هایی نظیر دربارهٔ زمان، گرگ وال استریت، تمرکز، افسانه تارزان، من تونیا هستم، روزی روزگاری در هالیوود، و شخصیت هارلی کوئین در دنیای توسعه‌یافته دی‌سی شامل جوخه انتحار (۲۰۱۶) و پرندگان شکاری (۲۰۲۰) ایفای نقش کرده‌است. او تا کنون نامزد دو جایزه اسکار و پنج جایزه بفتا شده‌است. مارگو رابی در سال ۲۰۱۶ با تام آکرلی ازدواج کرد. در سال ۲۰۱۷، مجلهٔ تایم وی را جزوه یکی از ۱۰۰ فرد تأثیرگذار در جهان معرفی کرد، و در سال ۲۰۱۹، او در بین فهرست پردرآمدترین بازیگران زن جهان قرار گرفت. مارگو رابی تاکنون موفق به کسب جایزه اسکار نشده‌است.",            
         "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Margot-Robbie.jpg"
     }</pre>
-    <h5>Actors:</h5>
+<h3>Actors:</h3>
 https://modos.github.io/persian-cinema-json/actor.json
 
 return list of actors
@@ -36,7 +36,7 @@ object's structure:
     }</pre>
 
 
-<h5>Top IMDB Movies:</h5>
+<h3>Top IMDB Movies:</h3>
 https://modos.github.io/persian-cinema-json/top-imdb.json
 
 return list of top imdb movies
@@ -53,4 +53,3 @@ object's structure:
         "genre": ["درام"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Shawshank-Redemption.jpg"
     }</pre>
-    
