@@ -19,6 +19,23 @@ object's structure:
         "bio": "مارگو الیس رابی‎ بازیگر و تهیه‌کننده سینما و تلویزیون اهل استرالیا است. او در فیلم‌هایی نظیر دربارهٔ زمان، گرگ وال استریت، تمرکز، افسانه تارزان، من تونیا هستم، روزی روزگاری در هالیوود، و شخصیت هارلی کوئین در دنیای توسعه‌یافته دی‌سی شامل جوخه انتحار (۲۰۱۶) و پرندگان شکاری (۲۰۲۰) ایفای نقش کرده‌است. او تا کنون نامزد دو جایزه اسکار و پنج جایزه بفتا شده‌است. مارگو رابی در سال ۲۰۱۶ با تام آکرلی ازدواج کرد. در سال ۲۰۱۷، مجلهٔ تایم وی را جزوه یکی از ۱۰۰ فرد تأثیرگذار در جهان معرفی کرد، و در سال ۲۰۱۹، او در بین فهرست پردرآمدترین بازیگران زن جهان قرار گرفت. مارگو رابی تاکنون موفق به کسب جایزه اسکار نشده‌است.",            
         "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Margot-Robbie.jpg"
     }</pre>
+    <h5>Actors:</h5>
+https://modos.github.io/persian-cinema-json/actor.json
+
+return list of actors
+
+object's structure:
+<pre>{
+        "name_english": "Jake Gyllenhaal",
+        "name_persian": "جیک جیلنهال",
+        "birth_year": 1980,
+        "movies": ["NightCrawler", "Donnie Darko", "Brokeback Mountain",
+                   "Prisoners", "Southpaw"],
+        "bio": "جیک جیلنهال (Jake Gyllenhaal) بازیگر آمریکایی متولد 19 نوامبر 1980 است. او پسر کارگردان، استیون جیلنهال و نمایشنامه‌نویس، ناومی فومر است و بازیگری را از سن 10 سالگی شروع کرده است. او از زمانی که اولین نقش اصلی‌اش در سال 1999 در فیلمی به نام آسمان اکتبر بازی کرد، در نقش‌های متفاوتی ظاهر شده. در سال 2001 در فیلم دانی دارکو نقش یک نوجوان روان‌پریش را بازی کرد.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Jake-Gyllenhaal.jpg"
+    }</pre>
+
+
 <h5>Top IMDB Movies:</h5>
 https://modos.github.io/persian-cinema-json/top-imdb.json
 
@@ -36,3 +53,4 @@ object's structure:
         "genre": ["درام"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Shawshank-Redemption.jpg"
     }</pre>
+    

@@ -1,0 +1,29 @@
+[
+    {
+        "name_english": "Robert Pattinson",
+        "name_persian": "رابرت پتینسون",
+        "birth_year": 1986,
+        "movies": ["Twillight", "The Batman", "Tenet",
+                   "The Lighthouse", "The Devil All the Time", "Cosmopolis", "Water for Elephants"],
+        "bio": "رابرت پتینسون (Robert Pattinson) با نام کامل Robert Douglas Thomas Pattinson متولد 13 می 1986 در لندن بازیگر، مدل، نوازنده و تهیه کننده انگلیسی است. مادرش، کلر در آژانس مدل کار می‌کرد و پدرش، ریچارد به واردات ماشین از کشور آمریکا مشغول بود. او به همراه دو خواهر بزرگترش، لیزی و ویکتوریا در بارنز واقع در جنوب غربی لندن بزرگ شد.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Robert-Pattinson.jpg"
+    },
+    {
+        "name_english": "Chris Hemsworth",
+        "name_persian": "کریس همسورث",
+        "birth_year": 1983,
+        "movies": ["Avengers: End Game", "Thor: Ragnarok", "Extraction",
+                   "Thor", "Men In Black: International", "Bad Times at The El Royale", "12 Strong"],
+        "bio": "کریس هِمسوُرث به انگلیسی Chris Hemsworth، متولد 11 اوت 1983 در ملبورن و بازیگر استرالیایی است که در فیلم‌هایی همچون ثور و انتقام‌جویان و همچنین با نقشی کوتاه در فیلم کابین در جنگل بازی کرده است. او همچنین در فیلم ثور: راگناروک که ادامه ثور (فیلم) و ثور: دنیای تاریک می‌باشد نیز ایفای نقش می‌کند.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Chris-Hemsworth.jpg"
+    },
+    {
+        "name_english": "Jake Gyllenhaal",
+        "name_persian": "جیک جیلنهال",
+        "birth_year": 1980,
+        "movies": ["NightCrawler", "Donnie Darko", "Brokeback Mountain",
+                   "Prisoners", "Southpaw"],
+        "bio": "جیک جیلنهال (Jake Gyllenhaal) بازیگر آمریکایی متولد 19 نوامبر 1980 است. او پسر کارگردان، استیون جیلنهال و نمایشنامه‌نویس، ناومی فومر است و بازیگری را از سن 10 سالگی شروع کرده است. او از زمانی که اولین نقش اصلی‌اش در سال 1999 در فیلمی به نام آسمان اکتبر بازی کرد، در نقش‌های متفاوتی ظاهر شده. در سال 2001 در فیلم دانی دارکو نقش یک نوجوان روان‌پریش را بازی کرد.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Jake-Gyllenhaal.jpg"
+    }
+]
