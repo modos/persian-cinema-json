@@ -25,5 +25,41 @@
                    "Prisoners", "Southpaw"],
         "bio": "جیک جیلنهال (Jake Gyllenhaal) بازیگر آمریکایی متولد 19 نوامبر 1980 است. او پسر کارگردان، استیون جیلنهال و نمایشنامه‌نویس، ناومی فومر است و بازیگری را از سن 10 سالگی شروع کرده است. او از زمانی که اولین نقش اصلی‌اش در سال 1999 در فیلمی به نام آسمان اکتبر بازی کرد، در نقش‌های متفاوتی ظاهر شده. در سال 2001 در فیلم دانی دارکو نقش یک نوجوان روان‌پریش را بازی کرد.",            
         "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Jake-Gyllenhaal.jpg"
+    },
+    {
+        "name_english": "Ryan Gosling",
+        "name_persian": "رایان گاسلینگ",
+        "birth_year": 1980,
+        "movies": ["La La Land", "The Notebook", "Drive",
+                   "Blade Runner 2049", "Crazy,Stupid,Love"],
+        "bio": "رایان توماس گاسلینگ (به انگلیسی: Ryan Thomas Gosling) متولد 12 نوامبر 1980و یک هنرپیشه و موزیسین کانادایی است. گاسلینگ کار خود را در کودکی با تست خوانندگی در یک مسابقه استعداد یابی آغاز کرد. وی سپس برای بازی در سری تلویزیونی « The Mickey Mouse Club » تست هنرپیشگی داد و با اینکه تعداد متقاضیان بسیار زیاد بود، موفق شد تا در این تست پذیرفته شود و به مدت 2 سال درا ین برنامه حضور پیدا کند.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Ryan-Gosling.jpg"
+    },
+    {
+        "name_english": "Johnny Depp",
+        "name_persian": "جانی دپ",
+        "birth_year": 1963,
+        "movies": ["Pirates of the Caribbean", "Fantastic Beasts and Where to Find Them", "Edward Scissorhands",
+                   "Charlie and the Chocolate Factory", "Sweeney Todd: The Demon Barber of Fleet Street"],
+        "bio": "جانی دپ با نام کامل جان کریستوفر جانی دپ دوم به انگلیسی John Christopher Johnny Depp II متولد 9 ژوئن 1963 بازیگر، تهیه‌کننده، موسیقی‌دان، فیلم‌نامه‌نویس و کارگردان آمریکایی‌ است.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Johnny-Depp.jpg"
+    },
+    {
+        "name_english": "Hugh Jackman",
+        "name_persian": "هیو جکمن",
+        "birth_year": 1968,
+        "movies": ["X-Men", "The Wolverine", "Logan",
+                   "The Greatest Showman", "Prisoners"],
+        "bio": "هیو جکمن به انگلیسی Hugh Jackman متولد 12 اکتبر 1968 بازیگر و تهیه‌کننده استرالیایی است. والدین او اهل انگلستان بودند که به استرالیا سفر کرده و جکمن در آنجا به دنیا آمد. او بیشتر برای بازی طولانی مدتش در نقش ولورین در سری فیلم‌های مردان اکس شهرت دارد.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Hugh-Jackman.jpg"
+    },
+    {
+        "name_english": "Jared Leto",
+        "name_persian": "جرد لتو",
+        "birth_year": 1971,
+        "movies": ["Suicide Squad", "Dallas Buyers Club", "Requiem for a Dream",
+                   "American Psycho", "Mr. Nobody"],
+        "bio": "جرد لتو (Jared Leto) با نام کامل جرد جوزف برایانت (Jared Joseph Bryant) بازیگر، کارگردان و تهیه‌کننده آمریکایی متولد 26 دسامبر 1971 در لوئیزیانای آمریکا می‌باشد. او یکی از چهره‌های شناخته‌شده در فیلم‌های تاریخی اخیر است و علاوه بر کار در سینما، در گروه موسیقی راک «سی ثانیه تا مریخ» (Thirty Seconds to Mars) به همراه برادرش شنون لتو فعالیت می‌کند.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Jared-Leto.jpg"
     }
 ]

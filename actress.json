@@ -153,5 +153,14 @@
                    "Wind River"],
         "bio": "الیزابت چیس لیزی اولسن به انگلیسی Elizabeth Chase Lizzie Olsen متولد 16 فوریه 1989 بازیگر آمریکایی با نام هنری الیزابت اولسن است. الیزابت اولسن، خواهر کوچکتر مری کیت اولسن و اشلی اولسن، بازیگران و طراحان مد است.",            
         "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Elizabeth-Olsen.jpg"
+    },
+    {
+        "name_english": "Priyanka Chopra",
+        "name_persian": "پریانکا چوپرا",
+        "birth_year": 1982, 
+        "movies": ["Quantico", "Baywatch", "Isn't It Romantic",
+                   "Fashion"],
+        "bio": "پریانکا چوپرا به انگلیسی Priyanka Chopra و به هندی प्रियंका चोपड़ा بازیگر، خواننده و مدل متولد 18 جولای 1982 در شهر جمشیدپور در کشور هند به دنیا آمد.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actresses/Priyanka-Chopra.jpg"
     }
 ]

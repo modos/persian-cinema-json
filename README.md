@@ -53,3 +53,7 @@ object's structure:
         "genre": ["درام"],
         "thumbnail": "https://modos.github.io/persian-cinema-json/posters/The-Shawshank-Redemption.jpg"
     }</pre>
+
+منابع:
+سلام سینما
+آپ تی وی
