@@ -61,5 +61,50 @@
                    "American Psycho", "Mr. Nobody"],
         "bio": "جرد لتو (Jared Leto) با نام کامل جرد جوزف برایانت (Jared Joseph Bryant) بازیگر، کارگردان و تهیه‌کننده آمریکایی متولد 26 دسامبر 1971 در لوئیزیانای آمریکا می‌باشد. او یکی از چهره‌های شناخته‌شده در فیلم‌های تاریخی اخیر است و علاوه بر کار در سینما، در گروه موسیقی راک «سی ثانیه تا مریخ» (Thirty Seconds to Mars) به همراه برادرش شنون لتو فعالیت می‌کند.",            
         "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Jared-Leto.jpg"
+    },
+    {
+        "name_english": "Al Pacino",
+        "name_persian": "آل پاچینو",
+        "birth_year": 1940,
+        "movies": ["The Godfather", "Scarface", "The Irishman",
+                   "Scent of a Woman", "Heat", "Dog Day Afternoon", "Serpico"],
+        "bio": "آلفردو جیمز «اَل» پاچینو به انگلیسی Al Pacino، متولد 25 آوریل 1940، بازیگر و کارگردان آمریکایی است. وی بیشتر برای شیوه بازیگری سبک متد، پرشور و برون گرا خود و با بازی در سه‌گانه پدرخوانده و فیلم‌های بعد از ظهر سگی، بوی خوش زن و صورت زخمی شناخته می‌شود.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Al-Pacino.jpg"
+    },
+    {
+        "name_english": "Christian Bale",
+        "name_persian": "کریستین بیل",
+        "birth_year": 1974,
+        "movies": ["Batman Begins", "The Dark Night", "American Psycho",
+                   "The Machinist", "The Fighter", "Ford V Ferrari", "American Hustle"],
+        "bio": "کریستین بیل به انگلیسی Christian Bale متولد 30 ژانویه 1974 بازیگر انگلیسی است. نام کامل او کریستین چارلز فیلیپ بیل است. بیل هنگامی که در 13 سالگی در نقش اول فیلم امپراطوری خورشید استیون اسپیلبرگ بازی کرد، توجهات را به خود جلب کرد.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Christian-Bale.jpg"
+    },
+    {
+        "name_english": "Heath Ledger",
+        "name_persian": "هیث لجر",
+        "birth_year": 1979,
+        "movies": ["The Dark Night", "Brokeback Mountain", "10 Things I Hate About You",
+                   "A Knight's Tale", "The Patriot"],
+        "bio": "هیث لجر(Heath Ledger) بازیگر و کارگردان استرالیایی متولد 4 آوریل 1979 است. او برای بازی در «کوهستان بروکبک2005» نامزد اسکار، گلدن گلوب و بفتا شد و در «شوالیه تاریکی2008» برنده گلدن گلوب و اسکار بازیگر نقش مکمل شد که فرصت دریافت آن را پیدا نکرد. او در 28 ژانویه 2008 و در سن 28 سالگی در نیویورک از دنیا رفت.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Heath-Ledger.jpg"
+    },
+    {
+        "name_english": "Brad Pitt",
+        "name_persian": "برد پیت",
+        "birth_year": 1963,
+        "movies": ["Once Upon A Time In Hollywood", "Fight Club", "Inglourious Basterds",
+                   "Seven", "Ocean's Eleven"],
+        "bio": "برد پیت به انگلیسی Brad Pitt متولد 18 دسامبر 1963، بازیگر و تهیه کننده آمریکایی است. او تاکنون پنج بار نامزد دریافت جایزه اسکار و جایزه گلدن گلوب و یک‌ بار برنده جایزه گلدن گلوب شده است. مادرش مشاور مدرسه و پدرش مدیر کمپانی کامیون است.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Brad-Pitt.jpg"
+    },
+    {
+        "name_english": "Leonardo DiCaprio",
+        "name_persian": "لئوناردو دی‌کاپریو",
+        "birth_year": 1974,
+        "movies": ["Once Upon A Time In Hollywood", "Titanic", "The Wolf of Wall Street",
+                   "The Revenant", "Django Unchained", "The Great Gatsby"],
+        "bio": "لئوناردو ویلهلم دی‌کاپریو ( Leonardo Wilhelm DiCaprio ) بازیگر، تهیه کننده و نویسنده آمریکایی است. نام مستعار او لئو و لنی دی است. پدرش جورج دی کاپریو، تهیه کننده و نویسنده کمیک بود. مادرش یکسال پس از به دنیا آمدن لئوناردو از پدرش جدا شد و در سال 2008 در سن 93 سالگی درگذشت.",            
+        "thumbnail": "https://modos.github.io/persian-cinema-json/actors/Leonardo-DiCaprio.jpg"
     }
 ]
